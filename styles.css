@@ -27,6 +27,10 @@ h2 {
   font-weight: lighter;
 }
 
+h3 {
+  opacity: 0.75;
+}
+
 a {
   text-decoration: none;
   color: #8C7051;
@@ -42,6 +46,21 @@ a:visited {
 a:hover {
   color: #47682C;
   border-bottom-color: #47682C;
+}
+
+h3 a {
+  color: #999;
+  border-bottom-color: #999;
+}
+
+h3 a:visited {
+  color: #666;
+  border-bottom-color: #666;
+}
+
+h3 a:hover {
+  color: #ccc;
+  border-bottom-color: #ccc;
 }
 
 li + li {
