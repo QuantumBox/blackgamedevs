@@ -29,19 +29,23 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #28502E;
-  border-bottom: 1px solid #28502E;
+  color: #8C7051;
+  border-bottom: 1px solid #8C7051;
   font-weight: bold;
 }
 
 a:visited {
-  color: #8C7051;
+  color: #28502E;
   border-bottom: none;
 }
 
 a:hover {
   color: #47682C;
   border-bottom-color: #47682C;
+}
+
+li + li {
+  margin-top: .75em;
 }
 
 .main {
