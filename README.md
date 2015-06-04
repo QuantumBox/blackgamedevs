@@ -1,5 +1,5 @@
 # Black Game Developers
-A list of Black game developers.
+A list of Black game developers. Here they are. Hire them. Buy their stuff.
 
 ##Want to add someone to the list?
 You can either:
