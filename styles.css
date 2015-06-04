@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Poppins:300,400,700|Martel:400,700);
+
+body {
+  margin: 0 auto;
+  padding: 50px 20px 20px;
+  font-family: Martel;
+
+  background-color: #111;
+  color:#FFF;
+
+  max-width:900px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Poppins";
+  color: #EF3054;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: 3em;
+  line-height:.95em;
+}
+
+h2 {
+  margin-top: .5em;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: #28502E;
+  border-bottom: 1px solid #28502E;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #8C7051;
+  border-bottom: none;
+}
+
+a:hover {
+  color: #47682C;
+  border-bottom-color: #47682C;
+}
+
+.main {
+  border-top: 1px dotted #333;
+  padding: 20px 0;
+  border-bottom: 1px dotted #333;
+}
+
+footer {
+  font-family: "Poppins";
+  color: #EF3054;
+  padding: 20px 0;
+}
