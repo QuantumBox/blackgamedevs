@@ -36,6 +36,7 @@ a {
   color: #8C7051;
   border-bottom: 1px solid #8C7051;
   font-weight: bold;
+  overflow-wrap: break-word;
 }
 
 a:visited {
