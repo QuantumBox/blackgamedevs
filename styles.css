@@ -27,7 +27,11 @@ h2 {
   font-weight: 400;
 }
 
-h3 {
+h3, h4 {
+  margin: 0 0 .5rem;
+}
+
+h4 {
   font-weight: 100;
 }
 
@@ -64,21 +68,13 @@ h3 a:hover {
   border-bottom-color: #ccc;
 }
 
-li span {
+.small-text {
   color: #999;
-  font-size: .8em;
+  font-size: .8rem;
 }
 
-li span::before {
-  content: "(";
-}
-
-li span::after {
-  content: ")";
-}
-
-li + li {
-  margin-top: .75em;
+li span + span::before {
+  content: " + ";
 }
 
 .main {
@@ -122,8 +118,75 @@ li + li {
   border-bottom-color: #ccc;
 }
 
+.grid-list, .skill-list, .link-list {
+  padding: 0;
+  list-style: none;
+}
+
+.skill-list {
+  margin-bottom: .75rem;
+}
+
+.skill-list li {
+  font-family: "Poppins";
+  font-size: .65rem;
+  border: 1px solid #666;
+  color: #999;
+  display: inline-block;
+  padding: .2rem .6rem;
+  margin-right: .5rem;
+}
+
+.link-list {
+  margin-bottom: .75rem;
+}
+
+.link-list li {
+  font-family: "Poppins";
+  font-size: .8rem;
+  display: inline-block;
+  margin-right: .5rem;
+  margin-bottom: .25rem;
+}
+
+.link-list a {
+  font-weight: 400;
+}
+
+img {
+  max-width: 100%;
+}
+
+.list-item-image {
+  margin-bottom: .5rem;
+}
+
 footer {
   font-family: "Poppins";
   color: #EF3054;
   padding: 20px 0;
+}
+
+@media screen and (min-width: 780px) {
+  .grid-list {
+    display: -webkit-flex; /* Fallback for non-grid-supported browsers */
+    display: flex; /* Fallback for non-grid-supported browsers */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-column-gap: 2rem;
+    grid-row-gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 560px) and (max-width: 779px) {
+  .grid-list {
+    display: -webkit-flex; /* Fallback for non-grid-supported browsers */
+    display: flex; /* Fallback for non-grid-supported browsers */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-column-gap: 2rem;
+    grid-row-gap: 2rem;
+  }
 }
