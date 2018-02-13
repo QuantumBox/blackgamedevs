@@ -953,7 +953,24 @@
     ]
   },
   {
-    "name" : "Bruce Johnson",
+    "name" : "Chris Moody",
+    "image" : "http://image-link-here.com/image.png",
+    "skills" : [
+      "game design",
+      "programming"
+    ],
+    "location" : "United States of America",
+    "websites" : {
+      "business" : [
+        ["Website", "http://betathegame.com#teambeta"]
+      ]
+    },
+    "games" : [
+      ["Beta", "http://betathegame.com"]
+    ]
+  },
+  {
+    "name" : "Claude Jerome",
     "image" : "http://image-link-here.com/image.png",
     "skills" : [
       "game design",
@@ -962,14 +979,58 @@
     "location" : "United States of America",
     "websites" : {
       "personal" : [
-        ["Website", "http://darkhorsegames.net"],
-        ["Twitter", "https://twitter.com/undef_Brandon"],
+        ["Twitter", "https://twitter.com/Claude_Jerome"]
+      ]
+    }
+  },
+  {
+    "name" : "Corey Holmes",
+    "image" : "http://image-link-here.com/image.png",
+    "skills" : [
+      "game design",
+      "programming"
+    ],
+    "location" : "United States of America",
+    "websites" : {
+      "personal" : [
+        ["Website", "http://coreycreativ.com"],
+        ["Twitter", "https://twitter.com/HolmeWrecker"]
+      ]
+    }
+  },
+  {
+    "name" : "Cukia Kimani",
+    "image" : "http://image-link-here.com/image.png",
+    "skills" : [
+      "game design",
+      "programming"
+    ],
+    "location" : "United States of America",
+    "websites" : {
+      "personal" : [
+        ["Website", "http://cukiamakesgames.com"],
+        ["Twitter", "https://twitter.com/cukiakimani"]
+      ]
+    }
+  },
+  {
+    "name" : "...",
+    "image" : "http://image-link-here.com/image.png",
+    "skills" : [
+      "game design",
+      "programming"
+    ],
+    "location" : "United States of America",
+    "websites" : {
+      "personal" : [
+        ["Website", "http://cukiamakesgames.com"],
+        ["Twitter", "https://twitter.com/cukiakimani"],
         ["Instagram", "http://www.instagram.com/pixel_interaction"],
         ["YouTube", "https://www.youtube.com/c/pixelinteraction"],
         ["Facebook", "https://www.facebook.com/mojenmusic"]
       ],
       "business" : [
-        ["Website", "http://neonarkade.com"],
+        ["Website", "http://betathegame.com#teambeta"],
         ["Itch.io", "https://neonarkade.itch.io/"],
         ["Facebook", ""],
         ["Instagram", ""],
@@ -978,7 +1039,7 @@
       ]
     },
     "games" : [
-      ["The Amazing Fantastics", "https://neonarkade.itch.io/the-amazing-fantastics"]
+      ["Beta", "http://betathegame.com"]
     ]
   }
 ]

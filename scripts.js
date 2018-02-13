@@ -86,8 +86,6 @@ loadJSON(function(response) {
             for (var l = 0; l < individualPerson.games.length; l++) {
                 var individualGame = individualPerson.games[l];
                 if ((typeof individualGame !== 'undefined') && (individualGame.length > 0)) {
-                    console.log(individualGame[0]);
-                    console.log(individualGame[1]);
                     formattedGameLinks += '<li><a href="' + individualGame[1] + '" target="_blank">' + individualGame[0] + '</a></li>';
                 }
             }
