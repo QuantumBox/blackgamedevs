@@ -1012,37 +1012,7 @@
 			]
 		}
 	},
-	{
-		"name": "...",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://cukiamakesgames.com"],
-				["Twitter", "https://twitter.com/cukiakimani"],
-				["Instagram", "http://www.instagram.com/pixel_interaction"],
-				["YouTube", "https://www.youtube.com/c/pixelinteraction"],
-				["Facebook", "https://www.facebook.com/mojenmusic"]
-			],
-			"business": [
-				["Website", "http://betathegame.com#teambeta"],
-				["Itch.io", "https://neonarkade.itch.io/"],
-				["Facebook", ""],
-				["Instagram", ""],
-				["Youtube", ""],
-				["Patreon", ""]
-			]
-		},
-		"games": [
-			["Beta", "http://betathegame.com"]
-		]
-	},
-
-	{
+{
 		"name": "Damien A. Morris",
 		"image": "http://image-link-here.com/image.png",
 		"skills": [
@@ -1437,13 +1407,35 @@
 				["Website", "http://www.interabangent.com"]
 			]
 		}
-	}
-
-
-
-
-
-
-
+	},
+  {
+    "name": "...",
+    "image": "http://image-link-here.com/image.png",
+    "skills": [
+      "game design",
+      "programming"
+    ],
+    "location": "United States of America",
+    "websites": {
+      "personal": [
+        ["Website", "http://cukiamakesgames.com"],
+        ["Twitter", "https://twitter.com/cukiakimani"],
+        ["Instagram", "http://www.instagram.com/pixel_interaction"],
+        ["YouTube", "https://www.youtube.com/c/pixelinteraction"],
+        ["Facebook", "https://www.facebook.com/mojenmusic"]
+      ],
+      "business": [
+        ["Website", "http://betathegame.com#teambeta"],
+        ["Itch.io", "https://neonarkade.itch.io/"],
+        ["Facebook", ""],
+        ["Instagram", ""],
+        ["Youtube", ""],
+        ["Patreon", ""]
+      ]
+    },
+    "games": [
+      ["Beta", "http://betathegame.com"]
+    ]
+  }
 
 ]
