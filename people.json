@@ -1,1441 +1,2868 @@
-[{
-		"name": "DUPLICATE AND EDIT ME",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming",
-			"user interface design",
-			"production",
-			"copywriting",
-			"narrative design",
-			"public relations",
-			"game audio",
-			"marketing",
-			"quality assurance",
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://link-here.com"],
-				["Twitter", "https://twitter.com/username-here"],
-				["Facebook", "https://facebook.com/username-here"],
-				["Instagram", "https://instagram.com/username-here"],
-				["Youtube", "https://youtube.com/username-here"],
-				["Patreon", "https://www.patreon.com/username-here"]
-			],
-			"business": [
-				["Website", "http://link-here.com"],
-				["Twitter", "https://twitter.com/username-here"],
-				["Facebook", "https://facebook.com/username-here"],
-				["Instagram", "https://instagram.com/username-here"],
-				["Youtube", "https://youtube.com/username-here"],
-				["Patreon", "https://www.patreon.com/username-here"]
-			]
-		},
-		"games": [
-			["GAME NAME HERE", "http://link-here.com"],
-			["GAME NAME HERE", "http://link-here.com"],
-			["GAME NAME HERE – MAX OF 3 GAMES PLEASE", "http://link-here.com"]
-		]
-	},
-	{
-		"name": "Adewale Haroun",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.3dwally.com"],
-				["Twitter", "https://twitter.com/3d_Wally"]
-			]
-		}
-	},
-	{
-		"name": "Andreas J. Hester",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/giinyiz"]
-			],
-			"business": [
-				["Website", "http://gunghostudios.org"]
-			]
-		}
-	},
-	{
-		"name": "Anisiuba Uche",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/Anisiuba_Uche"]
-			],
-			"business": [
-				["Twitter", "https://twitter.com/giinyiz"]
-			]
-		}
-	},
-	{
-		"name": "Brandon J. Bruce",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://sunhutzu.carbonmade.com"],
-				["Twitter", "https://twitter.com/sunhutzu"]
-			]
-		}
-	},
-	{
-		"name": "Chris Wells",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "https://www.artstation.com/artist/chriswells"],
-				["Twitter", "https://twitter.com/BK_WallabyJoe"]
-			]
-		}
-	},
-	{
-		"name": "Christopher A. Butler",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/zionviller"]
-			],
-			"business": [
-				["Website", "http://ninjaegg.com"]
-			]
-		}
-	},
-	{
-		"name": "Darryl Johnson",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/USERpick05"]
-			]
-		}
-	},
-	{
-		"name": "David Pierre",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://arbitrarycanvas.tumblr.com/"]
-			]
-		}
-	},
-	{
-		"name": "Davon Allen",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://davonaallen.wix.com/davonaallen"],
-				["Twitter", "https://twitter.com/Davon_A_Allen"]
-			]
-		}
-	},
-	{
-		"name": "Del Northern",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/miimows"]
-			]
-		}
-	},
-	{
-		"name": "Demond Rogers",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/SuperBluez"]
-			],
-			"business": [
-				["Website", "http://bitmonstergames.com"]
-			]
-		}
-	},
-	{
-		"name": "Devin Gee Sr.",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "https://www.behance.net/devingeesr"],
-				["Twitter", "https://twitter.com/devingeesr"]
-			]
-		}
-	},
-	{
-		"name": "Dwayne Martin",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://dwaynemartin.com"],
-				["Twitter", "https://twitter.com/DwayneMartin86"]
-			]
-		}
-	},
-	{
-		"name": "Greg Goodson",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "https://goodson.carbonmade.com"],
-				["Twitter", "https://twitter.com/jetgreguar"]
-			]
-		}
-	},
-	{
-		"name": "Hillmon Ancrum",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://glorft.tumblr.com"]
-			]
-		}
-	},
-	{
-		"name": "Imani Person",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.thatimaniperson.com"],
-				["Twitter", "https://twitter.com/ThatImaniPerson"]
-			]
-		}
-	},
-	{
-		"name": "Isiac DaGraca",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://iadagraca.com"],
-				["Twitter", "https://twitter.com/iadagraca"]
-			]
-		}
-	},
-	{
-		"name": "Jarrod Flemister II",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://jarrodflemister.wix.com/jarrodflemister"],
-				["Twitter", "https://twitter.com/Adventure_This"]
-			]
-		}
-	},
-	{
-		"name": "Jermaine Belcher",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.batenkaitosorigins.wix.com/jermaineb"],
-				["Twitter", "https://twitter.com/jermaineatl"]
-			]
-		}
-	},
-	{
-		"name": "Kahlief Steele",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/kahstizzle"]
-			]
-		}
-	},
-	{
-		"name": "Kendall C Spraggins",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/KSpraggins"]
-			]
-		}
-	},
-	{
-		"name": "Lee Hinds",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/LeeHinds91"]
-			]
-		}
-	},
-	{
-		"name": "Leonardo Carrion Jr.",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.leonardocarrion.com"],
-				["Twitter", "https://twitter.com/theblueturtle_"]
-			]
-		}
-	},
-	{
-		"name": "Markus Heinel",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.markusheinel.com"],
-				["Twitter", "https://twitter.com/markusheinel"]
-			]
-		}
-	},
-	{
-		"name": "Marvin Washington",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.wdcstudios.com"],
-				["Twitter", "https://twitter.com/wdcstudios"]
-			]
-		}
-	},
-	{
-		"name": "Mat Broome",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.matbroome.com"],
-				["Twitter", "https://twitter.com/Mbroome1"]
-			],
-			"business": [
-				["Website", "http://www.heromachinestudios.com"]
-			]
-		}
-	},
-	{
-		"name": "Michel Nkuindja",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.nkuindja.me"],
-				["Twitter", "https://twitter.com/nkuindja"]
-			]
-		}
-	},
-	{
-		"name": "Neil Jones",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.neil3d.com"],
-				["Twitter", "https://twitter.com/aerial_knight"]
-			]
-		}
-	},
-	{
-		"name": "Robaato",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.robscorner.tumblr.com"],
-				["Twitter", "https://twitter.com/RobaatoX"],
-				["Patreon", "https://www.patreon.com/Robaato"]
-			]
-		}
-	},
-	{
-		"name": "Paul Davey",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.mattahan.com"],
-				["Twitter", "https://twitter.com/mattahan"]
-			]
-		}
-	},
-	{
-		"name": "R. Lateef",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.rlateef.com"],
-				["Twitter", "https://twitter.com/hypevoltage"]
-			]
-		}
-	},
-	{
-		"name": "ReJean DuBois",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.kasai.deviantart.com"],
-				["Twitter", "https://twitter.com/LeJeanX3"]
-			]
-		}
-	},
-	{
-		"name": "Sean Leslie Ward",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://afraux.tumblr.com"],
-				["Twitter", "https://twitter.com/Afraux"]
-			]
-		}
-	},
-	{
-		"name": "Tion \"VAGABOND\" Bruton",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://tiooonnn.deviantart.com"],
-				["Twitter", "https://twitter.com/Afraux"],
-				["Pixiv", "http://www.pixiv.net/member.php?id=11050645"]
-			]
-		},
-		"games": [
-			["Torch", "http://www.torchg.com"]
-		]
-	},
-	{
-		"name": "Tito Belgrave",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.ispyr.com"],
-				["Twitter", "https://twitter.com/ispyrarts"]
-			]
-		}
-	},
-	{
-		"name": "Tramell Ray Issac",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game art"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"business": [
-				["Website", "http://www.bosskey.com"]
-			]
-		}
-	},
-	{
-		"name": "Andy Masson",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "https://thatandyguy.bandcamp.com"],
-				["Twitter", "https://twitter.com/ItsThatAndyGuy"],
-				["SoundCloud", "https://soundcloud.com/that-andy-guy"]
-			]
-		}
-	},
-	{
-		"name": "Carl Clark",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://ccbeats.net"],
-				["Twitter", "http://www.twitter.com/ccbmp"],
-				["SoundCloud", "https://soundcloud.com/carlclarkmusicproductions"],
-				["LinkedIn", "https://www.linkedin.com/in/carlclarkmusicproductions"]
-			]
-		}
-	},
-	{
-		"name": "Chase Bethea",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://chasebethea.com"],
-				["Twitter", "https://twitter.com/chasebethea"]
-			]
-		}
-	},
-	{
-		"name": "Colin Andrew Grant",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://colinandrewgrant.com"],
-				["Twitter", "https://twitter.com/ColinAndGrant"],
-				["SoundCloud", "https://soundcloud.com/colin-andrew-grant"]
-			]
-		}
-	},
-	{
-		"name": "Darryl Duncan",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["LinkedIn", "https://www.linkedin.com/in/darrylduncan"]
-			],
-			"business": [
-				["Website", "http://gamebeatstudios.com"]
-			]
-		}
-	},
-	{
-		"name": "David Obaniyi",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://davidobaniyi.weebly.com"],
-				["Twitter", "https://twitter.com/DObaniyi"],
-				["SoundCloud", "https://soundcloud.com/musicknight44"],
-				["LinkedIn", "https://www.linkedin.com/in/darrylduncan"],
-				["Patreon", ""]
-			],
-			"business": [
-				["Website", "http://gamebeatstudios.com"],
-				["Twitter", ""],
-				["Facebook", ""],
-				["Instagram", ""],
-				["Youtube", ""],
-				["Patreon", ""]
-			]
-		}
-	},
-	{
-		"name": "Harold Pichol",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://harold.la"],
-				["LinkedIn", "https://www.linkedin.com/in/haroldpichol"]
-			]
-		}
-	},
-	{
-		"name": "Hassan DuRant",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.hadurant.com"],
-				["SoundCloud", "https://soundcloud.com/hadurant"]
-			]
-		}
-	},
-	{
-		"name": "Jamaal Ephriam",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://keyjayonline.com"],
-				["SoundCloud", "http://soundcloud.com/keyjayhd"]
-			]
-		}
-	},
-	{
-		"name": "John Hamilton Smith V",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://slide20xl.com"],
-				["Twitter", "https://twitter.com/Slide20xl"],
-				["SoundCloud", "https://soundcloud.com/slide20xl"]
-			]
-		}
-	},
-	{
-		"name": "Justin Jacox",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://justinjacox.weebly.com"],
-				["LinkedIn", "https://www.linkedin.com/in/justin-jacox-76a68359"]
-			]
-		}
-	},
-	{
-		"name": "Kasey Polk",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://polkritude.com"],
-				["LinkedIn", "https://www.linkedin.com/in/kasey-polk-359aa656"],
-				["Facebook", "https://www.facebook.com/polkritude"]
-			]
-		}
-	},
-	{
-		"name": "Leonard J. Paul",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.videogameaudio.com"],
-				["Twitter", "https://twitter.com/VideoGameAudio"],
-				["Bandcamp", "https://leonardjpaul.bandcamp.com/releases"]
-			]
-		}
-	},
-	{
-		"name": "MoJen Jenkins",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.mojen.co.uk"],
-				["Twitter", "https://twitter.com/mojenmusic"],
-				["LinkedIn", "https://www.linkedin.com/in/mojen"],
-				["Facebook", "https://www.facebook.com/mojenmusic"]
-			]
-		}
-	},
-	{
-		"name": "Obinna Eze Ajoku",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.obinnaezeajoku.com"],
-				["LinkedIn", "http://www.linkedin.com/in/obinnaezeajoku"]
-			]
-		}
-	},
-	{
-		"name": "Sophia Ellis",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["LinkedIn", "https://www.linkedin.com/in/sophia-ellis-9818a611a"]
-			]
-		}
-	},
-	{
-		"name": "Sterlyng Powell",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://sterlyngpowell.wixsite.com/smpowell"],
-				["Twitter", "https://twitter.com/sterbo708"],
-				["SoundCloud", "https://soundcloud.com/sterbo708"]
-			]
-		}
-	},
-	{
-		"name": "Wilbert Roget, II",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game audio"
-		],
-		"location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
-		"websites": {
-			"personal": [
-				["Website", "http://www.rogetmusic.com"],
-				["Twitter", "https://twitter.com/WilbertRoget"],
-				["SoundCloud", "https://soundcloud.com/wilbert-roget"]
-			]
-		}
-	},
-	{
-		"name": "Ahmed Abdullah",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/BR0thaMAN"]
-			]
-		}
-	},
-	{
-		"name": "Andre Jones",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://www.pixelinteraction.com"],
-				["Twitter", "http://twitter.com/pixelone"],
-				["Instagram", "http://www.instagram.com/pixel_interaction"],
-				["YouTube", "https://www.youtube.com/c/pixelinteraction"],
-				["Facebook", "https://www.facebook.com/mojenmusic"]
-			]
-		}
-	},
-	{
-		"name": "Andy James Nicholis",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "http://twitter.com/AndyTwiddly"]
-			],
-			"business": [
-				["Website", "http://twiddly.co.uk/tinyring.html"]
-			]
-		}
-	},
-	{
-		"name": "Imani",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Itch.io", "http://biomancer.itch.io"],
-				["Twitter", "http://twitter.com/imanimakesgames"]
-			]
-		}
-	},
-	{
-		"name": "Ben Wilson",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://www.zerofifty.one"],
-				["Twitter", "https://twitter.com/zerofiftyone_"]
-			]
-		}
-	},
-	{
-		"name": "Bradston Henry",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/TheGospelGamer"]
-			]
-		}
-	},
-	{
-		"name": "Brandon Hansford",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://darkhorsegames.net"],
-				["Twitter", "https://twitter.com/undef_Brandon"]
-			]
-		}
-	},
-	{
-		"name": "Bruce Johnson",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"business": [
-				["Website", "http://neonarkade.com"],
-				["Itch.io", "https://neonarkade.itch.io/"]
-			]
-		},
-		"games": [
-			["The Amazing Fantastics", "https://neonarkade.itch.io/the-amazing-fantastics"]
-		]
-	},
-	{
-		"name": "Chris Moody",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"business": [
-				["Website", "http://betathegame.com#teambeta"]
-			]
-		},
-		"games": [
-			["Beta", "http://betathegame.com"]
-		]
-	},
-	{
-		"name": "Claude Jerome",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/Claude_Jerome"]
-			]
-		}
-	},
-	{
-		"name": "Corey Holmes",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://coreycreativ.com"],
-				["Twitter", "https://twitter.com/HolmeWrecker"]
-			]
-		}
-	},
-	{
-		"name": "Cukia Kimani",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://cukiamakesgames.com"],
-				["Twitter", "https://twitter.com/cukiakimani"]
-			]
-		}
-	},
-{
-		"name": "Damien A. Morris",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/DamienAM"]
-			],
-			"business": [
-				["Facebook", "https://facebook.com/angelwolfstudios"]
-			]
-		}
-	},
-
-	{
-		"name": "David John",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Facebook", "https://www.facebook.com/profile.php?id=100006264315805"]
-			]
-		},
-		"games": [
-			["David's Games", "https://www.dropbox.com/sh/p1tzbnjd0cr2e2n/AADtyTdKTBsKRkFZMP1YBJhTa?dl=0"]
-		]
-	},
-
-	{
-		"name": "Davon Marquis Sanders",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/gmzcharlotte"]
-			]
-		}
-	},
-
-	{
-		"name": "Derek L. Manns",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://www.derekmanns.com"],
-				["Twitter", "https://twitter.com/GameDesignDude"]
-			]
-		}
-	},
-
-
-
-
-
-	{
-		"name": "Des Gayle",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United Kingdom",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/Kid_Desimo"]
-			],
-			"business": [
-				["Website", "http://alteredgene.london"],
-				["Twitter", "https://twitter.com/Altered_Gene"]
-			]
-		}
-	},
-
-
-	{
-		"name": "Evie Powell",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://www.eviemakesgames.com"],
-				["Twitter", "https://twitter.com/ParasiteEvie"]
-			],
-			"business": [
-				["Website", "http://vergeofbrilliance.com"]
-			]
-
-		}
-	},
-
-	{
-		"name": "Frank Silas",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://www.franksilas.com"],
-				["Twitter", "https://twitter.com/FrankSilas"]
-			]
-		}
-	},
-
-	{
-		"name": "Frankie *TechLord* Taylor",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-
-			"business": [
-				["Website", "https://arcadekomodo.com/headlessstudios/"]
-			]
-
-		}
-	},
-
-	{
-		"name": "gh33da",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/gh33da"]
-			]
-		}
-	},
-
-	{
-		"name": "Greg Johnson",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/ToejamGreg"]
-			],
-			"business": [
-				["Website", "http://humanaturestudios.com"],
-				["Twitter", "https://twitter.com/HumanatureGames"]
-			]
-		}
-	},
-
-	{
-		"name": "Gregory Jean-Baptist",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/black_collar_GR"]
-			]
-		}
-	},
-
-	{
-		"name": "Hoop Somuah",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "https://hoopsomuah.com"],
-				["Twitter", "https://twitter.com/hoopsomuah"]
-			]
-		}
-	},
-
-	{
-		"name": "Ivan K Myers Jr",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/IvanKMyersJr"]
-			]
-		}
-	},
-
-
-	{
-		"name": "Jamal Seaton",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/JamalSeaton"]
-			],
-			"business": [
-				["Website", "http://www.titointeractive.com"],
-				["Twitter", "https://twitter.com/titointeractive"]
-			]
-		}
-	},
-
-	{
-		"name": "James Seetal",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"production"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/jamesseetal"]
-			]
-		}
-	},
-
-
-	{
-		"name": "Jason Coker",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"production"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/Bomangani"]
-			],
-			"business": [
-				["Website", "https://www.playstation.com/en-us/"]
-			]
-		},
-		"games": [
-			["GUNS UP!", "http://gunsupgame.com/en-us"]
-		]
-	},
-
-
-	{
-		"name": "Jason Paul",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/jmpaul"]
-			],
-			"business": [
-				["Website", "https://www.naughtydog.com"]
-			]
-		}
-	},
-
-
-	{
-		"name": "Jay Adeloye",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/BytesOfChicken"]
-			],
-			"business": [
-				["Website", "http://dropdeadinteractive.com"],
-				["Twitter", "https://twitter.com/DropDeadInt"]
-			]
-		}
-	},
-
-	{
-		"name": "Joe Palmer",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/Jet_Black"]
-			],
-			"business": [
-				["Website", "http://www.irongalaxystudios.com"]
-			]
-		}
-	},
-
-	{
-		"name": "Joe Storm",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/JoeGStorm"]
-			]
-		}
-	},
-	{
-		"name": "John Davis",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "Japan",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/p0rk1ns"]
-			]
-		}
-	},
-
-	{
-		"name": "Jorge Palacios",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design",
-			"programming"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Website", "http://jorge.palacios.co"],
-				["Twitter", "https://twitter.com/pctroll"]
-			]
-		}
-	},
-
-	{
-		"name": "Joshua Parker",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/BossBlackDante"]
-			]
-		}
-	},
-
-
-	{
-		"name": "Justin Woodward",
-		"image": "http://image-link-here.com/image.png",
-		"skills": [
-			"game design"
-		],
-		"location": "United States of America",
-		"websites": {
-			"personal": [
-				["Twitter", "https://twitter.com/icjman"]
-			],
-			"business": [
-				["Website", "http://www.interabangent.com"]
-			]
-		}
-	},
-  {
-    "name": "...",
-    "image": "http://image-link-here.com/image.png",
-    "skills": [
-      "game design",
-      "programming"
-    ],
-    "location": "United States of America",
-    "websites": {
-      "personal": [
-        ["Website", "http://cukiamakesgames.com"],
-        ["Twitter", "https://twitter.com/cukiakimani"],
-        ["Instagram", "http://www.instagram.com/pixel_interaction"],
-        ["YouTube", "https://www.youtube.com/c/pixelinteraction"],
-        ["Facebook", "https://www.facebook.com/mojenmusic"]
+[  
+   {  
+      "name":"DUPLICATE AND EDIT ME",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
       ],
-      "business": [
-        ["Website", "http://betathegame.com#teambeta"],
-        ["Itch.io", "https://neonarkade.itch.io/"],
-        ["Facebook", ""],
-        ["Instagram", ""],
-        ["Youtube", ""],
-        ["Patreon", ""]
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://link-here.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/username-here"
+            ],
+            [  
+               "Facebook",
+               "https://facebook.com/username-here"
+            ],
+            [  
+               "Instagram",
+               "https://instagram.com/username-here"
+            ],
+            [  
+               "Youtube",
+               "https://youtube.com/username-here"
+            ],
+            [  
+               "Patreon",
+               "https://www.patreon.com/username-here"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://link-here.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/username-here"
+            ],
+            [  
+               "Facebook",
+               "https://facebook.com/username-here"
+            ],
+            [  
+               "Instagram",
+               "https://instagram.com/username-here"
+            ],
+            [  
+               "Youtube",
+               "https://youtube.com/username-here"
+            ],
+            [  
+               "Patreon",
+               "https://www.patreon.com/username-here"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "GAME NAME HERE",
+            "http://link-here.com"
+         ],
+         [  
+            "GAME NAME HERE",
+            "http://link-here.com"
+         ],
+         [  
+            "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
+            "http://link-here.com"
+         ]
       ]
-    },
-    "games": [
-      ["Beta", "http://betathegame.com"]
-    ]
-  }
-
+   },
+   {  
+      "name":"Adewale Haroun",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.3dwally.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/3d_Wally"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Andreas J. Hester",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/giinyiz"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://gunghostudios.org"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Anisiuba Uche",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Anisiuba_Uche"
+            ]
+         ],
+         "business":[  
+            [  
+               "Twitter",
+               "https://twitter.com/giinyiz"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Brandon J. Bruce",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://sunhutzu.carbonmade.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/sunhutzu"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Chris Wells",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.artstation.com/artist/chriswells"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/BK_WallabyJoe"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Christopher A. Butler",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/zionviller"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://ninjaegg.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Darryl Johnson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/USERpick05"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"David Pierre",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://arbitrarycanvas.tumblr.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Davon Allen",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://davonaallen.wix.com/davonaallen"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Davon_A_Allen"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Del Northern",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/miimows"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Demond Rogers",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/SuperBluez"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://bitmonstergames.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Devin Gee Sr.",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.behance.net/devingeesr"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/devingeesr"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Dwayne Martin",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://dwaynemartin.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/DwayneMartin86"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Greg Goodson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://goodson.carbonmade.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/jetgreguar"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Hillmon Ancrum",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://glorft.tumblr.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Imani Person",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.thatimaniperson.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ThatImaniPerson"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Isiac DaGraca",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://iadagraca.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/iadagraca"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jarrod Flemister II",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://jarrodflemister.wix.com/jarrodflemister"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Adventure_This"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jermaine Belcher",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.batenkaitosorigins.wix.com/jermaineb"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/jermaineatl"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kahlief Steele",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/kahstizzle"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kendall C Spraggins",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/KSpraggins"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Lee Hinds",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/LeeHinds91"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Leonardo Carrion Jr.",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.leonardocarrion.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/theblueturtle_"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Markus Heinel",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.markusheinel.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/markusheinel"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Marvin Washington",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.wdcstudios.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/wdcstudios"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Mat Broome",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.matbroome.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Mbroome1"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.heromachinestudios.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Michel Nkuindja",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.nkuindja.me"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/nkuindja"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Neil Jones",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.neil3d.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/aerial_knight"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Robaato",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.robscorner.tumblr.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/RobaatoX"
+            ],
+            [  
+               "Patreon",
+               "https://www.patreon.com/Robaato"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Paul Davey",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.mattahan.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/mattahan"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"R. Lateef",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.rlateef.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/hypevoltage"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"ReJean DuBois",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.kasai.deviantart.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/LeJeanX3"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Sean Leslie Ward",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://afraux.tumblr.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Afraux"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Tion \"VAGABOND\" Bruton",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://tiooonnn.deviantart.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Afraux"
+            ],
+            [  
+               "Pixiv",
+               "http://www.pixiv.net/member.php?id=11050645"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "Torch",
+            "http://www.torchg.com"
+         ]
+      ]
+   },
+   {  
+      "name":"Tito Belgrave",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.ispyr.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ispyrarts"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Tramell Ray Issac",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "business":[  
+            [  
+               "Website",
+               "http://www.bosskey.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Andy Masson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://thatandyguy.bandcamp.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ItsThatAndyGuy"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/that-andy-guy"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Carl Clark",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://ccbeats.net"
+            ],
+            [  
+               "Twitter",
+               "http://www.twitter.com/ccbmp"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/carlclarkmusicproductions"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/carlclarkmusicproductions"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Chase Bethea",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://chasebethea.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/chasebethea"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Colin Andrew Grant",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://colinandrewgrant.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ColinAndGrant"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/colin-andrew-grant"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Darryl Duncan",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/darrylduncan"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://gamebeatstudios.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"David Obaniyi",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://davidobaniyi.weebly.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/DObaniyi"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/musicknight44"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/darrylduncan"
+            ],
+            [  
+               "Patreon",
+               ""
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://gamebeatstudios.com"
+            ],
+            [  
+               "Twitter",
+               ""
+            ],
+            [  
+               "Facebook",
+               ""
+            ],
+            [  
+               "Instagram",
+               ""
+            ],
+            [  
+               "Youtube",
+               ""
+            ],
+            [  
+               "Patreon",
+               ""
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Harold Pichol",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://harold.la"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/haroldpichol"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Hassan DuRant",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.hadurant.com"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/hadurant"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jamaal Ephriam",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://keyjayonline.com"
+            ],
+            [  
+               "SoundCloud",
+               "http://soundcloud.com/keyjayhd"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"John Hamilton Smith V",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://slide20xl.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Slide20xl"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/slide20xl"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Justin Jacox",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://justinjacox.weebly.com"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/justin-jacox-76a68359"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kasey Polk",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://polkritude.com"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/kasey-polk-359aa656"
+            ],
+            [  
+               "Facebook",
+               "https://www.facebook.com/polkritude"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Leonard J. Paul",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.videogameaudio.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/VideoGameAudio"
+            ],
+            [  
+               "Bandcamp",
+               "https://leonardjpaul.bandcamp.com/releases"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"MoJen Jenkins",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.mojen.co.uk"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/mojenmusic"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/mojen"
+            ],
+            [  
+               "Facebook",
+               "https://www.facebook.com/mojenmusic"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Obinna Eze Ajoku",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.obinnaezeajoku.com"
+            ],
+            [  
+               "LinkedIn",
+               "http://www.linkedin.com/in/obinnaezeajoku"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Sophia Ellis",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/sophia-ellis-9818a611a"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Sterlyng Powell",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://sterlyngpowell.wixsite.com/smpowell"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/sterbo708"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/sterbo708"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Wilbert Roget, II",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game audio"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.rogetmusic.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/WilbertRoget"
+            ],
+            [  
+               "SoundCloud",
+               "https://soundcloud.com/wilbert-roget"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ahmed Abdullah",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/BR0thaMAN"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Andre Jones",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.pixelinteraction.com"
+            ],
+            [  
+               "Twitter",
+               "http://twitter.com/pixelone"
+            ],
+            [  
+               "Instagram",
+               "http://www.instagram.com/pixel_interaction"
+            ],
+            [  
+               "YouTube",
+               "https://www.youtube.com/c/pixelinteraction"
+            ],
+            [  
+               "Facebook",
+               "https://www.facebook.com/mojenmusic"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Andy James Nicholis",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "http://twitter.com/AndyTwiddly"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://twiddly.co.uk/tinyring.html"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Imani",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Itch.io",
+               "http://biomancer.itch.io"
+            ],
+            [  
+               "Twitter",
+               "http://twitter.com/imanimakesgames"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ben Wilson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.zerofifty.one"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/zerofiftyone_"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Bradston Henry",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/TheGospelGamer"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Brandon Hansford",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://darkhorsegames.net"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/undef_Brandon"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Bruce Johnson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "business":[  
+            [  
+               "Website",
+               "http://neonarkade.com"
+            ],
+            [  
+               "Itch.io",
+               "https://neonarkade.itch.io/"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "The Amazing Fantastics",
+            "https://neonarkade.itch.io/the-amazing-fantastics"
+         ]
+      ]
+   },
+   {  
+      "name":"Chris Moody",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "business":[  
+            [  
+               "Website",
+               "http://betathegame.com#teambeta"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "Beta",
+            "http://betathegame.com"
+         ]
+      ]
+   },
+   {  
+      "name":"Claude Jerome",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Claude_Jerome"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Corey Holmes",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://coreycreativ.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/HolmeWrecker"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Cukia Kimani",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://cukiamakesgames.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/cukiakimani"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Damien A. Morris",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/DamienAM"
+            ]
+         ],
+         "business":[  
+            [  
+               "Facebook",
+               "https://facebook.com/angelwolfstudios"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"David John",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Facebook",
+               "https://www.facebook.com/profile.php?id=100006264315805"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "David's Games",
+            "https://www.dropbox.com/sh/p1tzbnjd0cr2e2n/AADtyTdKTBsKRkFZMP1YBJhTa?dl=0"
+         ]
+      ]
+   },
+   {  
+      "name":"Davon Marquis Sanders",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/gmzcharlotte"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Derek L. Manns",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.derekmanns.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/GameDesignDude"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Des Gayle",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United Kingdom",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Kid_Desimo"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://alteredgene.london"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Altered_Gene"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Evie Powell",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.eviemakesgames.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ParasiteEvie"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://vergeofbrilliance.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Frank Silas",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.franksilas.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/FrankSilas"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Frankie *TechLord* Taylor",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "business":[  
+            [  
+               "Website",
+               "https://arcadekomodo.com/headlessstudios/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"gh33da",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/gh33da"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Greg Johnson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/ToejamGreg"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://humanaturestudios.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/HumanatureGames"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Gregory Jean-Baptist",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/black_collar_GR"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Hoop Somuah",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://hoopsomuah.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/hoopsomuah"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ivan K Myers Jr",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/IvanKMyersJr"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jamal Seaton",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/JamalSeaton"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.titointeractive.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/titointeractive"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"James Seetal",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "production"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/jamesseetal"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jason Coker",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "production"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Bomangani"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "https://www.playstation.com/en-us/"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "GUNS UP!",
+            "http://gunsupgame.com/en-us"
+         ]
+      ]
+   },
+   {  
+      "name":"Jason Paul",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/jmpaul"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "https://www.naughtydog.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jay Adeloye",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/BytesOfChicken"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://dropdeadinteractive.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/DropDeadInt"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Joe Palmer",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Jet_Black"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.irongalaxystudios.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Joe Storm",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/JoeGStorm"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"John Davis",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"Japan",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/p0rk1ns"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jorge Palacios",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://jorge.palacios.co"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/pctroll"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Joshua Parker",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/BossBlackDante"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Justin Woodward",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/icjman"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.interabangent.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kidando",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"Tanzania",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://kidando.net"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Kidando"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kieron White",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "game art"
+      ],
+      "location":"United Kingdom",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.kwhite3d.carbonmade.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/KieronWhite3d"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kojo Kumah",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.kojokumah.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/KojoKumah"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Lauren E. Scott",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Lauren_E_Scott"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Lavon Woods",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/LavonWoods"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.gamebuilderstudio.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/gamebuilders"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Louis Dargin",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/LEDargin"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Marcus Terrell",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Bomangani"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "BaraBariBall",
+            "http://barabariball.com/"
+         ]
+      ]
+   },
+   {  
+      "name":"Matthew Findlater",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.matthewfindlater.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ieatgames"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Melissa Avery-Weir",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/averymd"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.futureproofgames.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/PlayFutureProof"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Melvin Samuel",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.melvinsamuel.com/"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "The Art of Bullet Age",
+            "http://artofbulletage.tumblr.com/"
+         ]
+      ]
+   },
+   {  
+      "name":"Micah Betts",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.mabmanz.com/"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "Combat Core",
+            "https://twitter.com/Combat_Core"
+         ]
+      ]
+   },
+   {  
+      "name":"Mike Byrd",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.mikebyrdjr.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/mikecbyrd"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Mike Murray",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"Canada",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://king9999.itch.io/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/MikeADMurray"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Myron Richardson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/RonRichards04"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Paul LaCen",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Rykoshet"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Pierre Joshua",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"England",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/pierrejoshua"
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "Ether on Google Play",
+            "https://play.google.com/store/apps/details?id=com.hallenapps.ether"
+         ]
+      ]
+   },
+   {  
+      "name":"Prince Jones",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://prince33.tumblr.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/PrinceJones33"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Quintin Rodriguez-Harrison",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "http://twitter.com/qball13z"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.zaplingstudios.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Rachél Bazelais",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://rbazelais.itch.io/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Popular_Pixels"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ramone Russell",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Ramone_Russell"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "https://www.playstation.com/en-us/corporate/about/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ray Batts",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Ray_Batts"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Raymond Graham",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Wadarass"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Richard Terrell",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.critical-gaming.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/averymd"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.designoriented.net/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Rokashi Edwards",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"Canada",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://rokashi.itch.io/"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "https://www.patreon.com/Rokashi?ty=h"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Scott Anderson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.linkedin.com/pub/scott-anderson/2/b37/a31"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.sledgehammergames.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Sean R. Scott",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/seanrscott"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Shawn Pierre",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.shawnpierre.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/ShawnPierre"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.origaminc.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/origaminc"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Robert Morrison Jnr.",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"Jamaica",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.rob3rtmorrison.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/b0b3rt"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.silentrivr.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/SilentRivr"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Somara Atkinson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.somaraatkinson.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/SomaraA"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Spritewrench",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"Jamaica",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.spritewrench.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/SpriteWrench"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Steve Superville",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/SteveSuperville"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Terrance Smith",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/musicm122"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.hackerferret.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Tony Yotes",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"Jamaica",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.yotesgames.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/TonyYotes"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Travis Estrada",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.linkedin.com/pub/travis-estrada/4/b45/b6b"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.gameloft.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Troy D. Patterson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.troydpatterson.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/MrTroy"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ventroy Rolle",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.bigvgames.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/TroyGotCode"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Warren Price",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/WarrenPrice"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "https://www.ubisoft.com/en-us/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Wayman Harris",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.waymanapps.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"...",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://cukiamakesgames.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/cukiakimani"
+            ],
+            [  
+               "Instagram",
+               "http://www.instagram.com/pixel_interaction"
+            ],
+            [  
+               "YouTube",
+               "https://www.youtube.com/c/pixelinteraction"
+            ],
+            [  
+               "Facebook",
+               "https://www.facebook.com/mojenmusic"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://betathegame.com#teambeta"
+            ],
+            [  
+               "Itch.io",
+               "https://neonarkade.itch.io/"
+            ],
+            [  
+               "Facebook",
+               ""
+            ],
+            [  
+               "Instagram",
+               ""
+            ],
+            [  
+               "Youtube",
+               ""
+            ],
+            [  
+               "Patreon",
+               ""
+            ]
+         ]
+      },
+      "games":[  
+         [  
+            "Beta",
+            "http://betathegame.com"
+         ]
+      ]
+   }
 ]
