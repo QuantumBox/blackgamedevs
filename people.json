@@ -2865,10 +2865,7 @@
          ]
       ]
    },
-   
-   
-   
-      {  
+   {  
       "name":"Ajari Wilson",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
@@ -2896,14 +2893,11 @@
          ]
       }
    },
-   
-   
-   
-         {  
+   {  
       "name":"Akira Thompson",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -2925,12 +2919,11 @@
          ]
       }
    },
-   
-         {  
+   {  
       "name":"Andrew Augustin",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -2958,12 +2951,11 @@
          ]
       }
    },
-   
-            {  
+   {  
       "name":"Arthur Ward, Jr.",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -2985,11 +2977,11 @@
          ]
       }
    },
-               {  
+   {  
       "name":"Audley Gordon",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3011,12 +3003,11 @@
          ]
       }
    },
-   
-                  {  
+   {  
       "name":"Audley Gordon",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3038,12 +3029,11 @@
          ]
       }
    },
-   
-      {  
+   {  
       "name":"Bryson Whiteman",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3054,7 +3044,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3080,13 +3069,11 @@
          ]
       }
    },
-   
-   
-         {  
+   {  
       "name":"Catt Small",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3097,7 +3084,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3106,7 +3092,7 @@
                "Website",
                "http://cattsmall.com/portfolio"
             ],
-			[  
+            [  
                "Website",
                "http://cattsmall.itch.io/"
             ],
@@ -3123,14 +3109,11 @@
          ]
       }
    },
-   
-   
-      
-         {  
+   {  
       "name":"Carrill Munnings",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3141,7 +3124,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3150,22 +3132,18 @@
                "Website",
                "https://carrill.newgrounds.com"
             ],
-
             [  
                "Twitter",
                "https://twitter.com/carrillgamedev"
             ]
          ]
-         
       }
    },
-   
-   
-            {  
+   {  
       "name":"Ciara Burkett",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3176,7 +3154,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3185,7 +3162,7 @@
                "Website",
                "http://ciara.itch.io/"
             ],
-			[  
+            [  
                "Patreon",
                "https://www.patreon.com/CiaraBurkett"
             ],
@@ -3196,12 +3173,11 @@
          ]
       }
    },
-   
-               {  
+   {  
       "name":"CNIAngel",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3212,7 +3188,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3221,11 +3196,11 @@
                "Website",
                "http://www.cniangel.net/"
             ],
-			[  
+            [  
                "Website",
                "http://cniangel.itch.io/"
-            ],			
-			[  
+            ],
+            [  
                "Patreon",
                "https://www.patreon.com/CNIAngel"
             ],
@@ -3236,12 +3211,11 @@
          ]
       }
    },
-   
-            {  
+   {  
       "name":"Dain Saint",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3252,7 +3226,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3270,13 +3243,11 @@
          ]
       }
    },
-   
-   
-                  {  
+   {  
       "name":"Darion McCoy",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3287,7 +3258,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3303,11 +3273,11 @@
          ]
       }
    },
-                     {  
-      "name":"Darion McCoy",
+   {  
+      "name":"Derek Smart",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3318,7 +3288,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3334,12 +3303,11 @@
          ]
       }
    },
-   
-               {  
+   {  
       "name":"Errol King",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3350,7 +3318,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3362,12 +3329,11 @@
          ]
       }
    },
-   
-                  {  
+   {  
       "name":"Ethan Redd",
       "image":"http://image-link-here.com/image.png",
       "skills":[  
-            "game design",
+         "game design",
          "programming",
          "user interface design",
          "production",
@@ -3378,7 +3344,6 @@
          "marketing",
          "quality assurance",
          "game art"
-   
       ],
       "location":"United States of America",
       "websites":{  
@@ -3387,15 +3352,15 @@
                "Website",
                "http://www.ethanredd.com/"
             ],
-			[  
+            [  
                "Patreon",
                "https://www.patreon.com/ethanredd"
-            ],			
-			[  
+            ],
+            [  
                "Website",
                "http://ethanredd.tumblr.com/"
-            ],			
-			[  
+            ],
+            [  
                "Website",
                "http://ethanredd.bigcartel.com/"
             ],
@@ -3405,9 +3370,953 @@
             ]
          ]
       }
+   },
+   {  
+      "name":"Gaming Pixie",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://games.gamingpixie.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/GamingPixie"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Graham Reid",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://grahamreid.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/GrahamOfLegend"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Issac Nichols",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.threadedpixelstudios.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/IsaacThreedart"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jarryd Huntley",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://clevelandgamedevs.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/JarrydHuntley"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Joelle Silverio",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://tripwireinteractive.com/about-us.aspx"
+            ],
+            [  
+               "LinkedIn",
+               "https://www.linkedin.com/in/joellesilverio/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/gamerific"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Justin Hilton",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://enhousestudios.itch.io"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/EnHouseStudios"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Kaylin Norman-Slack",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.kaylinnormanslack.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/MrGameandAudio"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Lindsay Grace",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.professorgrace.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Mindtoggle"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Noyemi Karlaitė",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.patreon.com/NoyemiK"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Omari Smith",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Nappy_Rat"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Rejon Taylor",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/mxmcrash"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Maximum_Crash"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Rekcahdam",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.rekcahdam.com"
+            ]
+         ],
+         "games":[  
+            [  
+               "Pulse Boy",
+               "http://pulseboy.com/"
+            ],
+            [  
+               "Band Saga",
+               "https://www.bandsaga.com"
+            ],
+            [  
+               "Celestial Mechanica",
+               "http://www.celestialmechanica.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Richie Branson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.richiebranson.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/richiebranson"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Ron Jones",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://ronjonestheartist.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Sean Bellinger",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://seanbellinger.carbonmade.com"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/locutus3d"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Shawn Alexander Allen",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://anewchallengerawaits.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/anuchallenger"
+            ]
+         ],
+         "games":[  
+            [  
+               "Treachery in Beatdown City",
+               "http://beatdowncity.com"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"SolarLune",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.solarlune.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/SolarLune"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Sylverstone Khandr",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://sylverstone14.itch.io/"
+            ],
+            [  
+               "Website",
+               "http://www.cargocollective.com/SylversEdge/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/Sylverstone14"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Rekcahdam",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "games":[  
+            [  
+               "Joylancer",
+               "http://a6productions.com/the-joylancer/"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://a6productions.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Tony Barnes",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/Twitchfactor"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Triston Edison",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/InkJuse"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Tyriq Plummer",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "games":[  
+            [  
+               "Catacomb Kids",
+               "http://www.ckgame.net/"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.fourbitfriday.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/fourbitfriday"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"ardydo",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "public relations",
+         "game audio",
+         "marketing",
+         "quality assurance",
+         "game art"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://ardydo.itch.io/"
+            ],
+            [  
+               "Website",
+               "https://mastodon.gamedev.place/@octopedro"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/octopedro"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Charles Webb",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "narrative design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/TheCharlesWebb"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "https://www.2k.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Christian Howard ",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "narrative design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://christianhoward.squarespace.com/"
+            ]
+         ],
+         "games":[  
+            [  
+               "Beta",
+               "http://betathegame.com/#teambeta"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jacob Mooney",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "narrative design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://www.jacobdmooney.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/JacobDMooney"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"PinkTreeLeaf",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "narrative design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "http://pinktreeleaf.itch.io/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Tim Lewinson",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "narrative design"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/VancouverTim"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Akouvi Ahoomey",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/akouviahoomey"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Mike Adebajo",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/L1keMike"
+            ],
+            [  
+               "Website",
+               "http://www.weseeinpixels.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Nicole Anetra Lewis",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/nikkianetra"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Reggie Fils-Aimé",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "business":[  
+            [  
+               "Website",
+               "http://www.nintendo.com/"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Andrien Gbinigie",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/EscoBlades"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Jason Miller",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "https://twitter.com/j_millerworks"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Greg McLeod",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Website",
+               "https://www.gregmcleod.com/"
+            ],
+            [  
+               "Website",
+               "https://www.mcleodgaming.com/"
+            ],
+            [  
+               "Twitter",
+               "https://twitter.com/RealCleod9"
+            ]
+         ]
+      }
+   },
+   {  
+      "name":"Brandon Perry ",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[  
+         "marketing"
+      ],
+      "location":"United States of America",
+      "websites":{  
+         "personal":[  
+            [  
+               "Twitter",
+               "http://twitter.com/BranPerry"
+            ]
+         ],
+         "business":[  
+            [  
+               "Website",
+               "http://www.zaplingstudios.com/"
+            ]
+         ]
+      }
    }
-   
-   
-   
-   
 ]
