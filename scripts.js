@@ -42,12 +42,18 @@ loadJSON(function(response) {
 
         // Show location
         if ((typeof individualPerson.location !== 'undefined') && (individualPerson.location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
-            formattedLocation = '<img src="/icon-location.svg" class="icon icon-light icon-prepend">' + individualPerson.location;
+            formattedLocation = '<p class="mt-0"><img src="/icon-location.svg" class="icon icon-light mr-1">' + individualPerson.location + '</p>';
         }
 
         // Show skills
         if ((typeof individualPerson.skills !== 'undefined') && (individualPerson.skills.length > 0)) {
-            formattedSkills = '<h4>Skills</h4><ul class="skill-list">';
+            if (individualPerson.skills.length === 1) {
+                formattedPersonalLinks = '<h4>Skill</h4>'
+            } else {
+                formattedPersonalLinks = '<h4>Skills</h4>'
+            }
+
+            formattedSkills += '<ul class="skill-list">';
             for (var h = 0; h < individualPerson.skills.length; h++) {
                 formattedSkills += '<li>' + individualPerson.skills[h] + '</li>';
             }
@@ -64,7 +70,13 @@ loadJSON(function(response) {
 
         // Personal links
         if (typeof individualPerson.websites.personal !== 'undefined') {
-            formattedPersonalLinks = '<h4>Personal sites</h4><ul class="link-list">';
+            if (individualPerson.websites.personal.length === 1) {
+                formattedPersonalLinks = '<h4>Personal site</h4>'
+            } else {
+                formattedPersonalLinks = '<h4>Personal sites</h4>'
+            }
+
+            formattedPersonalLinks += '<ul class="link-list">';
             for (var j = 0; j < individualPerson.websites.personal.length; j++) {
                 var individualWebsite = individualPerson.websites.personal[j];
                 if ((typeof individualWebsite !== 'undefined') && (individualWebsite.length > 0)) {
@@ -76,7 +88,13 @@ loadJSON(function(response) {
 
         // Business links
         if (typeof individualPerson.websites.business !== 'undefined') {
-            formattedBusinessLinks = '<h4>Business sites</h4><ul class="link-list">';
+            if (individualPerson.websites.business.length === 1) {
+                formattedPersonalLinks = '<h4>Business site</h4>'
+            } else {
+                formattedPersonalLinks = '<h4>Business sites</h4>'
+            }
+
+            formattedBusinessLinks += '<ul class="link-list">';
             for (var k = 0; k < individualPerson.websites.business.length; k++) {
                 var individualWebsite = individualPerson.websites.business[k];
                 if ((typeof individualWebsite !== 'undefined') && (individualWebsite.length > 0)) {

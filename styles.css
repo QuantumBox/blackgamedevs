@@ -86,9 +86,24 @@ li span + span::before {
   filter: invert(100%);
 }
 
-.icon.icon-prepend {
+/* Spacing */
+.mt-0 {
+  margin-top: 0;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mr-1 {
   margin-right: .5rem;
 }
+
+.mb-1 {
+  margin-bottom: .5rem;
+}
+
+/* Content */
 
 .main {
   border-top: 1px dotted #333;
