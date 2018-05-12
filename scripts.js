@@ -32,6 +32,7 @@ loadJSON(function(response) {
     for (var i = 0; i < personData.length; i++) {
         var listItemTemplate = '',
         formattedImage = '',
+        formattedLocation = '',
         formattedSkills = '',
         formattedPersonalLinks = '',
         formattedBusinessLinks = '',
@@ -39,9 +40,14 @@ loadJSON(function(response) {
         individualPerson = personData[i],
         formattedName = '<h3>' + individualPerson.name + '</h3>';
 
+        // Show location
+        if ((typeof individualPerson.location !== 'undefined') && (individualPerson.location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
+            formattedLocation = '<img src="/icon-location.svg" class="icon icon-light icon-prepend">' + individualPerson.location;
+        }
+
         // Show skills
         if ((typeof individualPerson.skills !== 'undefined') && (individualPerson.skills.length > 0)) {
-            formattedSkills = '<ul class="skill-list">';
+            formattedSkills = '<h4>Skills</h4><ul class="skill-list">';
             for (var h = 0; h < individualPerson.skills.length; h++) {
                 formattedSkills += '<li>' + individualPerson.skills[h] + '</li>';
             }
@@ -49,7 +55,7 @@ loadJSON(function(response) {
         }
 
         // Show image
-        if ((typeof individualPerson.image !== 'undefined') && (individualPerson.image.length > 0)) {
+        if ((typeof individualPerson.image !== 'undefined') && (individualPerson.image.length > 0) && (individualPerson.image !== "http://image-link-here.com/image.png")) {
             formattedImage = '<div class="list-item-image"><img src="' + individualPerson.image + '"></div>';
         } else {
             // If no image, show placeholder
@@ -92,7 +98,7 @@ loadJSON(function(response) {
             formattedGameLinks += '</ul>';
         }
 
-        listItemTemplate = '<li>' + formattedName + formattedSkills + formattedImage + formattedGameLinks + formattedPersonalLinks + formattedBusinessLinks + '</li>';
+        listItemTemplate = '<li>' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedGameLinks + formattedPersonalLinks + formattedBusinessLinks + '</li>';
 
         var listElementHTML = listElement.innerHTML;
         listElement.innerHTML = listElementHTML + listItemTemplate;
