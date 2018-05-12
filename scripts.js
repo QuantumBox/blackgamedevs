@@ -48,9 +48,9 @@ loadJSON(function(response) {
         // Show skills
         if ((typeof individualPerson.skills !== 'undefined') && (individualPerson.skills.length > 0)) {
             if (individualPerson.skills.length === 1) {
-                formattedPersonalLinks = '<h4>Skill</h4>'
+                formattedSkills = '<h4>Skill</h4>'
             } else {
-                formattedPersonalLinks = '<h4>Skills</h4>'
+                formattedSkills = '<h4>Skills</h4>'
             }
 
             formattedSkills += '<ul class="skill-list">';
