@@ -22,18 +22,11 @@
  </header>
  <div class="main">
   <div class="navigation">
-    <strong>Only show:</strong>
-    <ul>
-      <li><a href="#art">Art &amp; Animation</a></li>
-      <li><a href="#audio">Audio</a></li>
-      <li><a href="#design">Game Design &amp; Development</a></li>
-      <li><a href="#multitalented">Multitalented</a></li>
-      <li><a href="#narrative">Narrative &amp; Writing</a></li>
-      <li><a href="#pr">PR &amp; Marketing</a></li>
-      <li><a href="#programming">Programming</a></li>
-      <li><a href="#ux">UI/UX</a></li>
-      <li><a href="#qa">QA</a></li>
-      <li><a href="#companies">Companies</a></li>
+    <p><strong>Filter by skills:</strong></p>
+    <ul id="list-of-skills">
+    </ul>
+    <p><strong>Filter by locations:</strong></p>
+    <ul id="list-of-locations">
     </ul>
   </div>
       <!-- INSTRUCTIONS:
@@ -42,6 +35,8 @@
 
           To test, navigate to this folder in your command line editor and run a server using Apache or Python.
         -->
+
+        <p id="filter-on" class="display-none small-text">Filtering by <span id="filter-current"></span>. <button onclick="filterPersonData();">See all people</button></p>
 
         <ul id="list-of-people" class="grid-list">
           Loading...
@@ -100,7 +95,7 @@
           <li>TheGameDevStore.com - <a href="https://thegamedevstore.com" target="_blank">TheGameDevStore.com</a></li>
           <li>Twilight Beacon Entertainment - <a href="http://twilightbeacon.com/" target="_blank">Twilight Beacon Entertainment</a>, <a href="https://twitter.com/TwilightBKN" target="_blank">@TwilightBKN</a>, <a href="https://twitter.com/TearyneG" target="_blank">@TearyneG</a></li>
           <li>White Guardian Studios - <a href="http://www.demonsrevenge.com" target="_blank">demonsrevenge.com</a></li>
-       </ul>
+        </ul>
 
       </div>
       <footer class="footer">
