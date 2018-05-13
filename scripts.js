@@ -2,12 +2,14 @@ var peopleListElement = document.getElementById('list-of-people'),
 companiesListElement = document.getElementById('list-of-companies'),
 skillsListElement = document.getElementById('list-of-skills'),
 locationsListElement = document.getElementById('list-of-locations'),
+namesListElement = document.getElementById('list-of-letters'),
 filterOnElement = document.getElementById('filter-on'),
 filterDetailElement = document.getElementById('filter-current'),
 personData = [],
 filteredPersonData = [],
 filterableSkills = [],
-filterableLocations = [];
+filterableLocations = [],
+filterableNames = [];
 
 function loadJSON(callback) {
 
@@ -36,10 +38,11 @@ loadJSON(function(response) {
     // Add to list of skills and locations
     generateFilterableList ('skills', filterableSkills, skillsListElement);
     generateFilterableList ('location', filterableLocations, locationsListElement);
+    generateFilterableList ('name', filterableNames, namesListElement);
 });
 
 function createId (string) {
-    var filterId = string.replace(/\s/g , "-");
+    var filterId = string.replace(/[\. ,:-]+/g, '-').toLowerCase();
     return filterId;
 }
 
@@ -51,8 +54,15 @@ function generateFilterableList(keyToFilter, filterArray, element) {
                     filterArray.push(personData[i][keyToFilter][j]);
                 }
             }
-        } else {if ((personData[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(personData[i][keyToFilter]))) {
-            filterArray.push(personData[i][keyToFilter]);
+        } else if (keyToFilter === 'name') {
+            var firstLetter = personData[i][keyToFilter].charAt(0).toUpperCase();
+
+            if (!filterArray.includes(firstLetter)) {
+                filterArray.push(firstLetter);
+            }
+        } else {
+            if ((personData[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(personData[i][keyToFilter]))) {
+                filterArray.push(personData[i][keyToFilter]);
             }
         }
     }
@@ -80,8 +90,14 @@ function filterPersonData (keyToFilter, keyValue) {
     // If there's a filter, filter the data or replicate the full list
     if (keyToFilter){
         for (var i = 0; i < personData.length; i++) {
-            if (personData[i][keyToFilter].includes(keyValue)) {
-                filteredPersonData.push(personData[i]);
+            if (keyToFilter === 'name') {
+                if (personData[i][keyToFilter].charAt(0) === keyValue) {
+                    filteredPersonData.push(personData[i]);
+                }
+            } else {
+                if (personData[i][keyToFilter].includes(keyValue)) {
+                    filteredPersonData.push(personData[i]);
+                }
             }
         }
 
@@ -195,7 +211,7 @@ function displayPersonData () {
             formattedGameLinks += '</ul>';
         }
 
-        listItemTemplate = '<li>' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedGameLinks + formattedPersonalLinks + formattedBusinessLinks + '</li>';
+        listItemTemplate = '<li id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedGameLinks + formattedPersonalLinks + formattedBusinessLinks + '</li>';
 
         var peopleListElementHTML = peopleListElement.innerHTML;
         peopleListElement.innerHTML = peopleListElementHTML + listItemTemplate;
