@@ -142,6 +142,7 @@ li span + span::before {
 
 .navigation {
   padding: 20px 0 40px;
+  margin-bottom: 40px;
   border-bottom: 1px dotted #333;
 }
 

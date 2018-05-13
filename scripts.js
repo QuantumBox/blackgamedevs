@@ -1,4 +1,5 @@
 var peopleListElement = document.getElementById('list-of-people'),
+companiesListElement = document.getElementById('list-of-companies'),
 skillsListElement = document.getElementById('list-of-skills'),
 locationsListElement = document.getElementById('list-of-locations'),
 filterOnElement = document.getElementById('filter-on'),
