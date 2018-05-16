@@ -6,12 +6,14 @@ namesListElement = document.getElementById('list-of-letters'),
 filterOnElement = document.getElementById('filter-on'),
 filterDetailElement = document.getElementById('filter-current'),
 personData = [],
+companyData = [],
 filteredPersonData = [],
+filteredCompanyData = [],
 filterableSkills = [],
 filterableLocations = [],
 filterableNames = [];
 
-function loadJSON(callback) {
+function loadPeopleJSON(callback) {
 
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType('application/json');
@@ -25,7 +27,7 @@ function loadJSON(callback) {
     xobj.send(null);
 }
 
-loadJSON(function(response) {
+loadPeopleJSON(function(response) {
     // Parse JSON string into object
     personData = JSON.parse(response);
 
@@ -33,12 +35,41 @@ loadJSON(function(response) {
     personData.splice(0, 1);
 
     // Filter and display data
-    filterPersonData();
+    filterData();
 
     // Add to list of skills and locations
-    generateFilterableList ('skills', filterableSkills, skillsListElement);
-    generateFilterableList ('location', filterableLocations, locationsListElement);
-    generateFilterableList ('name', filterableNames, namesListElement);
+    generateFilterableList ('skills', personData, filterableSkills, skillsListElement);
+    generateFilterableList ('location', personData, filterableLocations, locationsListElement);
+    generateFilterableList ('name', personData, filterableNames, namesListElement);
+});
+
+function loadCompaniesJSON(callback) {
+
+    var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType('application/json');
+    xobj.open('GET', 'companies.json', true); // Replace 'my_data' with the path to your file
+    xobj.onreadystatechange = function () {
+      if (xobj.readyState == 4 && xobj.status == '200') {
+            // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+            callback(xobj.responseText);
+        }
+    };
+    xobj.send(null);
+}
+
+loadCompaniesJSON(function(response) {
+    // Parse JSON string into object
+    companyData = JSON.parse(response);
+
+    // Remove the template object
+    companyData.splice(0, 1);
+
+    // Filter and display data
+    filterData();
+
+    // Add to list of skills and locations
+    generateFilterableList ('location', companyData, filterableLocations, locationsListElement);
+    generateFilterableList ('name', companyData, filterableNames, namesListElement);
 });
 
 function createId (string) {
@@ -46,35 +77,40 @@ function createId (string) {
     return filterId;
 }
 
-function generateFilterableList(keyToFilter, filterArray, element) {
-    for (var i = 0; i < personData.length; i++) {
-        if(keyToFilter === 'skills'){
-            for (var j = 0; j < personData[i][keyToFilter].length; j++) {
-                if (!filterArray.includes(personData[i][keyToFilter][j])) {
-                    filterArray.push(personData[i][keyToFilter][j]);
+function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
+    for (var i = 0; i < dataArray.length; i++) {
+        if (keyToFilter === 'skills'){
+            for (var j = 0; j < dataArray[i][keyToFilter].length; j++) {
+                if (!filterArray.includes(dataArray[i][keyToFilter][j])) {
+                    filterArray.push(dataArray[i][keyToFilter][j]);
+                    populateFilterElement(keyToFilter, dataArray[i][keyToFilter][j], element);
                 }
             }
         } else if (keyToFilter === 'name') {
-            var firstLetter = personData[i][keyToFilter].charAt(0).toUpperCase();
+            var firstLetter = dataArray[i][keyToFilter].charAt(0).toUpperCase();
 
             if (!filterArray.includes(firstLetter)) {
                 filterArray.push(firstLetter);
+                populateFilterElement(keyToFilter, firstLetter, element);
             }
         } else {
-            if ((personData[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(personData[i][keyToFilter]))) {
-                filterArray.push(personData[i][keyToFilter]);
+            if ((dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
+                filterArray.push(dataArray[i][keyToFilter]);
+                populateFilterElement(keyToFilter, dataArray[i][keyToFilter], element);
             }
         }
     }
 
-    for (var i = 0; i < filterArray.length; i++) {
-        var filterAsString;
-        filterAsString = titleCaseString(filterArray[i]);
-        var filterId = createId(filterArray[i]);
-        element.innerHTML += '<li><button class="filter-button" onclick="filterPersonData(\''+ keyToFilter +'\', \'' + filterArray[i] +'\');" id="filter-' + filterId + '">' + filterAsString + '</button></li>';
-    }
-
     return filterArray;
+}
+
+function populateFilterElement(keyToFilter, filterValue, element) {
+    var filterAsString;
+    filterAsString = titleCaseString(filterValue);
+
+    var filterId = createId(filterValue);
+    element.innerHTML += '<li><button class="filter-button" onclick="filterData(\''+ keyToFilter +'\', \'' + filterValue +'\');" id="filter-' + filterId + '">' + filterAsString + '</button></li>';
+
 }
 
 function titleCaseString (str) {
@@ -83,9 +119,10 @@ function titleCaseString (str) {
     return str;
 }
 
-function filterPersonData (keyToFilter, keyValue) {
+function filterData (keyToFilter, keyValue) {
     // Clear the filtered data
     filteredPersonData = [];
+    filteredCompanyData = [];
 
     // If there's a filter, filter the data or replicate the full list
     if (keyToFilter){
@@ -101,10 +138,26 @@ function filterPersonData (keyToFilter, keyValue) {
             }
         }
 
+        // Company data
+        for (var j = 0; j < companyData.length; j++) {
+            if (keyToFilter === 'name') {
+                if (companyData[j][keyToFilter].charAt(0) === keyValue) {
+                    filteredCompanyData.push(companyData[j]);
+                }
+            } else if (keyToFilter === 'location') {
+                if (companyData[j][keyToFilter].includes(keyValue)) {
+                    filteredCompanyData.push(companyData[j]);
+                }
+            } else {
+                filteredCompanyData = companyData;
+            }
+        }
+
         filterOnElement.classList.remove('display-none');
         filterDetailElement.innerHTML = keyToFilter + ': ' + titleCaseString(keyValue);
     } else {
         filteredPersonData = personData;
+        filteredCompanyData = companyData;
         filterOnElement.classList.add('display-none');
     }
 
@@ -115,8 +168,85 @@ function filterPersonData (keyToFilter, keyValue) {
         return 0
     });
 
+    filteredCompanyData.sort(function(a, b) {
+        if(a.name.toLowerCase() < b.name.toLowerCase()) return -1;
+        if(a.name.toLowerCase() > b.name.toLowerCase()) return 1;
+        return 0
+    });
+
     // Display after filtered
     displayPersonData();
+    displayCompanyData();
+}
+
+function generateLocationElement (locationElement, location) {
+    if ((typeof location !== 'undefined') && (location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
+        locationElement = '<p class="mt-0"><button class="filter-button" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
+    }
+
+    return locationElement;
+}
+
+function generateImageElement (imageElement, image, type) {
+    if ((typeof image !== 'undefined') && (image.length > 0) && (image !== "http://image-link-here.com/image.png")) {
+        imageElement = '<div class="list-item-image"><img src="' + image + '"></div>';
+    } else {
+        // If no image, show placeholder
+        switch (type) {
+            case "person":
+            imageElement = '<div class="list-item-image"><img src="no-user-image.png"></div>';
+            break;
+            default:
+            imageElement = '<div class="list-item-image"><img src="no-company-image.png"></div>';
+            break;
+        }
+    }
+
+    return imageElement;
+}
+
+function generateWebsitesElement (websitesElement, websites, headerIndividualString) {
+    if (typeof websites !== 'undefined') {
+        if (websites.length === 1) {
+            websitesElement = '<h4>' + headerIndividualString + '</h4>';
+        } else {
+            websitesElement = '<h4>' + headerIndividualString + 's</h4>';
+        }
+
+        websitesElement += '<ul class="link-list">';
+
+        for (var i = 0; i < websites.length; i++) {
+            var individualWebsite = websites[i];
+            if ((typeof individualWebsite !== 'undefined') && (individualWebsite.length > 0)) {
+                websitesElement += '<li><a href="' + individualWebsite[1] + '" target="_blank">' + individualWebsite[0] + '</a></li>';
+            }
+        }
+        websitesElement += '</ul>';
+    }
+
+    return websitesElement;
+}
+
+function generateGamesElement (gamesElement, games, headerIndividualString) {
+    if ((typeof games !== 'undefined')) {
+        if (games.length === 1) {
+            gamesElement = '<h4>' + headerIndividualString + '</h4>';
+        } else {
+            gamesElement = '<h4>' + headerIndividualString + 's</h4>';
+        }
+
+        gamesElement += '<ul class="link-list">';
+
+        for (var l = 0; l < games.length; l++) {
+            var individualGame = games[l];
+            if ((typeof individualGame !== 'undefined') && (individualGame.length > 0)) {
+                gamesElement += '<li><a href="' + individualGame[1] + '" target="_blank">' + individualGame[0] + '</a></li>';
+            }
+        }
+        gamesElement += '</ul>';
+    }
+
+    return gamesElement;
 }
 
 function displayPersonData () {
@@ -136,9 +266,7 @@ function displayPersonData () {
         formattedName = '<h3>' + individualPerson.name + '</h3>';
 
         // Show location
-        if ((typeof individualPerson.location !== 'undefined') && (individualPerson.location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
-            formattedLocation = '<p class="mt-0"><button class="filter-button" onclick="filterPersonData(\'location\', \'' + individualPerson.location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + individualPerson.location + '</button></p>';
-        }
+        formattedLocation = generateLocationElement(formattedLocation, individualPerson.location);
 
         // Show skills
         if ((typeof individualPerson.skills !== 'undefined') && (individualPerson.skills.length > 0)) {
@@ -150,70 +278,60 @@ function displayPersonData () {
 
             formattedSkills += '<ul class="skill-list">';
             for (var h = 0; h < individualPerson.skills.length; h++) {
-                formattedSkills += '<li><button class="filter-button" onclick="filterPersonData(\'skills\', \'' + individualPerson.skills[h] + '\')">' + individualPerson.skills[h] + '</button></li>';
+                formattedSkills += '<li><button class="filter-button" onclick="filterData(\'skills\', \'' + individualPerson.skills[h] + '\')">' + individualPerson.skills[h] + '</button></li>';
             }
             formattedSkills += '</ul>';
         }
 
         // Show image
-        if ((typeof individualPerson.image !== 'undefined') && (individualPerson.image.length > 0) && (individualPerson.image !== "http://image-link-here.com/image.png")) {
-            formattedImage = '<div class="list-item-image"><img src="' + individualPerson.image + '"></div>';
-        } else {
-            // If no image, show placeholder
-            formattedImage = '<div class="list-item-image"><img src="no-user-image.png"></div>';
-        }
+        formattedImage = generateImageElement(formattedImage, individualPerson.image, 'person');
 
         // Personal links
-        if (typeof individualPerson.websites.personal !== 'undefined') {
-            if (individualPerson.websites.personal.length === 1) {
-                formattedPersonalLinks = '<h4>Personal site</h4>'
-            } else {
-                formattedPersonalLinks = '<h4>Personal sites</h4>'
-            }
-
-            formattedPersonalLinks += '<ul class="link-list">';
-            for (var j = 0; j < individualPerson.websites.personal.length; j++) {
-                var individualWebsite = individualPerson.websites.personal[j];
-                if ((typeof individualWebsite !== 'undefined') && (individualWebsite.length > 0)) {
-                    formattedPersonalLinks += '<li><a href="' + individualWebsite[1] + '" target="_blank">' + individualWebsite[0] + '</a></li>';
-                }
-            }
-            formattedPersonalLinks += '</ul>';
-        }
+        formattedPersonalLinks = generateWebsitesElement(formattedPersonalLinks, individualPerson.websites.personal, 'Personal site');
 
         // Business links
-        if (typeof individualPerson.websites.business !== 'undefined') {
-            if (individualPerson.websites.business.length === 1) {
-                formattedPersonalLinks = '<h4>Business site</h4>'
-            } else {
-                formattedPersonalLinks = '<h4>Business sites</h4>'
-            }
-
-            formattedBusinessLinks += '<ul class="link-list">';
-            for (var k = 0; k < individualPerson.websites.business.length; k++) {
-                var individualWebsite = individualPerson.websites.business[k];
-                if ((typeof individualWebsite !== 'undefined') && (individualWebsite.length > 0)) {
-                    formattedBusinessLinks += '<li><a href="' + individualWebsite[1] + '" target="_blank">' + individualWebsite[0] + '</a></li>';
-                }
-            }
-            formattedBusinessLinks += '</ul>';
-        }
+        formattedBusinessLinks = generateWebsitesElement(formattedBusinessLinks, individualPerson.websites.business, 'Business site');
 
         // Game links
-        if (typeof individualPerson.games !== 'undefined') {
-            formattedGameLinks = '<h4>Playable games</h4><ul class="link-list">';
-            for (var l = 0; l < individualPerson.games.length; l++) {
-                var individualGame = individualPerson.games[l];
-                if ((typeof individualGame !== 'undefined') && (individualGame.length > 0)) {
-                    formattedGameLinks += '<li><a href="' + individualGame[1] + '" target="_blank">' + individualGame[0] + '</a></li>';
-                }
-            }
-            formattedGameLinks += '</ul>';
-        }
+        formattedGameLinks = generateWebsitesElement(formattedGameLinks, individualPerson.games, 'Game');
 
         listItemTemplate = '<li id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedGameLinks + formattedPersonalLinks + formattedBusinessLinks + '</li>';
 
         var peopleListElementHTML = peopleListElement.innerHTML;
         peopleListElement.innerHTML = peopleListElementHTML + listItemTemplate;
+    }
+}
+
+function displayCompanyData() {
+    // Empty HTML list
+    companiesListElement.innerHTML = '';
+
+    // Go through list and add filtered data
+    for (var i = 0; i < filteredCompanyData.length; i++) {
+        var listItemTemplate = '',
+        formattedImage = '',
+        formattedLocation = '',
+        formattedWebsiteLinks = '',
+        formattedGameLinks = '',
+        individualCompany = filteredCompanyData[i],
+        formattedName = '<h3>' + individualCompany.name + '</h3>';
+
+        // Show location
+        formattedLocation = generateLocationElement(formattedLocation, individualCompany.location);
+
+        // Show image
+        formattedImage = generateImageElement(formattedImage, individualCompany.image, "company");
+
+        // Website links
+        formattedBusinessLinks = generateWebsitesElement(formattedWebsiteLinks, individualCompany.websites, 'Website');
+
+        // Game links
+        formattedGameLinks = generateWebsitesElement(formattedGameLinks, individualCompany.games, 'Game');
+
+        // Draw item
+        listItemTemplate = '<li id="' + createId(individualCompany.name) +'">' + formattedName + formattedLocation + formattedImage + formattedGameLinks + formattedWebsiteLinks + '</li>';
+
+        var companiesListElementHTML = companiesListElement.innerHTML;
+        companiesListElement.innerHTML = companiesListElementHTML + listItemTemplate;
     }
 }

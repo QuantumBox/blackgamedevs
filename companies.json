@@ -1,0 +1,92 @@
+[
+   {
+      "name":"DUPLICATE AND EDIT ME",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+            [
+               "Website",
+               "http://link-here.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/username-here"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/username-here"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/username-here"
+            ],
+            [
+               "Youtube",
+               "https://youtube.com/username-here"
+            ],
+            [
+               "Patreon",
+               "https://www.patreon.com/username-here"
+            ]
+         ],
+      "games":[
+         [
+            "GAME NAME HERE",
+            "http://link-here.com"
+         ],
+         [
+            "GAME NAME HERE",
+            "http://link-here.com"
+         ],
+         [
+            "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
+            "http://link-here.com"
+         ]
+      ]
+   },
+   {
+      "name":"Algorythmic Studios",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+            [
+               "Website",
+               "http://www.algorythmicstudios.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/AlgorythmicSG"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/username-here"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/username-here"
+            ],
+            [
+               "Youtube",
+               "https://youtube.com/username-here"
+            ],
+            [
+               "Patreon",
+               "https://www.patreon.com/username-here"
+            ]
+         ],
+      "games":[
+         [
+            "GAME NAME HERE",
+            "http://link-here.com"
+         ],
+         [
+            "GAME NAME HERE",
+            "http://link-here.com"
+         ],
+         [
+            "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
+            "http://link-here.com"
+         ]
+      ]
+   }
+]
