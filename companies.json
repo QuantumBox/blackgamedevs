@@ -4,31 +4,31 @@
       "image":"http://image-link-here.com/image.png",
       "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
       "websites":[
-            [
-               "Website",
-               "http://link-here.com"
-            ],
-            [
-               "Twitter",
-               "https://twitter.com/username-here"
-            ],
-            [
-               "Facebook",
-               "https://facebook.com/username-here"
-            ],
-            [
-               "Instagram",
-               "https://instagram.com/username-here"
-            ],
-            [
-               "Youtube",
-               "https://youtube.com/username-here"
-            ],
-            [
-               "Patreon",
-               "https://www.patreon.com/username-here"
-            ]
+         [
+            "Website",
+            "http://link-here.com"
          ],
+         [
+            "Twitter",
+            "https://twitter.com/username-here"
+         ],
+         [
+            "Facebook",
+            "https://facebook.com/username-here"
+         ],
+         [
+            "Instagram",
+            "https://instagram.com/username-here"
+         ],
+         [
+            "Youtube",
+            "https://youtube.com/username-here"
+         ],
+         [
+            "Patreon",
+            "https://www.patreon.com/username-here"
+         ]
+      ],
       "games":[
          [
             "GAME NAME HERE",
@@ -49,43 +49,445 @@
       "image":"http://image-link-here.com/image.png",
       "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
       "websites":[
-            [
-               "Website",
-               "http://www.algorythmicstudios.com"
-            ],
-            [
-               "Twitter",
-               "https://twitter.com/AlgorythmicSG"
-            ],
-            [
-               "Facebook",
-               "https://facebook.com/username-here"
-            ],
-            [
-               "Instagram",
-               "https://instagram.com/username-here"
-            ],
-            [
-               "Youtube",
-               "https://youtube.com/username-here"
-            ],
-            [
-               "Patreon",
-               "https://www.patreon.com/username-here"
-            ]
+         [
+            "Website",
+            "http://www.algorythmicstudios.com"
          ],
+         [
+            "Twitter",
+            "https://twitter.com/AlgorythmicSG"
+         ]
+      ]
+   },
+   {
+      "name":"Afroes",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://afroes.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/afroesgames"
+         ]
+      ]
+   },
+   {
+      "name":"Algitt Studios",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://algittstudios.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/AlgittStudios"
+         ]
+      ]
+   },
+   {
+      "name":"Brainchild Studios",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://www.brainchildstudios.co.uk"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/thebrained"
+         ]
+      ]
+   },
+   {
+      "name":"Duckbridge",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://duckbridge.nl"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/Duckbridge"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/duckbridgegames"
+         ]
+      ]
+   },
+   {
+      "name":"Edible Entertainment",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://edibleinteractive.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/e2games"
+         ]
+      ]
+   },
+   {
+      "name":"Endless Fluff",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://endlessfluff.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/EndlessFluff"
+         ]
+      ]
+   },
+   {
+      "name":"FeryFamy",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Twitter",
+            "https://twitter.com/feryfamy"
+         ]
+      ]
+   },
+   {
+      "name":"Gnovahex Computing",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Itch.io",
+            "https://gvxcomp.itch.io"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/Gnovahex"
+         ]
+      ]
+   },
+   {
+      "name":"Iron Reaver Games",
+      "image":"http://image-link-here.com/image.png",
+      "location":"United Kingdom",
+      "websites":[
+         [
+            "Website",
+            "http://ironreavergames.blogspot.com/"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/IronReaverGames"
+         ]
+      ]
+   },
+   {
+      "name":"KIRO'O Games",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://kiroogames.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/KIROOGames"
+         ]
+      ]
+   },
+   {
+      "name":"Kola Studios",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://kolastudios.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/kolastudios"
+         ]
+      ]
+   },
+   {
+      "name":"Legeci Studios",
+      "image":"http://image-link-here.com/image.png",
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":[
+         [
+            "Website",
+            "http://kolastudios.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/LegeciStudios"
+         ]
+      ]
+   },
+   {
+      "name":"Leti Arts",
+      "image":"http://image-link-here.com/image.png",
+      "location":"Ghana",
+      "websites":[
+         [
+            "Website",
+            "http://letiarts.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/letiarts"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/LetiArts"
+         ],
+         [
+            "Instagram",
+            "https://www.instagram.com/letiarts"
+         ]
+      ]
+   },
+   {
+      "name":"Lucky Shot Media",
+      "image":"http://image-link-here.com/image.png",
+      "location":"United States",
+      "websites":[
+         [
+            "Website",
+            "http://www.luckyshotmediallc.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/LuckyShotMedia"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/LuckyShotMedia"
+         ]
+      ]
+   },
+   {
+      "name":"MABManZ",
+      "image":"http://image-link-here.com/image.png",
+      "location":"United States",
+      "websites":[
+         [
+            "Website",
+            "http://www.mabmanz.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/MABManZ"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/MABManZ"
+         ],
+         [
+            "Steam",
+            "http://steamcommunity.com/sharedfiles/filedetails/?id=259565917"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCFsULKTRtKCDOS2FmKs7dlw?view_as=subscriber"
+         ],
+         [
+            "Patreon",
+            "https://www.patreon.com/username-here"
+         ]
+      ]
+   },
+   {
+      "name":"Miscellaneum Studios",
+      "image":"http://image-link-here.com/image.png",
+      "location":"Canada",
+      "websites":[
+         [
+            "Website",
+            "https://miscellaneumstudios.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/misc_studios"
+         ]
+      ]
+   },
+   {
+      "name":"More Fire Games",
+      "image":"http://image-link-here.com/image.png",
+      "location":"United States",
+      "websites":[
+         [
+            "Website",
+            "http://morefiregames.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/MoreFireGames"
+         ],
+         [
+            "Facebook",
+            "http://facebook.com/MoreFireGames"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/c/MoreFireGames"
+         ],
+         [
+            "Tumblr",
+            "http://morefiregames.tumblr.com"
+         ]
+      ]
+   },
+   {
+      "name":"NITETIME Studios",
+      "image":"http://nitetimestudios.com/img/logo.svg",
+      "location":"United States",
+      "websites":[
+         [
+            "Website",
+            "http://nitetimestudios.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/NITETIMEStudios"
+         ],
+         [
+            "Instagram",
+            "https://www.instagram.com/NITETIMEstudios"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCjz2dvFUBjYa4fotIpK9yOQ"
+         ]
+      ]
+   },
+   {
+      "name":"Noohkema Interactive",
+      "image":"http://image-link-here.com/image.png",
+      "location": "Cameroon",
+      "websites":[
+         [
+            "Website",
+            "http://noohkema.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/Noohkema"
+         ]
+      ]
+   },
+   {
+      "name":"Notion Games",
+      "image":"http://image-link-here.com/image.png",
+      "location": "United States",
+      "websites":[
+         [
+            "Website",
+            "http://notiongames.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/NotionGamesLLC"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/NotionGames"
+         ],
+         [
+            "Patreon",
+            "https://www.patreon.com/notiongames"
+         ]
+      ]
+   },
+   {
+      "name":"OMC Games",
+      "image":"http://image-link-here.com/image.png",
+      "websites":[
+         [
+            "Website",
+            "http://omc-games.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/OMC_Games"
+         ]
+      ],
       "games":[
+            [
+               "Skullforge",
+               "http://skullforge.omc-games.com"
+            ]
+      ]
+   },
+   {
+      "name":"One Man Left Studios",
+      "image":"http://image-link-here.com/image.png",
+      "websites":[
          [
-            "GAME NAME HERE",
-            "http://link-here.com"
+            "Website",
+            "http://onemanleft.com"
          ],
          [
-            "GAME NAME HERE",
-            "http://link-here.com"
+            "Twitter",
+            "https://twitter.com/OneManLeft"
+         ]
+      ]
+   },
+   {
+      "name":"PawByte",
+      "image":"http://image-link-here.com/image.png",
+      "location": "United States",
+      "websites":[
+         [
+            "Website",
+            "http://pawbyte.com"
          ],
          [
-            "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
-            "http://link-here.com"
+            "Twitter",
+            "https://twitter.com/Pawbyte"
+         ]
+      ]
+   },
+   {
+      "name":"PawByte",
+      "image":"http://image-link-here.com/image.png",
+      "location": "United States",
+      "websites":[
+         [
+            "Website",
+            "http://pawbyte.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/Pawbyte"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/NotionGames"
+         ],
+         [
+            "Instagram",
+            "http://notiongames.com"
+         ],
+         [
+            "Patreon",
+            "https://www.patreon.com/notiongames"
          ]
       ]
    }

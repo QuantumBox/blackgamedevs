@@ -86,6 +86,315 @@
       ]
    },
    {
+      "name":"Alex Okafor",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "production",
+         "narrative design"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/AlexOkafor"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://onemanleft.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/OneManLeft"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Devon Nicholson Jr",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "production",
+         "narrative design"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/Kildros"
+            ],
+            [
+               "Tumblr",
+               "http://kildros.tumblr.com"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"James Garvinh",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "programming",
+         "narrative design"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/edarkness1"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://omc-games.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/OMC_Games"
+            ]
+         ]
+      },
+      "games":[
+         [
+            "Skullforge",
+            "http://skullforge.omc-games.com"
+         ]
+      ]
+   },
+   {
+      "name":"Chris Stallworth",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "programming",
+         "game audio",
+         "game art"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/Southerndeep"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://www.luckyshotmediallc.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/LuckyShotMedia"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/LuckyShotMedia"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Ronique Wright",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "programming"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/roniquewright"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://morefiregames.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/MoreFireGames"
+            ],
+            [
+               "Facebook",
+               "http://facebook.com/MoreFireGames"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/c/MoreFireGames"
+            ],
+            [
+               "Tumblr",
+               "http://morefiregames.tumblr.com"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Syid Massiah",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game art"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/SyidMassiah"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://morefiregames.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/MoreFireGames"
+            ],
+            [
+               "Facebook",
+               "http://facebook.com/MoreFireGames"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/c/MoreFireGames"
+            ],
+            [
+               "Tumblr",
+               "http://morefiregames.tumblr.com"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Anthony Turley",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "programming"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/cmstallworth"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://www.codedtale.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/CodedTale"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Orun",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "programming"
+      ],
+      "location":"Canada",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/OrunBot"
+            ]
+         ]
+      },
+      "games": [
+         "Melee Spaceship",
+         "http://www.meleespaceship.com"
+      ]
+   },
+   {
+      "name":"Zed Jasper Onono",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "programming"
+      ],
+      "location":"Uganda",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/zedjasper"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://kolastudios.com"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Jeffrey Willis",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "programming",
+         "narrative design",
+         "game audio"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/AsixJin"
+            ],
+            [
+               "GitHub",
+               "https://github.com/AsixJin"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://AsentrixStudios.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/AsentrixStudios"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/AsentrixStudios"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/asentrixstudios"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/channel/UCFsULKTRtKCDOS2FmKs7dlw?view_as=subscriber"
+            ],
+            [
+               "SoundCloud",
+               "https://soundcloud.com/asix-jin"
+            ]
+         ]
+      }
+   },
+   {
       "name":"Adewale Haroun",
       "image":"http://image-link-here.com/image.png",
       "skills":[
@@ -919,6 +1228,28 @@
       }
    },
    {
+      "name":"Darryl A. Barnes",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "programming",
+         "game art"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{
+         "business":[
+            [
+               "Website",
+               "http://dabstudio7.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/dabstudio7"
+            ]
+         ]
+      }
+   },
+   {
       "name":"David Obaniyi",
       "image":"http://image-link-here.com/image.png",
       "skills":[
@@ -1247,7 +1578,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1264,7 +1595,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1297,7 +1628,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1320,7 +1651,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1341,7 +1672,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1362,7 +1693,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1379,7 +1710,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1400,7 +1731,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "business":[
             [
@@ -1427,7 +1758,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "business":[
             [
@@ -1450,7 +1781,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1467,7 +1798,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1488,7 +1819,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1508,7 +1839,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1530,7 +1861,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1552,7 +1883,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1568,7 +1899,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1614,7 +1945,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1640,7 +1971,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1660,7 +1991,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "business":[
             [
@@ -1676,7 +2007,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1692,7 +2023,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1718,7 +2049,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1734,7 +2065,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1754,7 +2085,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1770,7 +2101,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1797,7 +2128,7 @@
          "game design",
          "production"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1814,7 +2145,7 @@
          "game design",
          "production"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1842,7 +2173,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1864,7 +2195,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1891,7 +2222,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1913,7 +2244,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1946,7 +2277,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1966,7 +2297,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -1982,7 +2313,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2047,7 +2378,7 @@
          "game design",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2068,7 +2399,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2084,7 +2415,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2110,7 +2441,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2126,7 +2457,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2149,7 +2480,7 @@
          "game design",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2170,7 +2501,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2197,7 +2528,7 @@
          "game design",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2219,7 +2550,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2241,7 +2572,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2281,7 +2612,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2297,7 +2628,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2335,7 +2666,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2356,7 +2687,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2379,7 +2710,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2399,7 +2730,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2422,7 +2753,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2439,7 +2770,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2456,7 +2787,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2505,7 +2836,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2528,7 +2859,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2544,7 +2875,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2604,7 +2935,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2644,7 +2975,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2661,7 +2992,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2704,7 +3035,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2727,7 +3058,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2748,7 +3079,7 @@
          "game design",
          "programming"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2768,7 +3099,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2790,7 +3121,7 @@
       "skills":[
          "game design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2808,7 +3139,7 @@
          "game audio",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2844,7 +3175,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2870,7 +3201,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2902,7 +3233,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2928,7 +3259,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -2954,7 +3285,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "business":[
             [
@@ -2980,7 +3311,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3020,7 +3351,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3060,7 +3391,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3090,7 +3421,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3124,7 +3455,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3162,7 +3493,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3194,7 +3525,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3224,7 +3555,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3254,7 +3585,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "business":[
             [
@@ -3280,7 +3611,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3322,7 +3653,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3352,7 +3683,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3382,7 +3713,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3412,7 +3743,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3442,7 +3773,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3476,7 +3807,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3506,7 +3837,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3536,7 +3867,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3566,7 +3897,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3592,7 +3923,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3618,7 +3949,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3648,7 +3979,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3688,7 +4019,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3718,7 +4049,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3744,7 +4075,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3774,7 +4105,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3810,7 +4141,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3840,7 +4171,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3874,7 +4205,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "games":[
             [
@@ -3906,7 +4237,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3932,7 +4263,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -3958,7 +4289,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "games":[
             [
@@ -3994,7 +4325,7 @@
          "quality assurance",
          "game art"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4018,7 +4349,7 @@
       "skills":[
          "narrative design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4040,7 +4371,7 @@
       "skills":[
          "narrative design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4062,7 +4393,7 @@
       "skills":[
          "narrative design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4082,7 +4413,7 @@
       "skills":[
          "narrative design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4098,7 +4429,7 @@
       "skills":[
          "narrative design"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4114,7 +4445,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4130,7 +4461,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4150,7 +4481,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4166,7 +4497,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "business":[
             [
@@ -4182,7 +4513,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4198,7 +4529,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4214,7 +4545,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [
@@ -4238,7 +4569,7 @@
       "skills":[
          "marketing"
       ],
-      "location":"United States of America",
+      "location":"United States",
       "websites":{
          "personal":[
             [

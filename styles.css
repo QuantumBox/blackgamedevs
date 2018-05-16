@@ -107,8 +107,16 @@ li span + span::before {
   width: auto;
 }
 
+.icon.icon-large {
+  height: 1em;
+}
+
+.vertical-align-middle {
+  vertical-align: middle;
+}
+
 .icon.icon-light {
-  filter: invert(100%);
+  filter: invert(80%);
 }
 
 /* Spacing */
@@ -171,7 +179,7 @@ li span + span::before {
 }
 
 .link-list {
-  margin-bottom: .75rem;
+  display: inline-block;
 }
 
 .link-list li {
