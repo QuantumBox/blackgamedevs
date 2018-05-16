@@ -86,6 +86,98 @@
       ]
    },
    {
+      "name":"SrBilyon Harris",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "programming",
+         "user interface design"
+      ],
+      "location":"WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "websites":{
+         "personal":[
+            [
+               "Website",
+               "http://www.srbilyon.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/srbharris"
+            ]
+         ],
+         "business":[
+            [
+               "Website",
+               "http://stormynights.xyz"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/StormyNightsLLC"
+            ]
+         ]
+      },
+      "games":[
+         [
+            "Newt Scoot",
+            "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=23642"
+         ],
+         [
+            "Tado Toss",
+            "http://www.indiedb.com/games/tado-toss"
+         ],
+         [
+            "Calcusaurus",
+            "https://play.google.com/store/apps/details?id=com.StormyNightsLLC.Calcusaurus&hl=en"
+         ],
+         [
+            "Breeze in the Clouds",
+            "http://www.breezethegame.com"
+         ]
+      ]
+   },
+   {
+      "name":"Leonard Wedderburn",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design",
+         "programming",
+         "game art"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Website",
+               "http://leonardport.pogky.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/ktp4life"
+            ],
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/leonardwedderburnvrardev"
+            ]
+         ]
+      }
+   },
+   {
+      "name":"Kynton Stephens",
+      "image":"http://image-link-here.com/image.png",
+      "skills":[
+         "game design"
+      ],
+      "location":"United States",
+      "websites":{
+         "personal":[
+            [
+               "Twitter",
+               "https://twitter.com/KyntonStephens"
+            ]
+         ]
+      }
+   },
+   {
       "name":"Alex Okafor",
       "image":"http://image-link-here.com/image.png",
       "skills":[
@@ -1613,10 +1705,6 @@
             [
                "YouTube",
                "https://www.youtube.com/c/pixelinteraction"
-            ],
-            [
-               "Facebook",
-               "https://www.facebook.com/mojenmusic"
             ]
          ]
       }
