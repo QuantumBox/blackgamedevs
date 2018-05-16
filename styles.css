@@ -128,12 +128,28 @@ li span + span::before {
   margin-bottom: 0;
 }
 
+.mt-1 {
+  margin-top: .5rem;
+}
+
+.mt-2 {
+  margin-top: 1rem;
+}
+
+.mt-3 {
+  margin-top: 1.5rem;
+}
+
 .mr-1 {
   margin-right: .5rem;
 }
 
 .mb-1 {
   margin-bottom: .5rem;
+}
+
+.mb-2 {
+  margin-bottom: 1rem;
 }
 
 .display-none {

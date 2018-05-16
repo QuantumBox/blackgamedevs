@@ -182,7 +182,7 @@ function filterData (keyToFilter, keyValue) {
 
 function generateLocationElement (locationElement, location) {
     if ((typeof location !== 'undefined') && (location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
-        locationElement = '<p class="mt-0"><button class="filter-button" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
+        locationElement = '<p class="mt-0"><button class="filter-button mb-0" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
     }
 
     return locationElement;
@@ -245,13 +245,7 @@ function displayPersonData () {
 
         // Show skills
         if ((typeof individualPerson.skills !== 'undefined') && (individualPerson.skills.length > 0)) {
-            if (individualPerson.skills.length === 1) {
-                formattedSkills = '<h4>Skill</h4>'
-            } else {
-                formattedSkills = '<h4>Skills</h4>'
-            }
-
-            formattedSkills += '<ul class="skill-list">';
+            formattedSkills += '<ul class="skill-list mt-2">';
             for (var h = 0; h < individualPerson.skills.length; h++) {
                 formattedSkills += '<li><button class="filter-button" onclick="filterData(\'skills\', \'' + individualPerson.skills[h] + '\')">' + individualPerson.skills[h] + '</button></li>';
             }
