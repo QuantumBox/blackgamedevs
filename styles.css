@@ -215,7 +215,25 @@ img {
 }
 
 .list-item-image {
-  margin-bottom: .5rem;
+
+}
+
+.list-item-image-crop {
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding: 100% 0 0 0;
+}
+
+.list-item-image-crop img {
+  display: block;
+  min-width: 100%;
+  min-height: 100%;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
 }
 
 footer {

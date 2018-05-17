@@ -189,19 +189,22 @@ function generateLocationElement (locationElement, location) {
 }
 
 function generateImageElement (imageElement, image, type) {
+    imageElement = '<div class="list-item-image mb-2"><div class="list-item-image-crop">';
     if ((typeof image !== 'undefined') && (image.length > 0) && (image !== "http://image-link-here.com/image.png")) {
-        imageElement = '<div class="list-item-image"><img src="' + image + '"></div>';
+        imageElement += '<img src="' + image + '">';
     } else {
         // If no image, show placeholder
         switch (type) {
             case "person":
-            imageElement = '<div class="list-item-image"><img src="no-user-image.png"></div>';
+            imageElement += '<img src="no-user-image.png">';
             break;
             default:
-            imageElement = '<div class="list-item-image"><img src="no-company-image.png"></div>';
+            imageElement += '<img src="no-company-image.png">';
             break;
         }
     }
+
+    imageElement += '</div></div>';
 
     return imageElement;
 }
@@ -213,7 +216,6 @@ function generateLinksElement (linksElement, links, iconName) {
 
         for (var i = 0; i < links.length; i++) {
             var individualLink = links[i];
-            console.log(links[i]);
             if ((typeof individualLink !== 'undefined') && (individualLink.length > 0)) {
                 linksElement += '<li><a href="' + individualLink[1] + '" target="_blank">' + individualLink[0] + '</a></li>';
             }
@@ -245,7 +247,7 @@ function displayPersonData () {
 
         // Show skills
         if ((typeof individualPerson.skills !== 'undefined') && (individualPerson.skills.length > 0)) {
-            formattedSkills += '<ul class="skill-list mt-2">';
+            formattedSkills += '<ul class="skill-list">';
             for (var h = 0; h < individualPerson.skills.length; h++) {
                 formattedSkills += '<li><button class="filter-button" onclick="filterData(\'skills\', \'' + individualPerson.skills[h] + '\')">' + individualPerson.skills[h] + '</button></li>';
             }
@@ -264,7 +266,7 @@ function displayPersonData () {
         // Game links
         formattedGameLinks = generateLinksElement(formattedGameLinks, individualPerson.games, 'icon-game');
 
-        listItemTemplate = '<li id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedGameLinks + formattedPersonalLinks + formattedBusinessLinks + '</li>';
+        listItemTemplate = '<li id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedPersonalLinks + formattedBusinessLinks + formattedGameLinks + '</li>';
 
         var peopleListElementHTML = peopleListElement.innerHTML;
         peopleListElement.innerHTML = peopleListElementHTML + listItemTemplate;
@@ -298,7 +300,7 @@ function displayCompanyData() {
         formattedGameLinks = generateLinksElement(formattedGameLinks, individualCompany.games, 'icon-game');
 
         // Draw item
-        listItemTemplate = '<li id="' + createId(individualCompany.name) +'">' + formattedName + formattedLocation + formattedImage + formattedGameLinks + formattedWebsiteLinks + '</li>';
+        listItemTemplate = '<li id="' + createId(individualCompany.name) +'">' + formattedName + formattedLocation + formattedImage + formattedWebsiteLinks + formattedGameLinks + '</li>';
 
         var companiesListElementHTML = companiesListElement.innerHTML;
         companiesListElement.innerHTML = companiesListElementHTML + listItemTemplate;
