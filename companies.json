@@ -242,8 +242,8 @@
    },
    {
       "name": "Algorythmic Studios",
-      "image": "http://image-link-here.com/image.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "image": "https://pbs.twimg.com/profile_images/949527614477172736/9VIJ2z1M_400x400.jpg",
+      "location": "United States",
       "websites": [
          [
             "Website",
@@ -257,8 +257,8 @@
    },
    {
       "name": "Afroes",
-      "image": "http://image-link-here.com/image.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "image": "http://afroes.com/wp-content/uploads/2015/06/morabaraba_screenshot.jpg",
+      "location": "South Africa",
       "websites": [
          [
             "Website",
@@ -272,8 +272,8 @@
    },
    {
       "name": "Algitt Studios",
-      "image": "http://image-link-here.com/image.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "image": "http://www.algittstudios.com/site/images/layout/currenttitles_she.jpg",
+      "location": "United States",
       "websites": [
          [
             "Website",
@@ -282,6 +282,12 @@
          [
             "Twitter",
             "https://twitter.com/AlgittStudios"
+         ]
+      ],
+      "ganes": [
+         [
+            "Super Heist Escape",
+            "http://algittstudios.com/she/she.html"
          ]
       ]
    },
