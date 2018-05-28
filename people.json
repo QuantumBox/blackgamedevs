@@ -4241,25 +4241,18 @@
       }
    },
    {
-      "name": "Christian Howard ",
+      "name": "Christian Howard",
+      "image": "http://betathegame.com/static/main/img/banner-nexus.jpg",
       "skills": [
          "narrative design"
       ],
       "location": "United States",
-      "websites": {
-         "personal": [
-            [
-               "Website",
-               "http://christianhoward.squarespace.com/"
-            ]
-         ],
-         "games": [
-            [
-               "Beta",
-               "http://betathegame.com/#teambeta"
-            ]
+      "games": [
+         [
+            "Beta",
+            "http://betathegame.com/#teambeta"
          ]
-      }
+      ]
    },
    {
       "name": "Jacob Mooney",

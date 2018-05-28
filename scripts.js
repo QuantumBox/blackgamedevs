@@ -257,11 +257,14 @@ function displayPersonData () {
         // Show image
         formattedImage = generateImageElement(formattedImage, individualPerson.image, 'person');
 
-        // Personal links
-        formattedPersonalLinks = generateLinksElement(formattedPersonalLinks, individualPerson.websites.personal, 'icon-user');
+        if (individualPerson.websites) {
+            // Personal links
+            formattedPersonalLinks = generateLinksElement(formattedPersonalLinks, individualPerson.websites.personal, 'icon-user');
 
-        // Business links
-        formattedBusinessLinks = generateLinksElement(formattedBusinessLinks, individualPerson.websites.business, 'icon-business');
+            // Business links
+            formattedBusinessLinks = generateLinksElement(formattedBusinessLinks, individualPerson.websites.business, 'icon-business');
+
+        }
 
         // Game links
         formattedGameLinks = generateLinksElement(formattedGameLinks, individualPerson.games, 'icon-game');
