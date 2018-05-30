@@ -92,7 +92,7 @@
    },
    {
       "name": "White Guardian Studios",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/799443303846408192/AFZLTthM_400x400.jpg",
       "location": "United States",
       "websites": [
          [
@@ -121,7 +121,7 @@
    },
    {
       "name": "SwordSharp",
-      "image": "http://image-link-here.com/image.png",
+      "image": "http://swordsharp.com/wp-content/uploads/2014/09/SwordSharp_logo_black_wide_transparent.pnghttp://image-link-here.com/image.png",
       "websites": [
          [
             "Website",
@@ -139,7 +139,7 @@
    },
    {
       "name": "Stormy Nights",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/649745897736171520/AFFyNzaA_400x400.png",
       "location": "United States",
       "websites": [
          [
@@ -164,7 +164,7 @@
    },
    {
       "name": "Revelation Interactive",
-      "image": "http://image-link-here.com/image.png",
+      "image": "http://www.revelation-interactive.com/ristudios/wp-content/uploads/2018/03/LogoRGB16_512.png",
       "location": "United States",
       "websites": [
          [
@@ -178,18 +178,6 @@
          [
             "Facebook",
             "https://www.facebook.com/rigames"
-         ],
-         [
-            "Instagram",
-            "https://instagram.com/username-here"
-         ],
-         [
-            "Youtube",
-            "https://youtube.com/username-here"
-         ],
-         [
-            "Patreon",
-            "https://www.patreon.com/username-here"
          ]
       ],
       "games": [
@@ -327,7 +315,7 @@
    },
    {
       "name": "Edible Entertainment",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/879195716714758144/_HJgurVy_400x400.jpg",
       "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
       "websites": [
          [
@@ -398,7 +386,7 @@
    },
    {
       "name": "KIRO'O Games",
-      "image": "http://image-link-here.com/image.png",
+      "image": "http://kiroogames.com/templates/kiroo/images/logo.png",
       "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
       "websites": [
          [
@@ -413,7 +401,7 @@
    },
    {
       "name": "Kola Studios",
-      "image": "http://image-link-here.com/image.png",
+      "image": "http://kolastudios.com/wp-content/uploads/2018/03/ks-logo-v-b.png",
       "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
       "websites": [
          [
@@ -428,12 +416,12 @@
    },
    {
       "name": "Legeci Studios",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/621562948209672192/5NYL-vOl_400x400.png",
       "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
       "websites": [
          [
             "Website",
-            "http://kolastudios.com"
+            "http://legecistudios.com"
          ],
          [
             "Twitter",
@@ -443,7 +431,7 @@
    },
    {
       "name": "Leti Arts",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/970918845690122241/uVt0Pj0s_400x400.jpg",
       "location": "Ghana",
       "websites": [
          [
@@ -466,7 +454,7 @@
    },
    {
       "name": "Lucky Shot Media",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/696498475517607937/zoboWCqC_400x400.png",
       "location": "United States",
       "websites": [
          [
@@ -485,7 +473,7 @@
    },
    {
       "name": "MABManZ",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://www.mabmanz.com/Header.png",
       "location": "United States",
       "websites": [
          [
@@ -516,7 +504,7 @@
    },
    {
       "name": "Miscellaneum Studios",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/561001273886257152/bYjcsc0e_400x400.jpeg",
       "location": "Canada",
       "websites": [
          [
@@ -531,7 +519,7 @@
    },
    {
       "name": "More Fire Games",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/771691244300951552/Y6FreC4b_400x400.jpg",
       "location": "United States",
       "websites": [
          [
@@ -581,7 +569,7 @@
    },
    {
       "name": "Noohkema Interactive",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/378800000029634324/ffdf3dfbb9898e6471e6bff17c4a80a3_400x400.jpeg",
       "location": "Cameroon",
       "websites": [
          [
@@ -625,7 +613,7 @@
    },
    {
       "name": "OMC Games",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/423045106245971968/q0bifaJW_400x400.png",
       "websites": [
          [
             "Website",
@@ -659,7 +647,7 @@
    },
    {
       "name": "PawByte",
-      "image": "http://image-link-here.com/image.png",
+      "image": "https://pbs.twimg.com/profile_images/859881364807614471/OPSANbrL_400x400.jpg",
       "location": "United States",
       "websites": [
          [
@@ -669,33 +657,6 @@
          [
             "Twitter",
             "https://twitter.com/Pawbyte"
-         ]
-      ]
-   },
-   {
-      "name": "PawByte",
-      "image": "http://image-link-here.com/image.png",
-      "location": "United States",
-      "websites": [
-         [
-            "Website",
-            "http://pawbyte.com"
-         ],
-         [
-            "Twitter",
-            "https://twitter.com/Pawbyte"
-         ],
-         [
-            "Facebook",
-            "https://www.facebook.com/NotionGames"
-         ],
-         [
-            "Instagram",
-            "http://notiongames.com"
-         ],
-         [
-            "Patreon",
-            "https://www.patreon.com/notiongames"
          ]
       ]
    }
