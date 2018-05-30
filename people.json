@@ -126,10 +126,6 @@
          [
             "Calcusaurus",
             "https://play.google.com/store/apps/details?id=com.StormyNightsLLC.Calcusaurus&hl=en"
-         ],
-         [
-            "Breeze in the Clouds",
-            "http://www.breezethegame.com"
          ]
       ]
    },
@@ -256,7 +252,7 @@
       ]
    },
    {
-      "name": "Chris Stallworth",
+      "name": "Anthony Turley",
       "image": "http://www.codedtale.com/wp-content/uploads/2018/03/GameScreenshot-1.png",
       "skills": [
          "programming",
@@ -362,7 +358,7 @@
       }
    },
    {
-      "name": "Anthony Turley",
+      "name": "Chris Stallworth",
       "skills": [
          "programming"
       ],
@@ -804,10 +800,6 @@
       "websites": {
          "personal": [
             [
-               "Website",
-               "http://jarrodflemister.wix.com/jarrodflemister"
-            ],
-            [
                "Twitter",
                "https://twitter.com/Adventure_This"
             ]
@@ -1002,10 +994,6 @@
             [
                "Twitter",
                "https://twitter.com/RobaatoX"
-            ],
-            [
-               "Patreon",
-               "https://www.patreon.com/Robaato"
             ]
          ]
       }
@@ -1055,7 +1043,7 @@
          "personal": [
             [
                "Website",
-               "http://www.kasai.deviantart.com"
+               "http://kasai.deviantart.com"
             ],
             [
                "Twitter",
@@ -1095,7 +1083,7 @@
             ],
             [
                "Twitter",
-               "https://twitter.com/Afraux"
+               "https://twitter.com/tiooonnn"
             ],
             [
                "Pixiv",
@@ -1290,40 +1278,6 @@
             [
                "SoundCloud",
                "https://soundcloud.com/musicknight44"
-            ],
-            [
-               "LinkedIn",
-               "https://www.linkedin.com/in/darrylduncan"
-            ],
-            [
-               "Patreon",
-               ""
-            ]
-         ],
-         "business": [
-            [
-               "Website",
-               "http://gamebeatstudios.com"
-            ],
-            [
-               "Twitter",
-               ""
-            ],
-            [
-               "Facebook",
-               ""
-            ],
-            [
-               "Instagram",
-               ""
-            ],
-            [
-               "Youtube",
-               ""
-            ],
-            [
-               "Patreon",
-               ""
             ]
          ]
       }
@@ -2105,7 +2059,7 @@
          "personal": [
             [
                "Twitter",
-               "https://twitter.com/JamalSeaton"
+               ""
             ]
          ],
          "business": [
@@ -2228,21 +2182,6 @@
             [
                "Website",
                "http://www.irongalaxystudios.com"
-            ]
-         ]
-      }
-   },
-   {
-      "name": "Joe Storm",
-      "skills": [
-         "game design"
-      ],
-      "location": "United States",
-      "websites": {
-         "personal": [
-            [
-               "Twitter",
-               "https://twitter.com/JoeGStorm"
             ]
          ]
       }
@@ -2444,7 +2383,7 @@
          "personal": [
             [
                "Twitter",
-               "https://twitter.com/Bomangani"
+               ""
             ]
          ]
       },
@@ -2627,10 +2566,6 @@
          ]
       },
       "games": [
-         [
-            "Ether on Google Play",
-            "https://play.google.com/store/apps/details?id=com.hallenapps.ether"
-         ]
       ]
    },
    {
@@ -2759,10 +2694,6 @@
             [
                "Website",
                "http://www.critical-gaming.com/"
-            ],
-            [
-               "Twitter",
-               "https://twitter.com/averymd"
             ]
          ],
          "business": [
@@ -2789,7 +2720,7 @@
          "business": [
             [
                "Patreon",
-               "https://www.patreon.com/Rokashi?ty=h"
+               "https://www.patreon.com/Rokashi"
             ]
          ]
       }
@@ -2869,10 +2800,6 @@
       "location": "Jamaica",
       "websites": {
          "personal": [
-            [
-               "Website",
-               "http://www.rob3rtmorrison.com/"
-            ],
             [
                "Twitter",
                "https://twitter.com/b0b3rt"
@@ -4079,7 +4006,7 @@
       }
    },
    {
-      "name": "Rekcahdam",
+      "name": "TJ Thomas",
       "skills": [
          "game design",
          "programming",
@@ -4381,22 +4308,7 @@
             ],
             [
                "Instagram",
-               "Instagram.com/escoblades"
-            ]
-         ]
-      }
-   },
-   {
-      "name": "Jason Miller",
-      "skills": [
-         "marketing"
-      ],
-      "location": "United States",
-      "websites": {
-         "personal": [
-            [
-               "Twitter",
-               "https://twitter.com/j_millerworks"
+               "https://instagram.com/escoblades"
             ]
          ]
       }
