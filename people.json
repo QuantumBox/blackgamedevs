@@ -86,6 +86,31 @@
       ]
    },
    {
+      "name": "Hessvacio Hassan",
+      "skills": [
+         "game design",
+         "programming"
+      ],
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://hessvacio.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/hessvacio"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Museum Multiverse VR",
+            "https://www.facebook.com/Museum-Multiverse-VR-112600309466302/"
+         ]
+      ]
+   },
+   {
       "name": "SrBilyon Harris",
       "skills": [
          "game design",
