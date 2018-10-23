@@ -215,21 +215,20 @@ img {
 }
 
 .list-item-image {
-
+  height: 300px;
+  overflow: hidden;
 }
 
 .list-item-image-crop {
-  overflow: hidden;
-  position: relative;
   height: 100%;
   width: 100%;
-  padding: 100% 0 0 0;
+  position: relative;
 }
 
 .list-item-image-crop img {
   display: block;
-  min-width: 100%;
-  min-height: 100%;
+  width: 100%;
+  height: 100%;
   margin: auto;
   position: absolute;
   top: 0;
