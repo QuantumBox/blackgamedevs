@@ -46,7 +46,6 @@
    },
    {
       "name": "Quadron Studios",
-      "image": "https://instagram.fash1-1.fna.fbcdn.net/vp/8b7181be8782dd14247b45cb9eebf7c9/5B902813/t51.2885-15/s640x640/sh0.08/e35/21688596_2033955266835190_5842010783692619776_n.jpg",
       "location": "Nigeria",
       "websites": [
          [
@@ -172,38 +171,8 @@
             "http://www.revelation-interactive.com"
          ],
          [
-            "Twitter",
-            "https://twitter.com/username-here"
-         ],
-         [
             "Facebook",
             "https://www.facebook.com/rigames"
-         ],
-         [
-            "Instagram",
-            "https://instagram.com/username-here"
-         ],
-         [
-            "Youtube",
-            "https://youtube.com/username-here"
-         ],
-         [
-            "Patreon",
-            "https://www.patreon.com/username-here"
-         ]
-      ],
-      "games": [
-         [
-            "GAME NAME HERE",
-            "http://link-here.com"
-         ],
-         [
-            "GAME NAME HERE",
-            "http://link-here.com"
-         ],
-         [
-            "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
-            "http://link-here.com"
          ]
       ]
    },
