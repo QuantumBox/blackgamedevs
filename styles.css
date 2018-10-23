@@ -264,3 +264,9 @@ footer {
     grid-row-gap: 2rem;
   }
 }
+
+@media screen and (max-width: 559px) {
+  .grid-list-item + .grid-list-item {
+    margin-top: 2rem;
+  }
+}

@@ -269,7 +269,7 @@ function displayPersonData () {
         // Game links
         formattedGameLinks = generateLinksElement(formattedGameLinks, individualPerson.games, 'icon-game');
 
-        listItemTemplate = '<li id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedPersonalLinks + formattedBusinessLinks + formattedGameLinks + '</li>';
+        listItemTemplate = '<li class="grid-list-item" id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedPersonalLinks + formattedBusinessLinks + formattedGameLinks + '</li>';
 
         var peopleListElementHTML = peopleListElement.innerHTML;
         peopleListElement.innerHTML = peopleListElementHTML + listItemTemplate;
@@ -303,7 +303,7 @@ function displayCompanyData() {
         formattedGameLinks = generateLinksElement(formattedGameLinks, individualCompany.games, 'icon-game');
 
         // Draw item
-        listItemTemplate = '<li id="' + createId(individualCompany.name) +'">' + formattedName + formattedLocation + formattedImage + formattedWebsiteLinks + formattedGameLinks + '</li>';
+        listItemTemplate = '<li class="grid-list-item" id="' + createId(individualCompany.name) +'">' + formattedName + formattedLocation + formattedImage + formattedWebsiteLinks + formattedGameLinks + '</li>';
 
         var companiesListElementHTML = companiesListElement.innerHTML;
         companiesListElement.innerHTML = companiesListElementHTML + listItemTemplate;
