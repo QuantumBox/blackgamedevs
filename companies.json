@@ -640,5 +640,20 @@
             "https://twitter.com/Pawbyte"
          ]
       ]
+   },
+   {
+      "name": "MerjTek",
+      "image": "merjtek.com/images/3-N-1-White-Half.png",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "http://merjtek.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/merjtek"
+         ],
+      ],
    }
 ]
