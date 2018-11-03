@@ -86,6 +86,33 @@
       ]
    },
    {
+      "name": "Sean Heron",
+      "skills": [
+         "game design",
+         "programming",
+         "narrative design"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://seanheron.weebly.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/seanjcheron"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Final Spike",
+            "http://snheron.itch.io/final-spike"
+         ]
+      ]
+   },
+   {
       "name": "Hessvacio Hassan",
       "skills": [
          "game design",
