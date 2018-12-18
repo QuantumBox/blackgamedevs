@@ -124,7 +124,6 @@ function filterData (keyToFilter, keyValue) {
     // Clear the filtered data
     filteredPersonData = [];
     filteredCompanyData = [];
-
     // If there's a filter, filter the data or replicate the full list
     if (keyToFilter){
         for (var i = 0; i < personData.length; i++) {
@@ -133,7 +132,7 @@ function filterData (keyToFilter, keyValue) {
                     filteredPersonData.push(personData[i]);
                 }
             } else {
-                if (personData[i][keyToFilter].includes(keyValue)) {
+                if (personData[i].hasOwnProperty(keyToFilter) && personData[i][keyToFilter].includes(keyValue)) {
                     filteredPersonData.push(personData[i]);
                 }
             }
@@ -146,7 +145,7 @@ function filterData (keyToFilter, keyValue) {
                     filteredCompanyData.push(companyData[j]);
                 }
             } else if (keyToFilter === 'location') {
-                if (companyData[j][keyToFilter].includes(keyValue)) {
+                if (companyData[j].hasOwnProperty(keyToFilter) && companyData[j][keyToFilter].includes(keyValue)) {
                     filteredCompanyData.push(companyData[j]);
                 }
             } else {
