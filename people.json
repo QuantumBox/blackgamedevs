@@ -86,31 +86,50 @@
       ]
    },
    {
-      "name": "Absalom Alila",
-      "skills": [
-         "game design",
-         "programming",
-         "network administration"
-      ],
-      "websites": {
-         "personal": [
-            [
-               "Website",
-               "https://www.instagram.com/gamedevs_/"
-            ],
-            [
-               "Twitter",
-               "https://twitter.com/DevsKenya"
-            ]
-         ]
-      },
-      "games": [
-         [
-            "Museum Multiverse VR",
-            "https://www.facebook.com/Game-Devs-Kenya-1193404420835294/"
-         ]
-      ]
-   },
+     "name": "Absalom Alila",
+     "image": "https://t.co/3AyYUNj4HF",
+     "skills": [
+        "game design",
+        "programming",
+        "production",
+        "public relations",
+        "game audio",
+        "marketing",
+        "game art"
+     ],
+     "location": "KENYA",
+     "websites": {
+        "personal": [
+           [
+              "Instagram",
+              "https://t.co/njeDTFjke0"
+           ],
+           [
+              "Youtube",
+              "https://t.co/s6D5IB5KPJ"
+           ]
+        ]
+
+        "business": [
+
+           [
+              "Twitter",
+              "https://t.co/choCcrZObO"
+           ],
+           [
+              "Facebook",
+              "https://t.co/FTlWPe5uq7"
+           ],
+           [
+              "Instagram",
+              "https://t.co/epz6gKUPlz"
+           ],
+           [
+              "Youtube",
+              "https://t.co/KUBKF5Mmxd"
+           ]
+        ]
+     },
    {
       "name": "Sean Heron",
       "skills": [
