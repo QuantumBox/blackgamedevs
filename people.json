@@ -85,7 +85,7 @@
          ]
       ]
    },
-   {
+      {
      "name": "Absalom Alila",
      "image": "https://t.co/3AyYUNj4HF",
      "skills": [
@@ -100,36 +100,40 @@
      "location": "KENYA",
      "websites": {
         "personal": [
+            [
+             "Facebook",
+             "https://www.facebook.com/absalom.alila.5"
+           ],
            [
               "Instagram",
-              "https://t.co/njeDTFjke0"
+              "https://www.instagram.com/absa_lom_alila/"
            ],
            [
               "Youtube",
-              "https://t.co/s6D5IB5KPJ"
+              "https://www.youtube.com/channel/UCIYJM-3r9p2eJ185_xA7t9w"
            ]
-        ]
-
+        ],
         "business": [
 
            [
               "Twitter",
-              "https://t.co/choCcrZObO"
+              "https://twitter.com/DevsKenya"
            ],
            [
               "Facebook",
-              "https://t.co/FTlWPe5uq7"
+              "https://www.facebook.com/Game-Devs-Kenya-1193404420835294/"
            ],
            [
               "Instagram",
-              "https://t.co/epz6gKUPlz"
+              "https://www.instagram.com/gamedevs_/"
            ],
            [
               "Youtube",
-              "https://t.co/KUBKF5Mmxd"
+              "https://www.youtube.com/channel/UCjdXRZfG6jalBNfRoWBfAPw"
            ]
         ]
-     },
+     }
+   },
    {
       "name": "Sean Heron",
       "skills": [
