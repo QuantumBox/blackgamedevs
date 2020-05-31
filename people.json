@@ -85,6 +85,60 @@
          ]
       ]
    },
+   {
+      "name": "Salman Shurie",
+      "image": "https://66.media.tumblr.com/1c50a80f951925f1cf4495db42f133cf/tumblr_owtkupoQBw1tdkr0to3_1280.gifv",
+      "skills": [
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "copywriting",
+         "narrative design",
+         "game audio",
+         "quality assurance",
+         "game art"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://gesinimo.com"
+            ],
+            [
+               "Itch.io",
+               "https://salmanshh.itch.io"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/Salman_Shh"
+            ],
+            [
+               "Patreon",
+               "https://www.patreon.com/SalmanShh"
+            ],
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/salman-shurie-a9a28598/"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "BUBBUN",
+            "https://www.newgrounds.com/portal/view/729320"
+         ],
+         [
+            "Gungolf",
+            "https://salmanshh.itch.io/gungolfdemo"
+         ],
+         [
+            "Just Spikes 'n Platforming",
+            "https://salmanshh.itch.io/just-spikes-n-platforming"
+         ]
+      ]
+   },
       {
      "name": "Absalom Alila",
      "skills": [
@@ -4471,7 +4525,7 @@
                "Game Page",
                "https://www.facebook.com/fortyacresgame/"
             ]
-         ],  
+         ],
          "games": [
          [
             "Forty Acres",
