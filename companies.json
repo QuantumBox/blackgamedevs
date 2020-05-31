@@ -91,7 +91,7 @@
    },
    {
       "name": "White Guardian Studios",
-      "image": "https://pbs.twimg.com/profile_images/799443303846408192/AFZLTthM_400x400.jpg",
+      "image": "https://whiteguardianstudios.com/wp-content/uploads/2019/11/HeaderImage.png",
       "location": "United States",
       "websites": [
          [
@@ -138,7 +138,7 @@
    },
    {
       "name": "Stormy Nights",
-      "image": "https://pbs.twimg.com/profile_images/649745897736171520/AFFyNzaA_400x400.png",
+      "image": "http://www.stormynights.games/CRex_AppLogo.png",
       "location": "United States",
       "websites": [
          [
@@ -211,7 +211,7 @@
    },
    {
       "name": "Algorythmic Studios",
-      "image": "https://pbs.twimg.com/profile_images/949527614477172736/9VIJ2z1M_400x400.jpg",
+      "image": "http://nebula.wsimg.com/14d5032fa862fc1aaee9a2cf0660795b?AccessKeyId=4A512CB7C1C723FECA90&disposition=0&alloworigin=1",
       "location": "United States",
       "websites": [
          [
@@ -226,12 +226,12 @@
    },
    {
       "name": "Afroes",
-      "image": "http://afroes.com/wp-content/uploads/2015/06/morabaraba_screenshot.jpg",
+      "image": "",
       "location": "South Africa",
       "websites": [
          [
-            "Website",
-            "http://afroes.com"
+            "Facebook",
+            "https://www.facebook.com/AfroesGames/"
          ],
          [
             "Twitter",
@@ -296,12 +296,12 @@
    },
    {
       "name": "Edible Entertainment",
-      "image": "https://pbs.twimg.com/profile_images/879195716714758144/_HJgurVy_400x400.jpg",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "image": "https://static.wixstatic.com/media/827b1b_9fd0d4c8bc824bd9bc4d0c75cb6eeffd~mv2.png/v1/fill/w_410,h_418,al_c,q_85,usm_0.66_1.00_0.01/827b1b_9fd0d4c8bc824bd9bc4d0c75cb6eeffd~mv2.webp",
+      "location": "Australia",
       "websites": [
          [
             "Website",
-            "http://edibleinteractive.com"
+            "https://www.adventurecraftgame.com/"
          ],
          [
             "Twitter",
@@ -311,8 +311,8 @@
    },
    {
       "name": "Endless Fluff",
-      "image": "http://image-link-here.com/image.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "image": "http://www.valdisstory.com/i/site_screens00.png",
+      "location": "United States",
       "websites": [
          [
             "Website",
@@ -321,6 +321,20 @@
          [
             "Twitter",
             "https://twitter.com/EndlessFluff"
+         ]
+      ],
+      "games": [
+         [
+            "Legend of Fae",
+            "https://endlessfluff.wordpress.com/legend-of-fae/"
+         ],
+         [
+            "Fae Tactics",
+            "https://www.humblebundle.com/store/fae-tactics"
+         ],
+         [
+            "Valdis Story: Abyssal City",
+            "http://www.valdisstory.com/"
          ]
       ]
    },
@@ -338,7 +352,7 @@
    {
       "name": "Gnovahex Computing",
       "image": "http://image-link-here.com/image.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "location": "United States",
       "websites": [
          [
             "Itch.io",
@@ -367,8 +381,8 @@
    },
    {
       "name": "KIRO'O Games",
-      "image": "http://kiroogames.com/templates/kiroo/images/logo.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "image": "http://kiroogames.com/images/stories/kiroostudio/new2.jpg",
+      "location": "Cameroon",
       "websites": [
          [
             "Website",
@@ -383,7 +397,7 @@
    {
       "name": "Kola Studios",
       "image": "http://kolastudios.com/wp-content/uploads/2018/03/ks-logo-v-b.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "location": "Uganda",
       "websites": [
          [
             "Website",
@@ -398,7 +412,7 @@
    {
       "name": "Legeci Studios",
       "image": "https://pbs.twimg.com/profile_images/621562948209672192/5NYL-vOl_400x400.png",
-      "location": "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS",
+      "location": "United States",
       "websites": [
          [
             "Website",
@@ -412,7 +426,7 @@
    },
    {
       "name": "Leti Arts",
-      "image": "https://pbs.twimg.com/profile_images/970918845690122241/uVt0Pj0s_400x400.jpg",
+      "image": "http://www.letiarts.com/wp-content/uploads/2014/09/trio.png",
       "location": "Ghana",
       "websites": [
          [
@@ -565,7 +579,7 @@
    },
    {
       "name": "Notion Games",
-      "image": "http://notiongames.com/wp-content/uploads/2011/10/TeamNotionPosterLOGO1.jpg",
+      "image": "",
       "location": "United States",
       "websites": [
          [
@@ -614,7 +628,7 @@
    },
    {
       "name": "One Man Left Studios",
-      "image": "https://pbs.twimg.com/profile_images/974350292597727232/TNLfDagt_400x400.jpg",
+      "image": "http://onemanleft.com/wp-content/uploads/gamelist_HexGambit4-2.jpg",
       "websites": [
          [
             "Website",
@@ -624,11 +638,25 @@
             "Twitter",
             "https://twitter.com/OneManLeft"
          ]
+      ],
+      "games": [
+         [
+            "Hex Gambit: Respawned",
+            "https://store.steampowered.com/app/1297680/Hex_Gambit_Respawned/"
+         ],
+         [
+            "Space Food Truck",
+            "http://spacefoodtruck.com/"
+         ],
+         [
+            "Tilt to Live 2: Redonkulous",
+            "http://onemanleft.com/games/tilttolive2/"
+         ]
       ]
    },
    {
       "name": "PawByte",
-      "image": "https://pbs.twimg.com/profile_images/859881364807614471/OPSANbrL_400x400.jpg",
+      "image": "https://pawbyte.com/wp-content/uploads/2020/03/icon.jpg",
       "location": "United States",
       "websites": [
          [
@@ -643,7 +671,7 @@
    },
    {
       "name": "MerjTek",
-      "image": "http://merjtek.com/images/3-N-1-White-Half.png",
+      "image": "https://merjtek.github.io/images/MerjTekLogo-1024.png.thumb.jpg",
       "location": "United States",
       "websites": [
          [
