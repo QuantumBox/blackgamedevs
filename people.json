@@ -4596,5 +4596,43 @@
          ]
 
       }
+   },
+   {
+      "name": "Nathan McClain",
+      "image": "https://pbs.twimg.com/profile_images/527693594480504832/0mZLlGam_400x400.png",
+      "skills": [
+         "game design",
+         "game development",
+         "Unity3D",
+         "programming",
+         "user interface design",
+         "production",
+         "software development",
+         "web development",
+         "audio mixing",
+         "project management",
+         "game audio"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/sgtmcclain"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/nathan.mcclain"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/sgtmcclain"
+            ],
+            [
+               "Youtube",
+               "https://youtube.com/user/SergeantMcClain"
+            ]
+         ]
+      }
    }
 ]
