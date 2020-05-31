@@ -5,6 +5,8 @@ locationsListElement = document.getElementById('list-of-locations'),
 namesListElement = document.getElementById('list-of-letters'),
 filterOnElement = document.getElementById('filter-on'),
 filterDetailElement = document.getElementById('filter-current'),
+filterLoadingElement = document.getElementById('filter-loading-icon'),
+filterSection = document.getElementById('section-filters'),
 personData = [],
 companyData = [],
 filteredPersonData = [],
@@ -66,6 +68,10 @@ loadCompaniesJSON(function(response) {
 
     // Filter and display data
     filterData();
+
+    // Hide loading
+    filterLoadingElement.classList.add('display-none');
+    filterSection.classList.remove('display-none');
 
     // Add to list of skills and locations
     generateFilterableList ('location', companyData, filterableLocations, locationsListElement);

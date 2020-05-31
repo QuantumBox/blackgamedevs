@@ -23,17 +23,20 @@
  <div class="main">
   <div class="navigation">
     <h2 class="mt-0">Filters</h2>
-    <p><strong>Skills:</strong></p>
-    <ul id="list-of-skills">
-    </ul>
+    <img src="/loading.png" id="filter-loading-icon">
+    <section id="section-filters" class="display-none">
+      <p><strong>Skills:</strong></p>
+      <ul id="list-of-skills">
+      </ul>
 
-    <p><strong>Locations:</strong></p>
-    <ul id="list-of-locations">
-    </ul>
+      <p><strong>Locations:</strong></p>
+      <ul id="list-of-locations">
+      </ul>
 
-    <p><strong>Names starting with:</strong></p>
-    <ul id="list-of-letters">
-    </ul>
+      <p><strong>Names starting with:</strong></p>
+      <ul id="list-of-letters">
+      </ul>
+    </section>
   </div>
     <h2 id="people">People <a href="#companies" class="small-text">Jump to companies</a></h2>
       <!-- INSTRUCTIONS:
@@ -47,14 +50,14 @@
         <p id="filter-on" class="display-none small-text">Filtering by <span id="filter-current"></span>. <button onclick="filterData();">See all people</button></p>
 
         <ul id="list-of-people" class="grid-list">
-          Loading people...
+          <img src="/loading.png">
         </ul>
 
         <!-- COMPANIES -->
         <h2 id="companies">Companies <a href="#people" class="small-text">Jump to people</a></h2>
 
         <ul id="list-of-companies" class="grid-list">
-          Loading companies...
+          <img src="/loading.png">
         </ul>
 
       </div>
