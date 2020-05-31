@@ -86,6 +86,59 @@
       ]
    },
    {
+      "name": "Jord Farrell",
+      "image": "https://img.itch.zone/aW1hZ2UvOTczMzEvNDU4MTIxLnBuZw==/315x250%23c/xrK%2Fc6.png",
+      "skills": [
+         "game design",
+         "programming"
+      ],
+      "location": "Canada",
+      "websites": {
+         "personal": [
+            [
+               "Itch.io",
+               "https://mrtedders.itch.io/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/Mr_Tedders"
+            ]
+         ],
+      },
+      "games": [
+         [
+            "Media is dead, you are alive.",
+            "https://mrtedders.itch.io/media-is-dead-you-are-alive"
+         ]
+      ]
+   },
+   {
+      "name": "Bri Williams",
+      "image": "http://image-link-here.com/image.png",
+      "skills": [
+         "game design",
+         "programming",
+         "narrative design"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://briwilliams.co/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/renegadehanar"
+            ],
+            [
+               "Itch.io",
+               "https://oneoffpixel.itch.io/"
+            ]
+         ]
+      }
+   },
+   {
       "name": "Jordan Sparks",
       "image": "http://image-link-here.com/image.png",
       "skills": [
