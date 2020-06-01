@@ -100,7 +100,7 @@ function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
                 populateFilterElement(keyToFilter, firstLetter, element);
             }
         } else {
-            if ((dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
+            if ((dataArray[i][keyToFilter] !== '') && (dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
                 filterArray.push(dataArray[i][keyToFilter]);
                 populateFilterElement(keyToFilter, dataArray[i][keyToFilter], element);
             }
