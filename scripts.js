@@ -84,39 +84,49 @@ function createId (string) {
 }
 
 function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
-    for (var i = 0; i < dataArray.length; i++) {
-        if (keyToFilter === 'skills'){
-            for (var j = 0; j < dataArray[i][keyToFilter].length; j++) {
-                if (!filterArray.includes(dataArray[i][keyToFilter][j])) {
-                    filterArray.push(dataArray[i][keyToFilter][j]);
-                    populateFilterElement(keyToFilter, dataArray[i][keyToFilter][j], element);
-                }
-            }
-        } else if (keyToFilter === 'name') {
-            var firstLetter = dataArray[i][keyToFilter].charAt(0).toUpperCase();
+    var filterListString = '';
 
-            if (!filterArray.includes(firstLetter)) {
-                filterArray.push(firstLetter);
-                populateFilterElement(keyToFilter, firstLetter, element);
-            }
-        } else {
-            if ((dataArray[i][keyToFilter] !== '') && (dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
-                filterArray.push(dataArray[i][keyToFilter]);
-                populateFilterElement(keyToFilter, dataArray[i][keyToFilter], element);
+    for (var i = 0; i < dataArray.length; i++) {
+        var filterListItemString = '';
+
+        if (dataArray[i][keyToFilter]) {
+            if (keyToFilter === 'skills'){
+                for (var j = 0; j < dataArray[i][keyToFilter].length; j++) {
+                    if (!filterArray.includes(dataArray[i][keyToFilter][j])) {
+                        filterArray.push(dataArray[i][keyToFilter][j]);
+                        filterListString += populateFilterElement(keyToFilter, dataArray[i][keyToFilter][j], element, filterListItemString)
+                    }
+                }
+            } else if (keyToFilter === 'name') {
+                var firstLetter = dataArray[i][keyToFilter].charAt(0).toUpperCase();
+
+                if (!filterArray.includes(firstLetter)) {
+                    filterArray.push(firstLetter);
+                    filterListString += populateFilterElement(keyToFilter, firstLetter, element, filterListItemString);
+                }
+            } else {
+                if ((dataArray[i][keyToFilter] !== '') && (dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
+                    filterArray.push(dataArray[i][keyToFilter]);
+                    filterListString += populateFilterElement(keyToFilter, dataArray[i][keyToFilter], element, filterListItemString);
+                }
             }
         }
     }
 
+    element.innerHTML += filterListString;
+
     return filterArray;
 }
 
-function populateFilterElement(keyToFilter, filterValue, element) {
+function populateFilterElement(keyToFilter, filterValue, element, filterListItemString) {
+
     if (typeof filterValue !== 'undefined') {
         var filterAsString;
         filterAsString = titleCaseString(filterValue);
 
         var filterId = createId(filterValue);
-        element.innerHTML += '<li><button class="filter-button" onclick="filterData(\''+ keyToFilter +'\', \'' + filterValue +'\');" id="filter-' + filterId + '">' + filterAsString + '</button></li>';
+        filterListItemString += '<li><button class="filter-button" onclick="filterData(\''+ keyToFilter +'\', \'' + filterValue +'\');" id="filter-' + filterId + '">' + filterAsString + '</button></li>';
+        return filterListItemString;
     }
 }
 

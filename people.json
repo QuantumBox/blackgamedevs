@@ -86,6 +86,26 @@
       ]
    },
    {
+      "name": "Rocket Loam",
+      "image": "http://image-link-here.com/image.png",
+      "skills": [
+         "narrative design"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://ifluxcouldkill.net/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/aorocket"
+            ]
+         ]
+      }
+   },
+   {
       "name": "Walter Hill",
       "image": "",
       "skills": [
@@ -2939,7 +2959,7 @@
       "skills": [
          "game design"
       ],
-      "location": "England",
+      "location": "United Kingdom",
       "websites": {
          "personal": [
             [
@@ -4837,7 +4857,7 @@
                "https://www.twitch.tv/seageplays"
             ]
          ]
-      }  
+      }
    },
    {
       "name": "Grant Marzette",
