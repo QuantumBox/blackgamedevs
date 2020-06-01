@@ -6,7 +6,7 @@ There are three ways to do so.
 
 ### The good way (quickest)
 
-1. Fork this repository
+1. Clone this repository
 2. Open `people.json` and/or `companies.json` depending on whether your submission is one person or a studio (both is also fine)
 3. Duplicate the template at the top of the file(s) you are editing
 4. Add and save your submission
