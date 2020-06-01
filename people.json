@@ -4779,5 +4779,128 @@
             ]
          ]
       }
+   },
+   {
+      "name": "Courtney 'Seage' Howlett",
+      "image": "",
+      "skills": [
+         "game art"
+      ],
+      "location": "Canada",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://seageart.com/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/Seageart"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/seageart"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/seagespeaks"
+            ],
+            [
+               "Twitch",
+               "https://www.twitch.tv/seageplays"
+            ]
+         ]
+      }  
+   },
+   {
+      "name": "Grant Marzette",
+      "image": "",
+      "skills": [
+         "production",
+         "quality assurance"
+      ],
+      "location": "",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/artworkgoeshere"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "Xalavier Nelson Jr.",
+      "image": "",
+      "skills": [
+         "narrative design",
+         "writing"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://xalaviermakeswords.itch.io"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/WritNelson"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "Stefano F. Tayor",
+      "image": "",
+      "skills": [
+         "narrative design",
+         "writing"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/Stefano_TM"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "Thai Morris",
+      "image": "",
+      "skills": [
+         "programming"
+      ],
+      "location": "",
+      "websites": {
+         "personal": [
+            [
+               "GitHub",
+               "github.com/Thai-Morris"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/badthai"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "Tumelo Thabane",
+      "image": "",
+      "skills": [
+         "game art"
+      ],
+      "location": "",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://thabane-k.tumblr.com"
+            ]
+         ]
+      }
    }
 ]
