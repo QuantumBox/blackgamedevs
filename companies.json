@@ -45,6 +45,35 @@
       ]
    },
    {
+      "name": "Waking Oni",
+      "image": "https://images.squarespace-cdn.com/content/v1/58a321c4b3db2b3c6992e6e8/1585931952907-25OEMTMVD22RG6NXSILL/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbeDbaZv1s3QfpIA4TYnL5Qao8BosUKjCVjCf8TKewJIH3bqxw7fF48mhrq5Ulr0Hg/wallpaper-noks.png?format=500w",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "https://www.wakingoni.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/WakingOni"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/wakingoni"
+         ],
+         [
+            "Instagram",
+            "https://instagram.com/WakingOni"
+         ]
+      ],
+      "games": [
+         [
+            "Onsen Master",
+            "https://www.onsenmaster.com/"
+         ]
+      ]
+   },
+   {
       "name": "Quadron Studios",
       "location": "Nigeria",
       "websites": [
