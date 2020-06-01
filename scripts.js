@@ -232,8 +232,7 @@ function generateLinksElement (linksElement, links, iconName) {
 }
 
 function displayPersonData () {
-    // Empty HTML list
-    peopleListElement.innerHTML = '';
+    var peopleListHtml = '';
 
     // Go through list and add filtered data
     for (var i = 0; i < filteredPersonData.length; i++) {
@@ -276,14 +275,14 @@ function displayPersonData () {
 
         listItemTemplate = '<li class="grid-list-item" id="' + createId(individualPerson.name) +'">' + formattedName + formattedLocation + formattedImage + formattedSkills + formattedPersonalLinks + formattedBusinessLinks + formattedGameLinks + '</li>';
 
-        var peopleListElementHTML = peopleListElement.innerHTML;
-        peopleListElement.innerHTML = peopleListElementHTML + listItemTemplate;
+        peopleListHtml += listItemTemplate;
     }
+
+    peopleListElement.innerHTML = peopleListHtml;
 }
 
 function displayCompanyData() {
-    // Empty HTML list
-    companiesListElement.innerHTML = '';
+    var companiesHtml = '';
 
     // Go through list and add filtered data
     for (var i = 0; i < filteredCompanyData.length; i++) {
@@ -310,7 +309,8 @@ function displayCompanyData() {
         // Draw item
         listItemTemplate = '<li class="grid-list-item" id="' + createId(individualCompany.name) +'">' + formattedName + formattedLocation + formattedImage + formattedWebsiteLinks + formattedGameLinks + '</li>';
 
-        var companiesListElementHTML = companiesListElement.innerHTML;
-        companiesListElement.innerHTML = companiesListElementHTML + listItemTemplate;
+            companiesHtml += listItemTemplate;
     }
+
+    companiesListElement.innerHTML = companiesHtml;
 }
