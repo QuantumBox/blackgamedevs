@@ -8,7 +8,7 @@ body {
   background-color: #111;
   color:#FFF;
 
-  max-width:900px;
+  max-width:1280px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -64,6 +64,7 @@ button {
   padding: .2rem .6rem;
   margin-right: .5rem;
   margin-bottom: .5rem;
+  border-radius: .2rem;
 }
 
 button:hover {
@@ -233,6 +234,7 @@ img {
   position: absolute;
   top: 0;
   object-fit: cover;
+  border-radius: .2rem;
 }
 
 footer {
@@ -241,7 +243,7 @@ footer {
   padding: 20px 0;
 }
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 1280px) {
   .grid-list {
     display: -webkit-flex; /* Fallback for non-grid-supported browsers */
     display: flex; /* Fallback for non-grid-supported browsers */
@@ -253,7 +255,7 @@ footer {
   }
 }
 
-@media screen and (min-width: 560px) and (max-width: 779px) {
+@media screen and (min-width: 560px) and (max-width: 1279px) {
   .grid-list {
     display: -webkit-flex; /* Fallback for non-grid-supported browsers */
     display: flex; /* Fallback for non-grid-supported browsers */
