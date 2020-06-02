@@ -5159,5 +5159,48 @@
             ]
          ]
       }
+   },
+   {
+      "name": "Trey Douglas",
+      "image": "https://i.imgur.com/GXb3k1U.jpg",
+      "skills": [
+         "public relations",
+         "marketing"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/treydouglas"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/NerfTrey"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/trey.douglas"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/doctortrey"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "EVE Online",
+            "https://www.eveonline.com/ "
+         ],
+         [
+            "EVE: Valkyrie",
+            "https://www.evevalkyrie.com/"
+         ],
+         [
+            "Old School RuneScape",
+            "https://oldschool.runescape.com/"
+         ]
+      ]
    }
 ]
