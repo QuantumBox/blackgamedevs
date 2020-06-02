@@ -86,6 +86,34 @@
       ]
    },
    {
+      "name": "Biru Jones",
+      "image": "http://static1.squarespace.com/static/54b40658e4b0cdf625ed45e3/t/5ec168a580b6627d6b69ea3b/1590704087888/?format=500w",
+      "skills": [
+         "game audio"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://www.birujones.com/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/Soundbybiru"
+            ],
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/birujones/"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/Soundbybiru"
+            ]
+         ]
+      }
+   },
+   {
       "name": "Dani Lalonders",
       "image": "https://validategame.com/assets/images/gallery09/4fbc9905.jpg",
       "skills": [
