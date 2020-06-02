@@ -13,7 +13,8 @@ NAME_HERE
 ## Details about edit request
 I'm requesting this change because...
 
-## Image
+## Screenshot of work or logo
+(Please link to a PNG, GIF, JPEG, SVG, or WEBP file)
 http://image-link-here.com/image.png
 
 ## Skills
