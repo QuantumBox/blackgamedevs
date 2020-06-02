@@ -35,7 +35,7 @@
                "https://instagram.com/username-here"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://youtube.com/username-here"
             ],
             [
@@ -61,7 +61,7 @@
                "https://instagram.com/username-here"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://youtube.com/username-here"
             ],
             [
@@ -82,6 +82,138 @@
          [
             "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
             "http://link-here.com"
+         ]
+      ]
+   },
+   {
+      "name": "Hermann Kayode",
+      "image": "https://cdnb.artstation.com/p/assets/images/images/026/481/237/large/hermann-kayode-oya.jpg",
+      "skills": [
+         "game design",
+         "user interface design",
+         "game art"
+      ],
+      "location": "Senegal",
+      "websites": {
+         "personal": [
+            [
+               "ArtStation",
+               "https://www.artstation.com/airman4"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/lenneth4"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/hermann.P.S.kayode"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/hermannkayode/"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/user/orinn24"
+            ],
+            [
+               "Patreon",
+               "https://www.patreon.com/airman4"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Hammer time",
+            "https://airman4.itch.io/hammertime"
+         ],
+         [
+            "Star and light (first version - 2012)",
+            "https://airman4.itch.io/star-and-light-10"
+         ],
+         [
+            "Junk Heaven artpack for coders",
+            "https://www.unrealengine.com/marketplace/junk-heaven-art-assets/"
+         ]
+      ]
+   },
+   {
+      "name": "Quinn George",
+      "image": "https://static.wixstatic.com/media/2a9d96_b884c03627a64965b43f2a5532234a17~mv2.png/v1/fill/w_646,h_310,al_c,q_85,usm_0.66_1.00_0.01/QUkEAsj.webp",
+      "skills": [
+         "user interface design",
+         "copywriting",
+         "narrative design"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://quinnseas.wixsite.com/portfolio"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/quinn_killick"
+            ]
+         ],
+         "business": [
+            [
+               "Website",
+               "https://koimarina.itch.io/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/koimarina"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Treehouse Defenders",
+            "https://yulind.itch.io/treehouse-defenders"
+         ],
+         [
+            "Baleen",
+            "https://koimarina.itch.io/baleen"
+         ],
+         [
+            "Aspen",
+            "https://koimarina.itch.io/aspen"
+         ]
+      ]
+   },
+   {
+      "name": "Anthony G Smith IV",
+      "image": "https://static.wixstatic.com/media/35abc4_ccf983fdaa7d46c9801040d07b76c646~mv2.png/v1/fill/w_1272,h_666,fp_0.50_0.50,q_95/35abc4_ccf983fdaa7d46c9801040d07b76c646~mv2.webp",
+      "skills": [
+         "game design",
+         "programming",
+         "user interface design",
+         "quality assurance",
+         "game art"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://goldsmithiv.wixsite.com/goldsmithportfolio"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/GoldSmith_IV"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UC1BWpnZpZWqSLpVlRMWDR9A/"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Vagrant (Demo – Downloadable EXE)",
+            "https://drive.google.com/file/d/1J7AXOyfZNCj-e2lqZzrvXjcg3XhA7_W9/view"
          ]
       ]
    },
@@ -613,7 +745,7 @@
               "https://www.instagram.com/absa_lom_alila/"
            ],
            [
-              "Youtube",
+              "YouTube",
               "https://www.youtube.com/channel/UCIYJM-3r9p2eJ185_xA7t9w"
            ]
         ],
@@ -632,7 +764,7 @@
               "https://www.instagram.com/gamedevs_/"
            ],
            [
-              "Youtube",
+              "YouTube",
               "https://www.youtube.com/channel/UCjdXRZfG6jalBNfRoWBfAPw"
            ]
         ]
@@ -915,7 +1047,7 @@
                "http://facebook.com/MoreFireGames"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://www.youtube.com/c/MoreFireGames"
             ],
             [
@@ -952,7 +1084,7 @@
                "http://facebook.com/MoreFireGames"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://www.youtube.com/c/MoreFireGames"
             ],
             [
@@ -1066,7 +1198,7 @@
                "https://www.instagram.com/byjustasix"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://www.youtube.com/channel/UC-yW_SElQCXZDvZlVY_V5sw"
             ],
             [
@@ -1151,7 +1283,7 @@
                "https://www.instagram.com/quadronstudios"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://www.youtube.com/channel/UC-MGmBAJAE_p7sD9skVbTRw/videos?shelf_id=0&view=0&sort=dd"
             ]
          ]
@@ -2013,7 +2145,7 @@
                "https://twitter.com/SchoolGameAudio"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://www.youtube.com/playlist?list=PL17-p74MQ_0STwm-hfUC3Nyl2X2kD7Y_b"
             ]
          ]
@@ -4589,31 +4721,38 @@
       "name": "Sylverstone Khandr",
       "skills": [
          "game design",
-         "programming",
          "user interface design",
          "production",
          "copywriting",
          "narrative design",
          "public relations",
-         "game audio",
          "marketing",
          "quality assurance",
          "game art"
       ],
+      "image": "https://payload.cargocollective.com/1/18/580937/12074262/prt_280x188_1481867423_2x.png",
       "location": "United States",
       "websites": {
          "personal": [
             [
                "Website",
-               "http://sylverstone14.itch.io/"
-            ],
-            [
-               "Website",
-               "http://www.cargocollective.com/SylversEdge/"
+               "http://sylversedge.com/"
             ],
             [
                "Twitter",
                "https://twitter.com/Sylverstone14"
+            ],
+            [
+               "Itch.io",
+               "https://itch.io/SylverstoneKhandr"
+            ],
+            [
+               "YouTube",
+               "https://youtube.com/SylverstoneKhandr"
+            ],
+            [
+               "Ko-fi",
+               "https://www.ko-fi.com/SylverstoneKhandr"
             ]
          ]
       }
@@ -5031,7 +5170,7 @@
                "https://instagram.com/sgtmcclain"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://youtube.com/user/SergeantMcClain"
             ]
          ]
@@ -5059,7 +5198,7 @@
                "https://www.instagram.com/seageart"
             ],
             [
-               "Youtube",
+               "YouTube",
                "https://www.youtube.com/seagespeaks"
             ],
             [
