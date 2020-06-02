@@ -86,6 +86,36 @@
       ]
    },
    {
+      "name": "John J Farmer",
+      "image": "http://image-link-here.com/image.png",
+      "skills": [
+         "game design",
+         "programming",
+         "game audio",
+         "marketing",
+         "game art"
+      ],
+      "location": "United States",
+      "websites": {
+         "business": [
+            [
+               "Twitter",
+               "https://twitter.com/UpanGames"
+            ],
+            [
+               "Twitch",
+               "https://www.twitch.tv/upallnightgamesofficaldev"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Stay Woke Etheral Edition",
+            "https://store.steampowered.com/app/740350/Stay_Woke_Etheral_Edition/"
+         ]
+      ]
+   },
+   {
       "name": "Estelle Makhoba",
       "image": "",
       "skills": [
