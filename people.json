@@ -86,6 +86,55 @@
       ]
    },
    {
+      "name": "TJ Hughes (Terrifying Jellyfish)",
+      "image": "https://66.media.tumblr.com/2e4d47a04fa435c105c9b217f0d31436/tumblr_oxrz5xolID1s4u4j8o1_640.gifv",
+      "skills": [
+         "game design",
+         "programming",
+         "game audio",
+         "game art"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://terrifyingjellyfish.com/tagged/art"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/_Teejay5"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/terrifyingjellyfish/"
+            ],
+            [
+               "Ko-fi",
+               "https://ko-fi.com/A2771MLY"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UC9FJt7x9YMNuLSPhI667I9w"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Nour",
+            "https://www.kickstarter.com/projects/terrifyingjellyfish/nour-experimental-food-art-game-interactive-food-s?ref=card"
+         ],
+         [
+            "SmuggleCraft",
+            "https://store.steampowered.com/app/592020/SmuggleCraft/"
+         ],
+         [
+            "Feesh",
+            "https://store.steampowered.com/app/415240/Feesh/"
+         ]
+      ]
+   },
+   {
       "name": "Rocket Loam",
       "image": "http://image-link-here.com/image.png",
       "skills": [
