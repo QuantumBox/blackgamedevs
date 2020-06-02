@@ -196,7 +196,7 @@ function filterData (keyToFilter, keyValue) {
 }
 
 function generateLocationElement (locationElement, location) {
-    if ((typeof location !== 'undefined') && (location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
+    if ((typeof location !== 'undefined') && (location !== '') && (location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
         locationElement = '<p class="mt-0"><button class="filter-button mb-0" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
     }
 
