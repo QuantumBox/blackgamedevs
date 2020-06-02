@@ -86,6 +86,27 @@
       ]
    },
    {
+      "name": "Estelle Makhoba",
+      "image": "",
+      "skills": [
+         "game design",
+         "programming"
+      ],
+      "location": "South Africa",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/EstelleMakhoba"
+            ],
+            [
+               "Ko-fi",
+               "https://ko-fi.com/estellemakhoba"
+            ]
+         ]
+      }
+   },
+   {
       "name": "Biru Jones",
       "image": "http://static1.squarespace.com/static/54b40658e4b0cdf625ed45e3/t/5ec168a580b6627d6b69ea3b/1590704087888/?format=500w",
       "skills": [
