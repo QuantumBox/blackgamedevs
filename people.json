@@ -86,6 +86,88 @@
       ]
    },
    {
+      "name": "Dani Lalonders",
+      "image": "https://validategame.com/assets/images/gallery09/4fbc9905.jpg",
+      "skills": [
+         "production",
+         "narrative design",
+         "public relations"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/danulmao"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/dani.lmao/"
+            ]
+         ],
+         "business": [
+            [
+               "Twitter",
+               "https://twitter.com/ValidateGame"
+            ],
+            [
+               "Patreon",
+               "https://www.patreon.com/validategame"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "ValiDate: Struggling Singles in Your Area",
+            "https://validategame.com/"
+         ]
+      ]
+   },
+   {
+      "name": "Ronald Fontenot",
+      "image": "",
+      "skills": [
+         "game audio",
+         "game art"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UCXLLF1InpAW3ChZCWTmbYdw/featured"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "Izzy Abdus-Sabur",
+      "image": "https://static.wixstatic.com/media/d08535_e9be8151a2214e0da81b58ff97bfc762~mv2.gif",
+      "skills": [
+         "game design",
+         "programming"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://izzy-sabur.com/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/BBQSteakTips"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Synthrally",
+            "https://www.synthrally.com/"
+         ]
+      ]
+   },
+   {
       "name": "TJ Hughes (Terrifying Jellyfish)",
       "image": "https://66.media.tumblr.com/2e4d47a04fa435c105c9b217f0d31436/tumblr_oxrz5xolID1s4u4j8o1_640.gifv",
       "skills": [
