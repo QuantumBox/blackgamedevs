@@ -86,6 +86,71 @@
       ]
    },
    {
+    "name": "Victor Burgos",
+    "image": "https://www.victorburgosgames.com/victorheadgif/",
+    "skills": [
+      "game design",
+      "programming",
+      "production",
+      "public relations",
+      "marketing",
+      "quality assurance"
+       ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://www.victorburgosgames.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/VictorBurgosG3"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/victoranthonyburgos"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/victoranthonyburgos/"
+        ],
+        [
+          "Youtube",
+          "https://www.youtube.com/c/VictorBurgosGames"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.burgosgames.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/BurgosGames"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/BurgosGames"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/BurgosGames"
+        ],
+        [
+          "Youtube",
+          "https://www.youtube.com/channel/UCu605kcuFj7g-HiwDP1WKfA"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Neko Ghost, Jump!",
+        "http://nekoghostjump.com"
+      ]
+    ]
+   },
+   {
       "name": "Hermann Kayode",
       "image": "https://cdnb.artstation.com/p/assets/images/images/026/481/237/large/hermann-kayode-oya.jpg",
       "skills": [
