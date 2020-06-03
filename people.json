@@ -86,6 +86,34 @@
       ]
    },
    {
+      "name": "Alexander Francois",
+      "image": "https://s3-eu-west-1.amazonaws.com/www.brainchildstudios.co.uk/images/mesquare.png",
+      "skills": [
+         "game design",
+         "copywriting",
+         "narrative design"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://www.brainchildstudios.co.uk/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/thebrained"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "The Slaughter: Act One",
+            "https://store.steampowered.com/app/356390/The_Slaughter_Act_One/"
+         ]
+      ]
+   },
+   {
       "name": "Hermann Kayode",
       "image": "https://cdnb.artstation.com/p/assets/images/images/026/481/237/large/hermann-kayode-oya.jpg",
       "skills": [
