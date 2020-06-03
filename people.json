@@ -87,7 +87,7 @@
    },
    {
       "name": "Donald Harris",
-      "image": "https://pbs.twimg.com/profile_images/795753941828976644/s5yHWAEF_400x400.jpg",
+      "image": "https://avatars1.githubusercontent.com/u/5041003?s=400&v=4",
       "skills": [
          "Business Development",
          "Project Management",
@@ -99,6 +99,10 @@
             [
                "Website",
                "http://donald-harris.com/"
+            ],
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/donaldharris/"
             ],
             [
                "Twitter",
@@ -114,10 +118,6 @@
             ]
          ],
          "business": [
-            [
-               "Website",
-               "https://www.linkedin.com/in/donaldharris/"
-            ],
             [
                "Community",
                "http://www.atxgamemakers.com/"
