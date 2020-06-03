@@ -86,6 +86,64 @@
       ]
    },
    {
+      "name": "Donald Harris",
+      "image": "https://i1.wp.com/donald-harris.com/wp-content/uploads/2019/11/20161025_ThePerfectHeadshot.com_weworkAll_046.jpg?resize=150%2C150",
+      "skills": [
+         "Business Development",
+         "Project Management",
+         "Production"
+      ],
+      "location": "Texas, United States of America",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://donald-harris.com/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/tallgamer"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/tallgamer/"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/user/TheDonaldHarris"
+            ]
+         ],
+         "business": [
+            [
+               "Website",
+               "https://www.linkedin.com/in/donaldharris/"
+            ],
+            [
+               "Community",
+               "http://www.atxgamemakers.com/"
+            ],
+            [
+               "Game Studio",
+               "https://farbridge.com/"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "RWBY: Grimm Eclipse",
+            "https://store.steampowered.com/app/418340/RWBY_Grimm_Eclipse/"
+         ],
+         [
+            "Titanfall",
+            "https://www.ea.com/games/titanfall/titanfall-2"
+         ],
+         [
+            "Monopoly Bingo",
+            "https://play.google.com/store/apps/details?id=com.sharkparty.monopolybingo54&hl=en_US"
+         ]
+      ]
+   },
+   {
       "name": "Hermann Kayode",
       "image": "https://cdnb.artstation.com/p/assets/images/images/026/481/237/large/hermann-kayode-oya.jpg",
       "skills": [
