@@ -45,6 +45,39 @@
       ]
    },
    {
+    "name": "Burgos Games",
+    "image": "https://burgosgames.com/burgosgames_400x300/",
+    "location": "United States",
+    "websites": [
+       [
+          "Website",
+          "http://burgosgames.com"
+       ],
+       [
+          "Twitter",
+          "https://twitter.com/BurgosGames"
+       ],
+       [
+          "Facebook",
+          "https://facebook.com/BurgosGames"
+       ],
+       [
+          "Instagram",
+          "https://instagram.com/BurgosGames"
+       ],
+       [
+          "Youtube",
+          "https://youtube.com/channel/UCu605kcuFj7g-HiwDP1WKfA"
+       ]
+    ],
+    "games": [
+       [
+          "Neko Ghost, Jump!",
+          "http://nekoghostjump.com"
+       ]
+    ]
+   },
+   {
       "name": "Grand Scheme Games",
       "image": "https://grandschemegames.com/wp-content/uploads/2020/04/COTSGPortraitsEmotes.gif",
       "location": "",
