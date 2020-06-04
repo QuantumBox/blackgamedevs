@@ -1,5 +1,5 @@
 [
-   {
+    {
       "name": "DUPLICATE AND EDIT ME",
       "image": "http://image-link-here.com/image.png",
       "skills": [
@@ -82,6 +82,43 @@
          [
             "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
             "http://link-here.com"
+         ]
+      ]
+   },
+   {
+      "name": "Shonté Murray-Daniels",
+      "image": "https://images.squarespace-cdn.com/content/v1/5756c45d7c65e442c1afd446/1544419192533-HJJCUN3T5XK5F0WV1Y8G/ke17ZwdGBToddI8pDm48kCKX6yoE06PeehkBQpf-cgF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUC0T0moExjk_wm9wemguuXf06bZ6Fdyff337DHSDNvFa2TWYoExZvBjfEz7VOpF6Q/QK2A0281.jpg",
+      "skills": [
+         "game design",
+         "copywriting",
+         "narrative design",
+         "public relations"
+     ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://shonte-daniels.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/ShonteWrites"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "The Oh-No",
+            "https://johnnyxh.itch.io/the-ohno"
+         ],
+         [
+            "Odella's Myth",
+            "https://johnnyxh.itch.io/odellas-myth"
+         ],
+         [
+            "Whatever Comes Next",
+            "https://johnnyxh.itch.io/whatever-comes-next"
          ]
       ]
    },
