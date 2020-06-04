@@ -5297,7 +5297,50 @@
                "http://thabane-k.tumblr.com"
             ]
          ]
-      }
-   }
-]
+   },
+   {
+      "name": “TQ Jefferson“,
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQF_CcHM43phzw/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=vtq2xIozJ1GvAg0JwgUQEg9dkE95ax98Aw5v7Rwex_Y",
+      "skills": [
+         "production",
+	 “product development”
+	 “project management”,
+	 “organizational leadership”,
+	 "game design",
+         “writing”,
+	 “creative direction”,
+         “business development“,
+         "marketing",
+      ],
+      "location": “United States“,
+      "websites": {
+         "business": [
+           [  
+	       "LinkedIn Profile",
+	       "www.linkedin.com/in/tqjefferson"	
+	    ],
+	   [
+               "Website",
+               "https://www.facebook.com/predatorhg/"
+            ],
+	   [
+               “Careers at Disney“,
+               "https://jobs.disneycareers.com”
+         ]
+      },
+      "games": [
+           [
+               “Predator: Hunting Grounds - Epic Game Store”,
+               "https://www.epicgames.com/store/en-US/product/predator-hunting-grounds/home"
+            ],
+           [
+            “Predator: Hunting Grounds - Playstation Store”,
+            "https://www.playstation.com/en-us/games/predator-hunting-grounds-ps4/"
+           ],
+          [
+            “AVATAR: Pandora Rising”,
+            "https://www.avatarpandorarising.com/"
+	   ]
+        ]
+     }
 }
