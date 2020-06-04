@@ -12,8 +12,8 @@
             "Twitter",
             "https://twitter.com/username-here"
          ],
-         [
-            "Facebook",
+         [     
+            "Facebook",   
             "https://facebook.com/username-here"
          ],
          [
@@ -41,6 +41,43 @@
          [
             "GAME NAME HERE – MAX OF 3 GAMES PLEASE",
             "http://link-here.com"
+         ]
+      ]
+   },
+   {
+      "name": "Whim Independent Studios",
+      "image": "https://www.whimindie.com/wp-content/uploads/2020/06/Splash1.png",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "https://www.whimindie.com/"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/whimindie"
+         ],
+         [     
+            "Facebook",   
+            "https://facebook.com/whimindie"
+         ],
+         [
+            "Instagram",
+            "https://instagram.com/whimindie"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCsCbwo_xHNDcGKsYftyCu5A/"
+         ]
+      ],
+      "games": [
+         [
+            "Selatria",
+            "https://www.selatria.com"
+         ],
+         [
+            "Spellbearers",
+            "https://www.spellbearers.com"
          ]
       ]
    },
