@@ -44,8 +44,6 @@
          ]
       ]
    },
-   
-   [
    {
       "name": "Whim Independent Studios",
       "image": "https://www.whimindie.com/wp-content/uploads/2020/06/Splash1.png",
@@ -70,7 +68,7 @@
          [
             "Youtube",
             "https://www.youtube.com/channel/UCsCbwo_xHNDcGKsYftyCu5A/"
-         ],
+         ]
       ],
       "games": [
          [
@@ -80,7 +78,7 @@
          [
             "Spellbearers",
             "https://www.spellbearers.com"
-         ],
+         ]
       ]
    },
    
