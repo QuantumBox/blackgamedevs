@@ -11,7 +11,8 @@ assignees: ''
 NAME_HERE
 
 ## Screenshot of work or logo
-http://image-link-here.com/image.png (please link to a PNG, GIF, JPEG, SVG, or WEBP file)
+(Please link to a PNG, GIF, JPEG, SVG, or WEBP file)
+http://image-link-here.com/image.png
 
 ## Skills
 (Remove any you don't need)
@@ -25,7 +26,8 @@ http://image-link-here.com/image.png (please link to a PNG, GIF, JPEG, SVG, or W
 - Game audio
 - Marketing
 - Quality assurance
-- Game art
+- Art
+- Animation
 
 ## Location
 COUNTRY_NAME_HERE_WITHOUT_ACRONYMS

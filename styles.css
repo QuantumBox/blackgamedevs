@@ -1,12 +1,12 @@
-@import url(http://fonts.googleapis.com/css?family=Poppins:300,400,700|Martel:400,700);
+@import url(http://fonts.googleapis.com/css?family=Poppins:300,400,600);
 
 body {
   margin: 0 auto;
   padding: 50px 20px 20px;
-  font-family: Martel;
+  font-family: "Poppins";
 
   background-color: #111;
-  color:#FFF;
+  color:#ccc;
 
   max-width:1280px;
 }
@@ -37,20 +37,20 @@ h4 {
 
 a {
   text-decoration: none;
-  color: #8C7051;
-  border-bottom: 1px solid #8C7051;
+  color: #886D72;
+  border-bottom: 1px solid #886D72;
   font-weight: bold;
   overflow-wrap: break-word;
 }
 
 a:visited {
-  color: #28502E;
+  color: #10A37E;
   border-bottom: none;
 }
 
 a:hover {
-  color: #47682C;
-  border-bottom-color: #47682C;
+  color: #24F0BC;
+  border-bottom-color: #24F0BC;
 }
 
 button {
@@ -264,6 +264,86 @@ footer {
     grid-template-rows: auto;
     grid-column-gap: 2rem;
     grid-row-gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 960px) and (max-width: 1279px) {
+
+  .grid-list-item {
+    display: -webkit-flex; /* Fallback for non-grid-supported browsers */
+    display: flex; /* Fallback for non-grid-supported browsers */
+    display: inline-grid;
+    grid-template-columns: 8rem auto;
+    grid-template-rows: auto;
+    grid-column-gap: 2rem;
+    align-content: start;
+  }
+
+  .list-item-image {
+    width: 8rem;
+    height: 8rem;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 4;
+  }
+
+  .list-item-name {
+    grid-column-start: 2;
+    grid-row-start: 1;
+  }
+
+  .list-item-location {
+    grid-column-start: 2;
+    grid-row-start: 2;
+  }
+
+  .skill-list {
+    grid-column-start: 2;
+    grid-row-start: 3;
+  }
+
+  .list-item-links {
+    grid-column-start: 2;
+  }
+}
+
+@media screen and (max-width: 559px) {
+
+  .grid-list-item {
+    display: -webkit-flex; /* Fallback for non-grid-supported browsers */
+    display: flex; /* Fallback for non-grid-supported browsers */
+    display: inline-grid;
+    grid-template-columns: 8rem auto;
+    grid-template-rows: auto;
+    grid-column-gap: 2rem;
+    align-content: start;
+  }
+
+  .list-item-image {
+    width: 8rem;
+    height: 8rem;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 4;
+  }
+
+  .list-item-name {
+    grid-column-start: 2;
+    grid-row-start: 1;
+  }
+
+  .list-item-location {
+    grid-column-start: 2;
+    grid-row-start: 2;
+  }
+
+  .skill-list {
+    grid-column-start: 2;
+    grid-row-start: 3;
+  }
+
+  .list-item-links {
+    grid-column-start: 2;
   }
 }
 

@@ -157,7 +157,7 @@ function filterData (keyToFilter, keyValue) {
             delete filterSettings[keyToFilter][keyValue];
         }
     }
-    
+
     updateFilters();
 }
 
@@ -165,7 +165,7 @@ function updateFilters () {
     // Clear the filtered data
     filteredPersonData = [];
     filteredCompanyData = [];
-    
+
     let filterFunctions = Object.fromEntries(Object.entries(filterSettings).map(function(entry) {
         let key = entry[0];
         let filters = entry[1];
@@ -184,44 +184,44 @@ function updateFilters () {
                 // Specialize the 'name' filter to only consider the first letter
                 processValue = function(value) { return value.charAt(0); };
             }
-            
+
             // Box raw values into arrays to treat them the same
             let toArray = function(x) { return Array.isArray(x) ? x : [x]; };
-        
+
             // Items pass if any of the items in their array of properties meet at least one of the filter's requirements
             return [key, function(item) { return item.hasOwnProperty(key) && toArray(item[key]).some(function(value) { return processValue(value) in filters; }); }];
         }
     }));
-    
+
     let personFilters = ['skills', 'location', 'name'];
     let companyFilters = ['location', 'name'];
-    
+
     // Filter the data
     filteredPersonData = personData.filter(function(person) {
         // Entries pass only if they pass every filter
         return personFilters.every(function(filterKey) { return filterFunctions[filterKey](person); });
     });
-    
+
     filteredCompanyData = companyData.filter(function(company) {
         // Entries pass only if they pass every filter
         return companyFilters.every(function(filterKey) { return filterFunctions[filterKey](company); });
     });
-    
+
     // Update the UI
     let filterStrings = Object.entries(filterSettings).map(function(entry) {
         let key = entry[0];
         let filterValues = Object.keys(entry[1]).map(function(filterValue) { return titleCaseString(filterValue); });
-        
+
         if (filterValues.length) {
             let filterValuesString = (filterValues.length > 1) ? ("(" + filterValues.join(" OR ") + ")") : filterValues[0];
             return key + ": " + filterValuesString;
         }
-        
+
         return "";
     });
-    
+
     let mainFilterString = filterStrings.filter(function (filterString) { return filterString.length > 0; }).join(" AND ");
-    
+
     if (mainFilterString.length) {
         filterOnElement.classList.remove('display-none');
         filterDetailElement.innerText = mainFilterString;
@@ -229,7 +229,7 @@ function updateFilters () {
     else {
         filterOnElement.classList.add('display-none');
     }
-    
+
     // Sort by name
     filteredPersonData.sort(function(a, b) {
         if(a.name.toLowerCase() < b.name.toLowerCase()) return -1;
@@ -250,7 +250,7 @@ function updateFilters () {
 
 function generateLocationElement (locationElement, location) {
     if ((typeof location !== 'undefined') && (location !== '') && (location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
-        locationElement = '<p class="mt-0"><button class="filter-button mb-0" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
+        locationElement = '<p class="list-item-location mt-0"><button class="filter-button mb-0" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
     }
 
     return locationElement;
@@ -280,7 +280,7 @@ function generateImageElement (imageElement, image, type) {
 function generateLinksElement (linksElement, links, iconName) {
     if (typeof links !== 'undefined') {
 
-        linksElement += '<div class="mb-1"><ul class="link-list"><li><img src="/' + iconName + '.svg" class="icon icon-light icon-large vertical-align-middle"></li>';
+        linksElement += '<div class="list-item-links mb-1"><ul class="link-list"><li><img src="/' + iconName + '.svg" class="icon icon-light icon-large vertical-align-middle"></li>';
 
         for (var i = 0; i < links.length; i++) {
             var individualLink = links[i];
@@ -307,7 +307,7 @@ function displayPersonData () {
         formattedBusinessLinks = '',
         formattedGameLinks = '',
         individualPerson = filteredPersonData[i],
-        formattedName = '<h3>' + individualPerson.name + '</h3>';
+        formattedName = '<h3 class="list-item-name">' + individualPerson.name + '</h3>';
 
         // Show location
         formattedLocation = generateLocationElement(formattedLocation, individualPerson.location);
