@@ -5690,4 +5690,27 @@
          ]
       ]
    }
+   {
+      "name": "Mel Cummings",
+      "image": "https://pro2-bar-s3-cdn-cf2.myportfolio.com/5dd41a5ac5b2120cbfffad8793fc65e4/3c5f1450-ba8c-4f2e-837b-72dda2e59bd0_rw_1920.jpg",
+      "skills": [
+         "art"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://artofmel.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/artofmelc"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/artofmelc"
+            ],
+      ]
+   }
 ]
