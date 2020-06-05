@@ -5047,6 +5047,7 @@
    },
    {
       "name": "Tony Barnes",
+	  "image": "https://drive.google.com/open?id=1c5ocTVJYfrU-mQKE3lpsODmw_e3U9xo7"
       "skills": [
          "game design",
          "programming",
@@ -5057,16 +5058,28 @@
          "public relations",
          "game audio",
          "marketing",
-         "quality assurance",
+         "music composition",
          "game art"
       ],
       "location": "United States",
       "websites": {
          "personal": [
             [
+			   "Website",
+			   "https://www.retroninja.com/"
+			],
+			[
                "Twitter",
                "https://twitter.com/Twitchfactor"
-            ]
+            ],
+			[
+				"Facebook",
+				"https://www.facebook.com/RetroNinjaGames/"
+			],
+			[
+				"YouTube",
+				"https://www.youtube.com/channel/UCVJ9smo_sGLl-D_-GnoKVSQ?view_as=subscriber"
+			]
          ]
       }
    },
