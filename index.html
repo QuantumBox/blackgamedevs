@@ -38,6 +38,8 @@
       </ul>
     </section>
   </div>
+    <p id="filter-on" class="display-none">Filtering by <span id="filter-current"></span>. <button onclick="filterData();">Remove filters</button></p>
+
     <h2 id="people">People <a href="#companies" class="small-text">Jump to companies</a></h2>
       <!-- INSTRUCTIONS:
 
@@ -46,8 +48,6 @@
 
           To test, navigate to this folder in your command line editor and run a server using Apache or Python.
         -->
-
-        <p id="filter-on" class="display-none small-text">Filtering by <span id="filter-current"></span>. <button onclick="filterData();">See all people</button></p>
 
         <ul id="list-of-people" class="grid-list">
           <img src="/loading.png">
