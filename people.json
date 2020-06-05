@@ -5689,5 +5689,31 @@
             "https://www.avatarpandorarising.com/"
          ]
       ]
+   },
+      {
+      "name": "Shalia Wynn",
+      "image": "",
+      "skills": [
+         "game design",
+         "programming",
+         "user interface design",
+         "copywriting",
+         "narrative design",
+         "quality assurance",
+         "art"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Github",
+               "https://github.com/swynn730"
+            ],
+            [
+               "Art Portfolio",
+               "https://www.behance.net/shaliawynn1e2b"
+            ]
+         ]
+      }
    }
 ]
