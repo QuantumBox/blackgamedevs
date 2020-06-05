@@ -102,8 +102,14 @@ function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
 
                 if (!filterArray.includes(firstLetter)) {
                     filterArray.push(firstLetter);
-                    filterListString += populateFilterElement(keyToFilter, firstLetter, element, filterListItemString);
                 }
+
+                filterArray.sort(function(a, b) {
+                    if(a.toLowerCase() < b.toLowerCase()) return -1;
+                    if(a.toLowerCase() > b.toLowerCase()) return 1;
+                    return 0
+                });
+
             } else {
                 if ((dataArray[i][keyToFilter] !== '') && (dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
                     filterArray.push(dataArray[i][keyToFilter]);
@@ -111,6 +117,12 @@ function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
                 }
             }
         }
+    }
+
+
+    if (keyToFilter === 'name') {
+        element.innerHTML = ''; //TODO: STOP THIS FROM DRAWING 2X
+        filterArray.forEach(function(letterToFilter) { filterListString += populateFilterElement(keyToFilter, letterToFilter, element, filterListItemString)});
     }
 
     element.innerHTML += filterListString;
