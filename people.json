@@ -4571,6 +4571,41 @@
       }
    },
    {
+      "name": "Ian Effendi",
+      "skills": [
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "game audio"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://rimij405.github.io"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/az019er"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/effendiian"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/thelionsredmane"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UChMQhQAxV8PjgEfpF5AjyNQ"
+            ]
+         ]
+      }
+   },
+   {
       "name": "Issac Nichols",
       "skills": [
          "game design",
