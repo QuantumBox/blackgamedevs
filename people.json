@@ -127,8 +127,7 @@
          "game design",
          "programming",
          "production",
-         "quality assurance",
-         "art"
+         "quality assurance"
       ],
       "location": "United States",
       "websites": {
@@ -148,6 +147,14 @@
             [
                "Instagram",
                "https://instagram.com/groverwhim"
+            ],
+			[
+               "LinkedIn",
+               "https://www.linkedin.com/in/groverwimberlyiv/"
+            ],
+			[
+               "Blog",
+               "https://groverwhim.blogspot.com/search/label/Game%20Design%20Philosophy"
             ]
          ],
          "business": [
