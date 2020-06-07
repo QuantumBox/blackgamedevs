@@ -86,6 +86,51 @@
          ]
       ]
    },
+   
+   {
+      "name": "Dan-Dylan Lavictoire",
+      "image": "https://cdna.artstation.com/p/users/avatars/000/678/892/large/9850decab6e8f4a20895d228cd97e156.jpg?1563831406",
+      "skills": [
+         "game design",
+         "programming",
+         "production",
+         "narrative design",
+         "game audio",
+         "art",
+      ],
+      "location": "France",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://danlavictoire.wixsite.com/dadydoux/about"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/RoiDaDyDoux"
+            ],
+           
+         ],
+         "business": [
+            [
+               "ArtStation",
+               "https://www.artstation.com/dadydoux"
+            ],
+            
+         ]
+      },
+      "games": [
+         [
+            "OYA - Senior School Project",
+            "https://www.facebook.com/Oya-307382923103317/"
+         ],
+         [
+            "FIAT LUX - Sophomore School Project",
+            "https://www.youtube.com/watch?v=Z1EQN6MK59E"
+         ],
+         
+      ]
+   },
    {
       "name": "Cedric J Adams",
       "image": "http://wherecardsfall.com/img/screenshots/03_structures.jpg",
