@@ -843,5 +843,38 @@
             "https://www.facebook.com/HughesWhoTechStudio"
          ]
       ]
+   },
+   {
+      "name": "Junub Games",
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/20017505_840361602785066_1790326841212623655_o.png?_nc_cat=102&_nc_sid=09cbfe&_nc_ohc=pGk0zhIlvFIAX-__YNU&_nc_ht=scontent-iad3-1.xx&oh=d29523978dfbe09f0bcad39bf2c0ea84&oe=5EFE8900",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "https://junubgames.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/junubgames"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/JunubGames"
+         ],
+         [
+            "Instagram",
+            "https://www.instagram.com/junubgames"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCBOYtQE5i7d1iqea7-4DVzA"
+         ]
+      ],
+      "games": [
+         [
+            "Salaam",
+            "https://junubgames.com"
+         ]
+      ]
    }
 ]
