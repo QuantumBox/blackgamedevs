@@ -5689,5 +5689,39 @@
             "https://www.avatarpandorarising.com/"
          ]
       ]
+   },{
+      "name": "Sholto Tiger Collins",
+      "image": "https://i.gyazo.com/bf4f7343d84e3dc3b4cf70add6ff2810.png",
+      "skills": [
+         "game design",
+         "programming",
+         "user interface design",
+         "quality assurance"
+      ],
+      "location": "Australia",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/_TigerCollins"
+            ]
+         ],
+         "business": [
+            [
+               "Website",
+               "https://tigercollins.myportfolio.com"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Quest Quest",
+            "https://tigercollins.itch.io/quest-quest"
+         ],
+         [
+            "Evicted",
+            "https://tigercollins.itch.io/evicted"
+         ]
+      ]
    }
 ]
