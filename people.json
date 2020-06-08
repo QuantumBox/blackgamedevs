@@ -5689,5 +5689,62 @@
             "https://www.avatarpandorarising.com/"
          ]
       ]
+   },
+   {
+      "name": "Lual Mayen",
+      "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/97208205_2942160175863211_5067403152058382540_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Ca4SOZ_HUWgAX9BKYg7&oh=44bad1b1bca2d6c2c7d3707af5988ff9&oe=5F03FDED",
+      "skills": [
+         "game design",
+         "production",
+         "narrative design",
+         "public relations",
+         "marketing",
+         "quality assurance"
+      ],
+      "location": "South Sudan",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/OfficialLual"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/OfficialLual"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/lualmayen"
+            ]
+         ],
+         "business": [
+            [
+               "Website",
+               "https://junubgames.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/junubgames"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/JunubGames"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/junubgames"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UCBOYtQE5i7d1iqea7-4DVzA"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Salaam",
+            "https://junubgames.com"
+         ]
+      ]
    }
 ]
