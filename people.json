@@ -86,7 +86,7 @@
          ]
       ]
    },
-   
+
    {
       "name": "Dan-Dylan Lavictoire",
       "image": "https://cdna.artstation.com/p/users/avatars/000/678/892/large/9850decab6e8f4a20895d228cd97e156.jpg?1563831406",
@@ -5797,5 +5797,25 @@
               ]
          ]
       }
-   }
+   }, {
+    "name": "Evan Higgins",
+    "image": "https://aboutevanhiggins.files.wordpress.com/2019/09/img_0393.jpg",
+    "skills": [
+       "writing",
+       "narrative design"
+    ],
+    "location": "United States",
+    "websites": {
+       "personal": [
+          [
+             "Website",
+             "https://evanleehiggins.com"
+          ],
+          [
+             "Twitter",
+             "https://twitter.com/evanleehiggins"
+          ]
+       ]
+    }
+ }
 ]
