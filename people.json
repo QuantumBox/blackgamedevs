@@ -157,12 +157,296 @@
       ]
    },
    {
+      "name": "Cedric J Adams",
+      "image": "http://wherecardsfall.com/img/screenshots/03_structures.jpg",
+      "skills": [
+         "animation"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://cedricjadams.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/SkinnyFoxford/"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/foxfordfailure"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/skinnybonsai"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Where Cards Fall",
+            "http://wherecardsfall.com/"
+         ]
+      ]
+   },
+   {
+      "name": "Grover Wimberly IV",
+      "image": "https://www.whimindie.com/wp-content/uploads/2020/01/Grover-Wimberly-IV.jpg",
+      "skills": [
+         "game design",
+         "programming",
+         "production",
+         "quality assurance",
+         "art"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://www.whimindie.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/groverwhim"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/groverwhim"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/groverwhim"
+            ]
+         ],
+         "business": [
+            [
+               "Website",
+               "https://www.whimindie.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/whimindie"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/whimindie"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/whimindie"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/channel/UCsCbwo_xHNDcGKsYftyCu5A/"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Selatria",
+            "https://www.selatria.com"
+         ],
+         [
+            "Spellbearers",
+            "https://www.spellbearers.com"
+         ]
+      ]
+   },
+   {
+      "name": "Shonté Murray-Daniels",
+      "image": "https://images.squarespace-cdn.com/content/v1/5756c45d7c65e442c1afd446/1544419192533-HJJCUN3T5XK5F0WV1Y8G/ke17ZwdGBToddI8pDm48kCKX6yoE06PeehkBQpf-cgF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUC0T0moExjk_wm9wemguuXf06bZ6Fdyff337DHSDNvFa2TWYoExZvBjfEz7VOpF6Q/QK2A0281.jpg",
+      "skills": [
+         "game design",
+         "copywriting",
+         "narrative design",
+         "public relations"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://shonte-daniels.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/ShonteWrites"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "The Oh-No",
+            "https://johnnyxh.itch.io/the-ohno"
+         ],
+         [
+            "Odella's Myth",
+            "https://johnnyxh.itch.io/odellas-myth"
+         ],
+         [
+            "Whatever Comes Next",
+            "https://johnnyxh.itch.io/whatever-comes-next"
+         ]
+      ]
+   },
+   {
+      "name": "Victor Burgos",
+      "image": "https://www.victorburgosgames.com/victorheadgif/",
+      "skills": [
+         "game design",
+         "programming",
+         "production",
+         "public relations",
+         "marketing",
+         "quality assurance"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://www.victorburgosgames.com/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/VictorBurgosG3"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/victoranthonyburgos"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/victoranthonyburgos/"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/c/VictorBurgosGames"
+            ]
+         ],
+         "business": [
+            [
+               "Website",
+               "https://www.burgosgames.com/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/BurgosGames"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/BurgosGames"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/BurgosGames"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/channel/UCu605kcuFj7g-HiwDP1WKfA"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Neko Ghost, Jump!",
+            "http://nekoghostjump.com"
+         ]
+      ]
+   },
+   {
+      "name": "Alexander Francois",
+      "image": "https://s3-eu-west-1.amazonaws.com/www.brainchildstudios.co.uk/images/mesquare.png",
+      "skills": [
+         "game design",
+         "copywriting",
+         "narrative design"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://www.brainchildstudios.co.uk/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/thebrained"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "The Slaughter: Act One",
+            "https://store.steampowered.com/app/356390/The_Slaughter_Act_One/"
+         ]
+      ]
+   },
+   {
+      "name": "Donald Harris",
+      "image": "https://avatars1.githubusercontent.com/u/5041003?s=400&v=4",
+      "skills": [
+         "production"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://donald-harris.com/"
+            ],
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/donaldharris/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/tallgamer"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/tallgamer/"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/user/TheDonaldHarris"
+            ]
+         ],
+         "business": [
+            [
+               "Community",
+               "http://www.atxgamemakers.com/"
+            ],
+            [
+               "Game Studio",
+               "https://farbridge.com/"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "RWBY: Grimm Eclipse",
+            "https://store.steampowered.com/app/418340/RWBY_Grimm_Eclipse/"
+         ],
+         [
+            "Titanfall",
+            "https://www.ea.com/games/titanfall/titanfall-2"
+         ],
+         [
+            "Monopoly Bingo",
+            "https://play.google.com/store/apps/details?id=com.sharkparty.monopolybingo54&hl=en_US"
+         ]
+      ]
+   },
+   {
       "name": "Hermann Kayode",
       "image": "https://cdnb.artstation.com/p/assets/images/images/026/481/237/large/hermann-kayode-oya.jpg",
       "skills": [
          "game design",
          "user interface design",
-         "game art"
+         "art"
       ],
       "location": "Senegal",
       "websites": {
@@ -262,7 +546,7 @@
          "programming",
          "user interface design",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -296,7 +580,7 @@
          "programming",
          "game audio",
          "marketing",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -410,7 +694,7 @@
       "image": "",
       "skills": [
          "game audio",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -456,7 +740,7 @@
          "game design",
          "programming",
          "game audio",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -570,7 +854,7 @@
       "image": "https://images.squarespace-cdn.com/content/v1/58a321c4b3db2b3c6992e6e8/1585931952907-25OEMTMVD22RG6NXSILL/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbeDbaZv1s3QfpIA4TYnL5Qao8BosUKjCVjCf8TKewJIH3bqxw7fF48mhrq5Ulr0Hg/wallpaper-noks.png?format=500w",
       "skills": [
          "game design",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -666,7 +950,7 @@
          "game design",
          "programming",
          "user interface design",
-         "game art"
+         "art"
       ],
       "location": "Canada",
       "websites": {
@@ -721,7 +1005,7 @@
       "image": "https://carbonmade-media.accelerator.net/28861618;960x639.png",
       "skills": [
          "game audio",
-         "game art"
+         "art"
       ],
       "location": "Canada",
       "websites": {
@@ -751,7 +1035,7 @@
          "narrative design",
          "game audio",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United Kingdom",
       "websites": {
@@ -793,53 +1077,53 @@
          ]
       ]
    },
-      {
-     "name": "Absalom Alila",
-     "skills": [
-        "game design",
-        "programming",
-        "production",
-        "public relations",
-        "game audio",
-        "marketing",
-        "game art"
-     ],
-     "location": "KENYA",
-     "websites": {
-        "personal": [
+   {
+      "name": "Absalom Alila",
+      "skills": [
+         "game design",
+         "programming",
+         "production",
+         "public relations",
+         "game audio",
+         "marketing",
+         "art"
+      ],
+      "location": "KENYA",
+      "websites": {
+         "personal": [
             [
-             "Facebook",
-             "https://www.facebook.com/absalom.alila.5"
-           ],
-           [
-              "Instagram",
-              "https://www.instagram.com/absa_lom_alila/"
-           ],
-           [
-              "YouTube",
-              "https://www.youtube.com/channel/UCIYJM-3r9p2eJ185_xA7t9w"
-           ]
-        ],
-        "business": [
+               "Facebook",
+               "https://www.facebook.com/absalom.alila.5"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/absa_lom_alila/"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UCIYJM-3r9p2eJ185_xA7t9w"
+            ]
+         ],
+         "business": [
 
-           [
-              "Twitter",
-              "https://twitter.com/DevsKenya"
-           ],
-           [
-              "Facebook",
-              "https://www.facebook.com/Game-Devs-Kenya-1193404420835294/"
-           ],
-           [
-              "Instagram",
-              "https://www.instagram.com/gamedevs_/"
-           ],
-           [
-              "YouTube",
-              "https://www.youtube.com/channel/UCjdXRZfG6jalBNfRoWBfAPw"
-           ]
-        ]
-     }
+            [
+               "Twitter",
+               "https://twitter.com/DevsKenya"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/Game-Devs-Kenya-1193404420835294/"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/gamedevs_/"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UCjdXRZfG6jalBNfRoWBfAPw"
+            ]
+         ]
+      }
    },
    {
       "name": "Sean Heron",
@@ -942,7 +1226,7 @@
       "skills": [
          "game design",
          "programming",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -1065,7 +1349,7 @@
       "skills": [
          "programming",
          "game audio",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -1131,7 +1415,7 @@
    {
       "name": "Syid Massiah",
       "skills": [
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -1237,7 +1521,7 @@
          "programming",
          "narrative design",
          "game audio",
-         "pixel art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -1283,7 +1567,7 @@
       "name": "Adewale Haroun",
       "image": "https://pbs.twimg.com/media/CnRt9u0UIAA5qX0.jpg",
       "skills": [
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -1307,7 +1591,7 @@
       "name": "Andreas J. Hester",
       "image": "https://cdna.artstation.com/p/assets/images/images/007/768/464/large/andreas-hester-20161125-025715.jpg",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1326,7 +1610,7 @@
       "name": "Anisiuba Uche",
       "image": "https://pbs.twimg.com/media/DdE-z-VXcAAxqzH.jpg",
       "skills": [
-         "game art"
+         "art"
       ],
       "location": "Nigeria",
       "websites": {
@@ -1363,7 +1647,7 @@
    {
       "name": "Brandon J. Bruce",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1382,7 +1666,7 @@
       "name": "Chris Wells",
       "image": "https://cdna.artstation.com/p/assets/images/images/009/048/242/large/chris-wells-maverick-render2.jpg",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1400,7 +1684,7 @@
    {
       "name": "Christopher A. Butler",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1420,7 +1704,7 @@
    {
       "name": "Darryl Johnson",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1434,7 +1718,7 @@
    {
       "name": "David Pierre",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1448,7 +1732,7 @@
    {
       "name": "Davon Allen",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1466,7 +1750,7 @@
    {
       "name": "Del Northern",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1480,7 +1764,7 @@
    {
       "name": "Demond Rogers",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1500,7 +1784,7 @@
    {
       "name": "Devin Gee Sr.",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1518,7 +1802,7 @@
    {
       "name": "Dwayne Martin",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1536,7 +1820,7 @@
    {
       "name": "Greg Goodson",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1554,7 +1838,7 @@
    {
       "name": "Hillmon Ancrum",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1568,7 +1852,7 @@
    {
       "name": "Imani Person",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1586,7 +1870,7 @@
    {
       "name": "Isiac DaGraca",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1604,7 +1888,7 @@
    {
       "name": "Jarrod Flemister II",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1618,7 +1902,7 @@
    {
       "name": "Jermaine Belcher",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1636,7 +1920,7 @@
    {
       "name": "Kahlief Steele",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1650,7 +1934,7 @@
    {
       "name": "Kendall C Spraggins",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1664,7 +1948,7 @@
    {
       "name": "Lee Hinds",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1678,7 +1962,7 @@
    {
       "name": "Leonardo Carrion Jr.",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1696,7 +1980,7 @@
    {
       "name": "Markus Heinel",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1714,7 +1998,7 @@
    {
       "name": "Marvin Washington",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1732,7 +2016,7 @@
    {
       "name": "Mat Broome",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1756,7 +2040,7 @@
    {
       "name": "Michel Nkuindja",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1774,7 +2058,7 @@
    {
       "name": "Neil Jones",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1792,7 +2076,7 @@
    {
       "name": "Robaato",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1810,7 +2094,7 @@
    {
       "name": "Paul Davey",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1828,7 +2112,7 @@
    {
       "name": "R. Lateef",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1846,7 +2130,7 @@
    {
       "name": "ReJean DuBois",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1864,7 +2148,7 @@
    {
       "name": "Sean Leslie Ward",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1882,7 +2166,7 @@
    {
       "name": "Tion \"VAGABOND\" Bruton",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1910,7 +2194,7 @@
    {
       "name": "Tito Belgrave",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -1928,7 +2212,7 @@
    {
       "name": "Tramell Ray Issac",
       "skills": [
-         "game art"
+         "art"
       ],
       "websites": {
          "business": [
@@ -2030,7 +2314,7 @@
       "skills": [
          "game design",
          "programming",
-         "game art"
+         "art"
       ],
       "websites": {
          "business": [
@@ -2205,7 +2489,7 @@
                "Bandcamp",
                "https://leonardjpaul.bandcamp.com/releases"
             ]
-            ],
+         ],
          "business": [
             [
                "Website",
@@ -3097,7 +3381,7 @@
       "name": "Kieron White",
       "skills": [
          "game design",
-         "game art"
+         "art"
       ],
       "location": "United Kingdom",
       "websites": {
@@ -3117,7 +3401,7 @@
       "name": "Kojo Kumah",
       "skills": [
          "game design",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -3214,7 +3498,7 @@
       "name": "Matthew Findlater",
       "skills": [
          "game design",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -3260,7 +3544,7 @@
       "name": "Melvin Samuel",
       "skills": [
          "game design",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -3831,7 +4115,7 @@
       "skills": [
          "game design",
          "game audio",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -3859,7 +4143,7 @@
       "skills": [
          "game design",
          "programming",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -3887,7 +4171,7 @@
       "skills": [
          "game design",
          "programming",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -3944,7 +4228,7 @@
          "game design",
          "programming",
          "user interface design",
-         "game art"
+         "art"
       ],
       "websites": {
          "personal": [
@@ -3968,7 +4252,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4003,18 +4287,15 @@
          "production",
          "copywriting",
          "narrative design",
-         "public relations",
-         "game audio",
-         "marketing",
-         "quality assurance",
-         "game art"
+         "art"
       ],
+      "image": "https://cattsmall.com/assets/images/portfolio/2019/sweetxheart/sweetxheart-1.png",
       "location": "United States",
       "websites": {
          "personal": [
             [
                "Website",
-               "http://cattsmall.com/portfolio"
+               "http://cattsmall.com/games"
             ],
             [
                "Website",
@@ -4031,7 +4312,21 @@
                "http://brooklyngamery.com/"
             ]
          ]
-      }
+      },
+      "games": [
+         [
+            "SweetXheart",
+            "https://cattsmall.itch.io/sweetxheart"
+         ],
+         [
+            "Humans, pet me!",
+            "https://cattsmall.itch.io/humans-pet-me-a-competition"
+         ],
+         [
+            "Five Stages: A Cycle of Ruined Romances",
+            "https://cattsmall.itch.io/five-stages"
+         ]
+      ]
    },
    {
       "name": "Carrill Munnings",
@@ -4046,7 +4341,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4075,7 +4370,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4108,7 +4403,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4145,7 +4440,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4176,7 +4471,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4205,7 +4500,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4234,7 +4529,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4259,7 +4554,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4300,7 +4595,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4329,7 +4624,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4358,7 +4653,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4387,7 +4682,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4416,7 +4711,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4449,7 +4744,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4478,7 +4773,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4507,7 +4802,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4536,7 +4831,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4561,7 +4856,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4586,7 +4881,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4615,7 +4910,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4654,7 +4949,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4683,7 +4978,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4708,7 +5003,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4737,7 +5032,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4772,7 +5067,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4799,7 +5094,7 @@
          "public relations",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "image": "https://payload.cargocollective.com/1/18/580937/12074262/prt_280x188_1481867423_2x.png",
       "location": "United States",
@@ -4841,7 +5136,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4872,7 +5167,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4897,7 +5192,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -4922,7 +5217,7 @@
          "game audio",
          "marketing",
          "quality assurance",
-         "game art"
+         "art"
       ],
       "location": "United States",
       "websites": {
@@ -5201,10 +5496,10 @@
             ]
          ],
          "games": [
-         [
-            "Forty Acres",
-            "https://shrouded-harbor-27053.herokuapp.com"
-         ]
+            [
+               "Forty Acres",
+               "https://shrouded-harbor-27053.herokuapp.com"
+            ]
          ]
 
       }
@@ -5215,14 +5510,9 @@
       "skills": [
          "game design",
          "game development",
-         "Unity3D",
          "programming",
          "user interface design",
          "production",
-         "software development",
-         "web development",
-         "audio mixing",
-         "project management",
          "game audio"
       ],
       "location": "United States",
@@ -5251,7 +5541,7 @@
       "name": "Courtney 'Seage' Howlett",
       "image": "",
       "skills": [
-         "game art"
+         "art"
       ],
       "location": "Canada",
       "websites": {
@@ -5358,7 +5648,7 @@
       "name": "Tumelo Thabane",
       "image": "",
       "skills": [
-         "game art"
+         "art"
       ],
       "location": "",
       "websites": {
@@ -5369,5 +5659,106 @@
             ]
          ]
       }
+   },
+   {
+      "name": "Trey Douglas",
+      "image": "https://i.imgur.com/GXb3k1U.jpg",
+      "skills": [
+         "public relations",
+         "marketing"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "LinkedIn",
+               "https://www.linkedin.com/in/treydouglas"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/NerfTrey"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/trey.douglas"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/doctortrey"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "EVE Online",
+            "https://www.eveonline.com/ "
+         ],
+         [
+            "EVE: Valkyrie",
+            "https://www.evevalkyrie.com/"
+         ],
+         [
+            "Old School RuneScape",
+            "https://oldschool.runescape.com/"
+         ]
+      ]
+   },
+   {
+      "name": "Will Burton",
+      "skills": [
+         "programming"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Twitter",
+               "https://twitter.com/WillBurtonII"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "TQ Jefferson",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQF_CcHM43phzw/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=vtq2xIozJ1GvAg0JwgUQEg9dkE95ax98Aw5v7Rwex_Y",
+      "skills": [
+         "production",
+         "game design",
+         "writing",
+         "creative direction",
+         "marketing"
+      ],
+      "location": "United States",
+      "websites": {
+         "business": [
+            [
+               "LinkedIn Profile",
+               "www.linkedin.com/in/tqjefferson"
+            ],
+            [
+               "Website",
+               "https://www.facebook.com/predatorhg/"
+            ],
+            [
+               "Careers at Disney",
+               "https://jobs.disneycareers.com"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Predator: Hunting Grounds - Epic Game Store",
+            "https://www.epicgames.com/store/en-US/product/predator-hunting-grounds/home"
+         ],
+         [
+            "Predator: Hunting Grounds - Playstation Store",
+            "https://www.playstation.com/en-us/games/predator-hunting-grounds-ps4/"
+         ],
+         [
+            "AVATAR: Pandora Rising",
+            "https://www.avatarpandorarising.com/"
+         ]
+      ]
    }
 ]
+
