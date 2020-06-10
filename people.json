@@ -86,7 +86,7 @@
          ]
       ]
    },
-   
+
    {
       "name": "Dan-Dylan Lavictoire",
       "image": "https://cdna.artstation.com/p/users/avatars/000/678/892/large/9850decab6e8f4a20895d228cd97e156.jpg?1563831406",
@@ -5797,5 +5797,28 @@
               ]
          ]
       }
-   }
+   },{
+    "name": "Patrick Gordon",
+    "image": "http://tek-man.net/dir_portrait.png",
+    "skills": [
+      "user interface design",
+      "quality assurance"
+    ],
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://Tek-Man.net"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/tekman128"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/tekman128"
+        ]
+      ]
+    }
+  }
 ]
