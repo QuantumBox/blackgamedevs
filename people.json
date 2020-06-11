@@ -87,6 +87,47 @@
       ]
    },
    {
+      "name": "Dan-Dylan Lavictoire",
+      "image": "https://cdna.artstation.com/p/users/avatars/000/678/892/large/9850decab6e8f4a20895d228cd97e156.jpg?1563831406",
+      "skills": [
+         "game design",
+         "programming",
+         "production",
+         "narrative design",
+         "game audio",
+         "art"
+      ],
+      "location": "France",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://danlavictoire.wixsite.com/dadydoux/about"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/RoiDaDyDoux"
+            ]
+         ],
+         "business": [
+            [
+               "ArtStation",
+               "https://www.artstation.com/dadydoux"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "OYA - Senior School Project",
+            "https://www.facebook.com/Oya-307382923103317/"
+         ],
+         [
+            "FIAT LUX - Sophomore School Project",
+            "https://www.youtube.com/watch?v=Z1EQN6MK59E"
+         ]
+      ]
+   },
+   {
       "name": "Cedric J Adams",
       "image": "http://wherecardsfall.com/img/screenshots/03_structures.jpg",
       "skills": [
@@ -127,8 +168,7 @@
          "game design",
          "programming",
          "production",
-         "quality assurance",
-         "art"
+         "quality assurance"
       ],
       "location": "United States",
       "websites": {
@@ -148,6 +188,14 @@
             [
                "Instagram",
                "https://instagram.com/groverwhim"
+            ],
+		[
+               "LinkedIn",
+               "https://www.linkedin.com/in/groverwimberlyiv/"
+            ],
+			[
+               "Blog",
+               "https://groverwhim.blogspot.com/search/label/Game%20Design%20Philosophy"
             ]
          ],
          "business": [
@@ -4083,7 +4131,7 @@
                "https://twitter.com/akira_t"
             ]
          ],
-         "personal": [
+         "business": [
             [
                "Website",
                "http://rainb.ro"
@@ -4566,6 +4614,41 @@
             [
                "Twitter",
                "https://twitter.com/GrahamOfLegend"
+            ]
+         ]
+      }
+   },
+   {
+      "name": "Ian Effendi",
+      "skills": [
+         "game design",
+         "programming",
+         "user interface design",
+         "production",
+         "game audio"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://rimij405.github.io"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/az019er"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/effendiian"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/thelionsredmane"
+            ],
+            [
+               "YouTube",
+               "https://www.youtube.com/channel/UChMQhQAxV8PjgEfpF5AjyNQ"
             ]
          ]
       }
@@ -5690,7 +5773,51 @@
          ]
       ]
    },
-      {
+   {
+      "name": "Mel Cummings",
+      "image": "https://pro2-bar-s3-cdn-cf2.myportfolio.com/5dd41a5ac5b2120cbfffad8793fc65e4/3c5f1450-ba8c-4f2e-837b-72dda2e59bd0_rw_1920.jpg",
+      "skills": [
+         "art"
+      ],
+      "location": "United Kingdom",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "http://artofmel.com"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/artofmelc"
+            ],
+            [
+               "Instagram",
+               "https://instagram.com/artofmelc"
+              ]
+         ]
+      }
+   }, {
+    "name": "Evan Higgins",
+    "image": "https://aboutevanhiggins.files.wordpress.com/2019/09/img_0393.jpg",
+    "skills": [
+       "writing",
+       "narrative design"
+    ],
+    "location": "United States",
+    "websites": {
+       "personal": [
+          [
+             "Website",
+             "https://evanleehiggins.com"
+          ],
+          [
+             "Twitter",
+             "https://twitter.com/evanleehiggins"
+          ]
+       ]
+    }
+ },
+ {
       "name": "Shalia Wynn",
       "image": "",
       "skills": [
