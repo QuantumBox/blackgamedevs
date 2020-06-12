@@ -44,6 +44,44 @@
          ]
       ]
    },
+	{
+      "name": "Nyabingi Studio",
+      "image": "https://img.itch.zone/aW1nLzM1ODk5NDAucG5n/100x100%23/kXRn8L.png",
+      "location": "Kenya",
+      "websites": [
+         [
+            "Website",
+            "http://link-here.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/edduhflanni"
+         ],
+         [
+            "Facebook",
+            "https://web.facebook.com/nyabingiStudio/"
+         ],
+         [
+            "Instagram",
+            "https://instagram.com/username-here"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCdNZP_w3ikeI2HYtzVPzaog"
+         ],
+         [
+            "Patreon",
+            "https://www.patreon.com/nyabingistudio"
+         ]
+      ],
+      "games": [
+         [
+            "BINGIMAN",
+            "https://nyabingi.itch.io/bingiman"
+         ],
+
+      ]
+   },
    {
       "name": "GN Games",
       "image": "http://www.gngames.co.uk/wp-content/uploads/2020/04/GNSplashScreen.png",
