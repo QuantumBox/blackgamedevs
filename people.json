@@ -86,6 +86,39 @@
          ]
       ]
    },
+    {
+      "name": "Daniel Otaigbe",
+      "image": "https://actuallytrue.github.io/Assets/pic.jpg",
+      "skills": [
+         "game design",
+         "programming",
+         "Software Development",
+          "Game Development"
+      ],
+      "location": "United States",
+      "websites": {
+         "personal": [
+            [
+               "Website",
+               "https://actuallytrue.github.io/"
+            ],
+            [
+               "Twitter",
+               "https://twitter.com/the_true_dev"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/daniel.otaigbe/"
+            ]
+         ]
+      },
+      "games": [
+         [
+            "Starchild",
+            "https://actuallytrue.github.io/Starchild.html"
+         ]
+      ]
+   },
    {
       "name": "Dan-Dylan Lavictoire",
       "image": "https://cdna.artstation.com/p/users/avatars/000/678/892/large/9850decab6e8f4a20895d228cd97e156.jpg?1563831406",
