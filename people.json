@@ -5850,5 +5850,55 @@
         ]
       ]
     }
+  },
+  {
+    "name": "Ava Brumfield",
+    "image": "https://pbs.twimg.com/media/EaWJ5J-UMAEpyOC?format=jpg&name=large",
+    "skills": [
+      "game design",
+      "programming",
+      "game audio"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/alturos"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/abuhrae"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/ava.raelynn"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://brightmothgames.itch.io"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/BrightMothGames"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Futari Nezumi",
+        "https://brightmothgames.itch.io/futari-nezumi"
+      ],
+      [
+        "Whiny Slime",
+        "https://brightmothgames.itch.io/whiny-slime"
+      ],
+      [
+        "Heroes of Eterna",
+        "https://brightmothgames.itch.io/heroes-of-eterna"
+      ]
+    ]
   }
 ]
