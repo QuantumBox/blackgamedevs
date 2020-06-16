@@ -5876,5 +5876,68 @@
             ]
          ]
       }
-   }
+   },
+   {
+    "name": "Tyler Rotheram",
+    "image": "https://tyrotheram.files.wordpress.com/2020/02/a1.jpg",
+    "skills": [
+      "game design",
+      "programming",
+      "production",
+      "quality assurance"
+    ],
+    "location": "United Kingdom",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://tyrotheram.wordpress.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/tyrotheram"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/ty.rotheram"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/tyrotheram/"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://tyrotheram.wordpress.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/tyrotheram"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/ty.rotheram"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/tyrotheram/"
+        ],
+        [
+          "LinkedIn",
+          "https://www.linkedin.com/in/tyler-rotheram-aa005516a/"
+        ],
+        [
+          "Youtube",
+          "https://www.youtube.com/channel/UCG75FGvuYSxbM24A-O57NQA/featured"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Blood & Truth",
+        "https://en.wikipedia.org/wiki/Blood_%26_Truth"
+      ]
+    ]
+  }
 ]
