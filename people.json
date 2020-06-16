@@ -5851,4 +5851,50 @@
       ]
     }
   }
+  {
+    "name": "Gary Fonville",
+    "image": "",
+    "skills": [
+      "production",
+      "art",
+      "game development"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "LinkedIn",
+          "https://www.linkedin.com/in/ianim8/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/givmetharoc"
+        ],
+      ],
+      "business": [
+        [
+          "Game Studio",
+          "https://www.blizzard.com/en-us/"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Overwatch 2",
+        "https://overwatch2.playoverwatch.com/en-us/trailer"
+      ],
+      [
+        "Overwatch",
+        "https://playoverwatch.com/en-us/"
+      ],
+      [
+        "Prey: Mooncrash",
+        "https://bethesda.net/en/game/prey-dlc"
+      ],
+      [
+        "Prey",
+        "https://bethesda.net/en/game/buy-prey"
+      ]
+    ]
+  },
 ]
