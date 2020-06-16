@@ -9,7 +9,7 @@ There are three ways to do so.
 1. Clone this repository
 2. Open `people.json` and/or `companies.json` depending on whether your submission is one person or a studio (both is also fine)
 3. Duplicate the template at the top of the file(s) you are editing
-4. Add and save your submission
+4. Add and save your submission to the bottom of the list - Don't worry it all gets sorted
 5. Create and submit a pull request for us to review
 
 ### The acceptable way
