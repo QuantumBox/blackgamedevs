@@ -5940,4 +5940,30 @@
       ]
     ]
   }
+  {
+    "name": "Jasmine Persephone Jupiter",
+    "image": "",
+    "skills": [
+      "narrative design",
+    ],
+    "location": "United States of America",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://www.jpjupiter.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/_JP_Jupiter"
+        ],
+      ],
+    },
+    "games": [
+      [
+        "Koshka's Kofe",
+        "https://koshkas-kofe.itch.io/koshkas-kofe"
+      ],
+    ]
+  },
 ]
