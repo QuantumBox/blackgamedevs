@@ -5939,5 +5939,34 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
-  }
+  },
+  {
+      "name": "J. Djamahl Nolen",
+      "image": "https://imgur.com/a/9yaP4c4",
+      "skills": [
+      "programming",
+      "game design"
+      ],
+      "location": "Bay Area",
+      "websites": {
+        "personal": [
+          [
+            "LinkedIn",
+            "https://www.linkedin.com/in/jasondnolen/"
+          ]
+        ],
+        "business": [
+          [
+            "Facebook",
+            "https://www.facebook.com/misplacedanger/"
+          ]
+        ]
+      },
+      "games": [
+        [
+          "Sword Cypher",
+          "https://www.facebook.com/misplacedanger/"
+        ]
+      ]
+    }
 ]
