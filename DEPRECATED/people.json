@@ -1500,8 +1500,10 @@
       ]
     },
     "games": [
-      "Melee Spaceship",
-      "http://www.meleespaceship.com"
+      [
+        "Melee Spaceship",
+        "http://www.meleespaceship.com"
+      ]
     ]
   },
   {

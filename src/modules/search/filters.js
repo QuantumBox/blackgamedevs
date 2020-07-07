@@ -182,7 +182,7 @@ const Filters = () => {
             transition: "all .164s easeInOut",
             height: "1px",
             backgroundColor: !filtersOpen ? "transparent" : "border",
-            transform: !filtersOpen ? "scaleX(0)" : "scale(1)",
+            transform : !filtersOpen ? "scaleX(0)" : "scale(1)",
           },
           pb: 2,
         }}
