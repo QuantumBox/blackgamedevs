@@ -848,5 +848,42 @@
             "https://www.facebook.com/HughesWhoTechStudio"
          ]
       ]
+   },
+   {
+      "name": "Sundae Month",
+      "image": "https://twitter.com/SundaeMonth/photo",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "https://sundaemonth.com/"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/SundaeMonth"
+         ],
+         [
+            "Facebook",
+            "https://www.facebook.com/SundaeMonth/"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCQLTvHztWv6ndjKFtIEvF1A"
+         ]
+      ],
+      "games": [
+         [
+            "Dad Quest",
+            "https://sundaemonth.com/dad-quest"
+         ],
+         [
+            "Autumn's End",
+            "https://sundaemonth.com/autumns-end"
+         ],
+         [
+            "Pupperazzi",
+            "https://sundaemonth.com/pupperazzi"
+         ]
+      ]
    }
 ]
