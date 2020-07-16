@@ -5939,5 +5939,37 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Sierra McKie",
+    "image": "https://twitter.com/BabyFaceMckie/photo",
+    "skills": [
+      "animation",
+      "editing",
+      "writing"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/BabyFaceMckie"
+        ],
+        [
+          "Youtube",
+          "https://www.youtube.com/c/babyfaceMckie/featured"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.juvenilestudio.com/"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/mycrynicles"
+        ]
+      ]
+    }
   }
 ]
