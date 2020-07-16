@@ -5939,5 +5939,35 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Dana Green",
+    "image": "https://www.linkedin.com/in/danagreendesigns/detail/photo/",
+    "skills": [
+      "environmental design",
+      "animation",
+      "Unity",
+      "Unreal Engine",
+      "3D modeling",
+      "lighting",
+      "concept creation",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://www.danagreendesigns.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/danagreencg"
+        ],
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/danagreendesigns/"
+        ]
+     ]
   }
 ]
