@@ -5939,5 +5939,43 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Lorraine Grate",
+    "image": "https://twitter.com/RollaineDraws/photo",
+    "skills": [
+      "animation",
+      "production",
+      "character design"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/RollaineDraws"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/lorrainegrate/"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.lorrainegrate.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/capsule_corner"
+        ]
+      ]
+    },
+    "animation": [
+      [
+        "Character Design",
+        "https://www.lorrainegrate.com/post/39627790723/character-design-original"
+      ]
+    ]
   }
 ]
