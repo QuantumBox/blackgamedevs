@@ -5939,5 +5939,46 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Nicole Ham",
+    "image": "https://www.linkedin.com/in/thenicoleham/detail/photo/",
+    "skills": [
+      "motion design",
+      "animation",
+      "art direction",
+      "storyboarding"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://linktr.ee/thenicoleham"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/thenicoleham"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/thenicoleham/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/channel/UCPhBPT-0QS0wLjrIBOWsl_A"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "HeLLnEt.KILL",
+        "https://www.youtube.com/watch?v=Ivsdn6244bU&list=PLnIn5c4rBD_1Bir1JV1zb6_oxROqRvPPs"
+      ],
+      [
+        "Demo Reel",
+        "https://www.youtube.com/watch?v=m_4ppNVYgnA"
+      ]
+    ]
   }
 ]
