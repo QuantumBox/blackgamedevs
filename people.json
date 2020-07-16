@@ -5939,5 +5939,37 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Lauren Banks",
+    "image": "https://www.linkedin.com/in/lauren-banks-406558187/detail/photo/",
+    "skills": [
+      "character design",
+      "animation",
+      "storyboarding",
+      "production",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Instagram",
+          "https://www.instagram.com/laurenbanksart/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/laurenbanksart"
+        ],
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/lauren-banks-406558187/"
+        ],
+        [
+          "Porfolio",
+          "https://twitter.com/i/events/1216834735932157961"
+        ]
+      ]
+    }
   }
 ]
