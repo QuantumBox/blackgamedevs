@@ -5939,5 +5939,27 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Ashley Wade",
+    "image": "https://twitter.com/cordiallycontgo/photo",
+    "skills": [
+      "Environment Modeling"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/cordiallycontgo"
+        ],
+      ],
+      "business": [
+        [
+          "Art Station",
+          "https://www.artstation.com/ashleyw/profile"
+        ]
+      ]
+    }
   }
 ]
