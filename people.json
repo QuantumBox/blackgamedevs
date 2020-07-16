@@ -5939,5 +5939,38 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Asma Aden",
+    "image": "https://twitter.com/wait_nsee/photo",
+    "skills": [
+      "character Design",
+      "storyboarding",
+      "Animation",
+      "production"
+    ],
+    "location": "France",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://asmaaden.pb.online/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/wait_nsee"
+        ]
+      ],
+      "business": [
+        [
+          "Demo Reel",
+          "https://asmaaden.pb.online/animation?s=mTbJBDFiGxGFk0nS&i=Itbm0mXDS8iSQPZS"
+        ],
+        [
+          "Portfolio",
+          "https://asmaaden.pb.online/portfolio"
+        ]
+      ]
+    }
   }
 ]
