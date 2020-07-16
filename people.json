@@ -5939,5 +5939,36 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
-  }
+  },
+  {
+    "name": "Ridwan Moshood",
+    "image": "https://www.linkedin.com/in/ridwan-moshood-9a03b112b/detail/photo/",
+    "skills": [
+      "animation",
+      "production",
+      "illustration"
+    ],
+    "location": "Nigeria",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/moshoodshades"
+        ],
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/ridwan-moshood-9a03b112b/"
+        ]
+      ],
+      "business": [
+        [
+          "Twitter",
+          "https://twitter.com/toonup_ng"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/toonupanimations/"
+        ]
+      ]
+    }
 ]
