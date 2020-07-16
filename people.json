@@ -5939,5 +5939,46 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Tiffany McFarlane",
+    "image": "https://twitter.com/Tiffgif_/photo",
+    "skills": [
+      "game design",
+      "character design",
+      "user interface design",
+      "environment artist",
+      "animation",
+      "illustration"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/Tiffgif_"
+        ]
+      ],
+      "business": [
+        [
+          "Art Station",
+          "https://mystrophe.artstation.com/"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Dear Gregorie, Dear Accordio",
+        "https://mystrophe.artstation.com/projects/mqPdZ1"
+      ],
+      [
+        "Blanket",
+        "https://mystrophe.artstation.com/projects/nQx8n4"
+      ],
+      [
+        "Gamma City",
+        "https://mystrophe.artstation.com/projects/3oVe3g"
+      ]
+    ]
   }
 ]
