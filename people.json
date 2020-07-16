@@ -5939,5 +5939,42 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Derick Brooks",
+    "image": "https://twitter.com/derickant/photo",
+    "skills": [
+      "character design",
+      "animation"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/derickant"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.derickbrooks.com/"
+        ]
+      ]
+    },
+    "Character Design": [
+      [
+        "Sugar and Toys",
+        "https://www.derickbrooks.com/snt"
+      ],
+      [
+        "Bright Family",
+        "https://www.derickbrooks.com/brightfam-1"
+      ],
+      [
+        "The Gunstone Book of Space Age Weaponry",
+        "https://www.derickbrooks.com/gunstone"
+      ]
+    ]
   }
 ]
