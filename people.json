@@ -5939,5 +5939,26 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Alycia White",
+    "image": "",
+    "skills": [
+      "storyboarding",
+      "illustration",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "http://alyciamichelleart.com/"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/alycia_michelle17/"
+        ]
+     ]
   }
 ]
