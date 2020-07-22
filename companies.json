@@ -45,6 +45,112 @@
       ]
    },
    {
+      "name": "GN Games",
+      "image": "http://www.gngames.co.uk/wp-content/uploads/2020/04/GNSplashScreen.png",
+      "location": "United Kingdom",
+      "websites":
+      [
+         [
+            "Website",
+            "http://GNGames.co.uk"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/developmentgn"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCMY-fsf37xfQgdLObCR2cBQ"
+         ]
+      ],
+      "games":
+      [
+         [
+            "Stella Spella",
+            "https://www.microsoft.com/store/apps/9PFMCGTCVVH4"
+         ],
+         [
+            "Nubian Jak",
+            "https://play.google.com/store/apps/details?id=com.GNDevelopment.NubianJakUS"
+         ]
+      ]
+   },
+   {
+      "name": "Whim Independent Studios",
+      "image": "https://www.whimindie.com/wp-content/uploads/2020/06/Splash1.png",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "https://www.whimindie.com/"
+         ],
+	 [
+            "itch.io",
+            "https://whimindie.itch.io/"
+         ],
+		 
+         [
+            "Twitter",
+            "https://twitter.com/whimindie"
+         ],
+         [
+            "Facebook",
+            "https://facebook.com/whimindie"
+         ],
+         [
+            "Instagram",
+            "https://instagram.com/whimindie"
+         ],
+         [
+            "Youtube",
+            "https://www.youtube.com/channel/UCsCbwo_xHNDcGKsYftyCu5A/"
+         ]
+      ],
+      "games": [
+         [
+            "Selatria",
+            "https://www.selatria.com"
+         ],
+         [
+            "Spellbearers",
+            "https://www.spellbearers.com"
+         ]
+      ]
+   },
+   {
+      "name": "Burgos Games",
+      "image": "https://burgosgames.com/burgosgames_400x300/",
+      "location": "United States",
+      "websites": [
+         [
+            "Website",
+            "http://burgosgames.com"
+         ],
+         [
+            "Twitter",
+            "https://twitter.com/BurgosGames"
+         ],
+         [
+            "Facebook",
+            "https://facebook.com/BurgosGames"
+         ],
+         [
+            "Instagram",
+            "https://instagram.com/BurgosGames"
+         ],
+         [
+            "Youtube",
+            "https://youtube.com/channel/UCu605kcuFj7g-HiwDP1WKfA"
+         ]
+      ],
+      "games": [
+         [
+            "Neko Ghost, Jump!",
+            "http://nekoghostjump.com"
+         ]
+      ]
+   },
+   {
       "name": "Grand Scheme Games",
       "image": "https://grandschemegames.com/wp-content/uploads/2020/04/COTSGPortraitsEmotes.gif",
       "location": "",
@@ -478,17 +584,9 @@
    },
    {
       "name": "Leti Arts",
-      "image": "http://www.letiarts.com/wp-content/uploads/2014/09/trio.png",
+      "image": "",
       "location": "Ghana",
       "websites": [
-         [
-            "Website",
-            "http://letiarts.com"
-         ],
-         [
-            "Twitter",
-            "https://twitter.com/letiarts"
-         ],
          [
             "Facebook",
             "https://www.facebook.com/LetiArts"

@@ -29,7 +29,8 @@ http://image-link-here.com/image.png
 - Game audio
 - Marketing
 - Quality assurance
-- Game art
+- Art
+- Animation
 
 ## Location
 COUNTRY_NAME_HERE_WITHOUT_ACRONYMS

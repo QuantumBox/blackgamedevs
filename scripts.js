@@ -102,8 +102,14 @@ function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
 
                 if (!filterArray.includes(firstLetter)) {
                     filterArray.push(firstLetter);
-                    filterListString += populateFilterElement(keyToFilter, firstLetter, element, filterListItemString);
                 }
+
+                filterArray.sort(function(a, b) {
+                    if(a.toLowerCase() < b.toLowerCase()) return -1;
+                    if(a.toLowerCase() > b.toLowerCase()) return 1;
+                    return 0
+                });
+
             } else {
                 if ((dataArray[i][keyToFilter] !== '') && (dataArray[i][keyToFilter] !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS") && (!filterArray.includes(dataArray[i][keyToFilter]))) {
                     filterArray.push(dataArray[i][keyToFilter]);
@@ -111,6 +117,12 @@ function generateFilterableList(keyToFilter, dataArray, filterArray, element) {
                 }
             }
         }
+    }
+
+
+    if (keyToFilter === 'name') {
+        element.innerHTML = ''; //TODO: STOP THIS FROM DRAWING 2X
+        filterArray.forEach(function(letterToFilter) { filterListString += populateFilterElement(keyToFilter, letterToFilter, element, filterListItemString)});
     }
 
     element.innerHTML += filterListString;
@@ -136,44 +148,97 @@ function titleCaseString (str) {
     return str;
 }
 
+var filterSettings = {
+  'skills': {},
+  'location': {},
+  'name': {},
+};
+
 function filterData (keyToFilter, keyValue) {
+    if (keyToFilter === undefined) {
+        // Clear all filter data.
+        filterSettings = Object.fromEntries(Object.keys(filterSettings).map(function(key) { return [key, {}]; }));
+    }
+    else {
+        // Toggle the filter setting by adding or removing it from the object
+        let existingFilterSetting = filterSettings[keyToFilter][keyValue];
+        if (existingFilterSetting === undefined) {
+            filterSettings[keyToFilter][keyValue] = true;
+        }
+        else {
+            delete filterSettings[keyToFilter][keyValue];
+        }
+    }
+
+    updateFilters();
+}
+
+function updateFilters () {
     // Clear the filtered data
     filteredPersonData = [];
     filteredCompanyData = [];
-    // If there's a filter, filter the data or replicate the full list
-    if (keyToFilter){
-        for (var i = 0; i < personData.length; i++) {
-            if (keyToFilter === 'name') {
-                if (personData[i][keyToFilter].charAt(0) === keyValue) {
-                    filteredPersonData.push(personData[i]);
-                }
-            } else {
-                if (personData[i].hasOwnProperty(keyToFilter) && personData[i][keyToFilter].includes(keyValue)) {
-                    filteredPersonData.push(personData[i]);
-                }
+
+    let filterFunctions = Object.fromEntries(Object.entries(filterSettings).map(function(entry) {
+        let key = entry[0];
+        let filters = entry[1];
+        if (Object.keys(filters).length == 0) {
+            // All items pass if there are no filter entries
+            return [key, function(item) { return true; }];
+        }
+        else if (key == 'name') {
+            // Specialize the 'name' filter to only consider the first letter
+            return [key, function(item) { return item.hasOwnProperty(key) && item[key].charAt(0) in filters; }];
+        }
+        else {
+            let processValue = function(value) { return value; };  // Default makes no change to the value being tested
+
+            if (key == 'name') {
+                // Specialize the 'name' filter to only consider the first letter
+                processValue = function(value) { return value.charAt(0); };
             }
+
+            // Box raw values into arrays to treat them the same
+            let toArray = function(x) { return Array.isArray(x) ? x : [x]; };
+
+            // Items pass if any of the items in their array of properties meet at least one of the filter's requirements
+            return [key, function(item) { return item.hasOwnProperty(key) && toArray(item[key]).some(function(value) { return processValue(value) in filters; }); }];
+        }
+    }));
+
+    let personFilters = ['skills', 'location', 'name'];
+    let companyFilters = ['location', 'name'];
+
+    // Filter the data
+    filteredPersonData = personData.filter(function(person) {
+        // Entries pass only if they pass every filter
+        return personFilters.every(function(filterKey) { return filterFunctions[filterKey](person); });
+    });
+
+    filteredCompanyData = companyData.filter(function(company) {
+        // Entries pass only if they pass every filter
+        return companyFilters.every(function(filterKey) { return filterFunctions[filterKey](company); });
+    });
+
+    // Update the UI
+    let filterStrings = Object.entries(filterSettings).map(function(entry) {
+        let key = entry[0];
+        let filterValues = Object.keys(entry[1]).map(function(filterValue) { return titleCaseString(filterValue); });
+
+        if (filterValues.length) {
+            let filterValuesString = (filterValues.length > 1) ? ("(" + filterValues.join(" OR ") + ")") : filterValues[0];
+            return key + ": " + filterValuesString;
         }
 
-        // Company data
-        for (var j = 0; j < companyData.length; j++) {
-            if (keyToFilter === 'name') {
-                if (companyData[j][keyToFilter].charAt(0) === keyValue) {
-                    filteredCompanyData.push(companyData[j]);
-                }
-            } else if (keyToFilter === 'location') {
-                if (companyData[j].hasOwnProperty(keyToFilter) && companyData[j][keyToFilter].includes(keyValue)) {
-                    filteredCompanyData.push(companyData[j]);
-                }
-            } else {
-                filteredCompanyData = companyData;
-            }
-        }
+        return "";
+    });
 
+    let mainFilterString = filterStrings.filter(function (filterString) { return filterString.length > 0; }).join(" AND ");
+
+    if (mainFilterString.length) {
         filterOnElement.classList.remove('display-none');
-        filterDetailElement.innerHTML = keyToFilter + ': ' + titleCaseString(keyValue);
-    } else {
-        filteredPersonData = personData;
-        filteredCompanyData = companyData;
+        filterDetailElement.innerText = mainFilterString;
+    }
+    else {
         filterOnElement.classList.add('display-none');
     }
 
@@ -197,7 +262,7 @@ function filterData (keyToFilter, keyValue) {
 
 function generateLocationElement (locationElement, location) {
     if ((typeof location !== 'undefined') && (location !== '') && (location !== "WRITE YOUR COUNTRY NAME HERE WITHOUT ACRONYMS")) {
-        locationElement = '<p class="mt-0"><button class="filter-button mb-0" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
+        locationElement = '<p class="list-item-location mt-0"><button class="filter-button mb-0" onclick="filterData(\'location\', \'' + location + '\')"><img src="/icon-location.svg" class="icon icon-light mr-1">' + location + '</button></p>';
     }
 
     return locationElement;
@@ -227,7 +292,7 @@ function generateImageElement (imageElement, image, type) {
 function generateLinksElement (linksElement, links, iconName) {
     if (typeof links !== 'undefined') {
 
-        linksElement += '<div class="mb-1"><ul class="link-list"><li><img src="/' + iconName + '.svg" class="icon icon-light icon-large vertical-align-middle"></li>';
+        linksElement += '<div class="list-item-links mb-1"><ul class="link-list"><li><img src="/' + iconName + '.svg" class="icon icon-light icon-large vertical-align-middle"></li>';
 
         for (var i = 0; i < links.length; i++) {
             var individualLink = links[i];
@@ -254,7 +319,7 @@ function displayPersonData () {
         formattedBusinessLinks = '',
         formattedGameLinks = '',
         individualPerson = filteredPersonData[i],
-        formattedName = '<h3>' + individualPerson.name + '</h3>';
+        formattedName = '<h3 class="list-item-name">' + individualPerson.name + '</h3>';
 
         // Show location
         formattedLocation = generateLocationElement(formattedLocation, individualPerson.location);
