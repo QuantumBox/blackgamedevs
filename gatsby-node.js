@@ -54,10 +54,10 @@ const createIndex = async (dirNodes, type, cache) => {
     const { rawBody, id } = node
 
     const name = rawBody
-        .split("\n") //Split by new lines
-        .find(n => n[0] === "#") //Grab name by first H1 "#" that appears
-        .replace(/^#\s/, "");
-        
+      .split("\n") //Split by new lines
+      .find(n => n[0] === "#") //Grab name by first H1 "#" that appears
+      .replace(/^#\s/, "");
+
     const doc = {
       name,
       nameNormalized: name
