@@ -52,15 +52,15 @@ const createIndex = async (dirNodes, type, cache) => {
   // Iterate over all posts
   for (const node of dirNodes) {
     const { rawBody, id } = node
-    const doc = {
-      name: rawBody
+
+    const name = rawBody
         .split("\n") //Split by new lines
         .find(n => n[0] === "#") //Grab name by first H1 "#" that appears
-        .replace(/^#\s/, ""),
-      nameNormalized: rawBody
-        .split("\n")
-        .find(n => n[0] === "#")
-        .replace(/^#\s/, "")
+        .replace(/^#\s/, "");
+        
+    const doc = {
+      name,
+      nameNormalized: name
         .normalize("NFD")
         .replace(/[\u0300-\u036f]|-/g, ""),
       locations: sanitizeFilter(rawBody, "Location"),

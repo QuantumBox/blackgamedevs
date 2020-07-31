@@ -6,7 +6,7 @@ import Button from "@modules/ui/Button"
 import { jsx } from "theme-ui"
 import { motion } from "framer-motion"
 
-const ResultsRenderer = ({ results, resultsPerPage = 12 }) => {
+const ResultsRenderer = ({ results, resultTypeLabel, resultsPerPage = 12 }) => {
   const [currentPage, setCurrentPage] = useState(1)
   const resultsToRender = results.slice(0, resultsPerPage * currentPage)
 
@@ -54,7 +54,7 @@ const ResultsRenderer = ({ results, resultsPerPage = 12 }) => {
           onClick={() => setCurrentPage(currentPage + 1)}
         >
           {" "}
-          {`Show more results (${
+          {`Show more ${resultTypeLabel.toLowerCase()} (${
             results.length - resultsPerPage * currentPage
           }+)`}{" "}
         </Button>

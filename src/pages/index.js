@@ -6,17 +6,18 @@ import { Box, jsx } from "theme-ui"
 import { useSite } from "@layouts/SiteContext"
 import ResultSection from "@search/ResultSection"
 import Search from "@search"
+import {filterObjectData} from '@utils';
 
 const Index = ({ data, location }) => {
   const { filters, results } = useSite()
 
   const peopleResults = Object.values(
-    Object.filter(
+    filterObjectData(
       results,
       entry =>
         !entry.frontmatter.isCompany &&
         (filters.length > 0
-          ? filters.every(f => {
+          ? filters.some(f => {
               if (!entry[f.set] || !entry[f.set].length) return false
 
               return entry[f.set].find(n => n.key === f.key)
@@ -26,12 +27,12 @@ const Index = ({ data, location }) => {
   )
 
   const companyResults = Object.values(
-    Object.filter(
+    filterObjectData(
       results,
       entry =>
         entry.frontmatter.isCompany &&
         (filters.length > 0
-          ? filters.every(f => {
+          ? filters.some(f => {
               if (!entry[f.set] || !entry[f.set].length) return false
 
               return entry[f.set].find(n => n.key === f.key)

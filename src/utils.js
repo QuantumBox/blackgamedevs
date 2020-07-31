@@ -6,8 +6,8 @@ export const groupBy = (arr, property) => {
   }, {})
 }
 
-//Prototype for filter object data by a predicate.
-Object.filter = (obj, predicate) =>
+//Filter an object's data by a predicate.
+export const filterObjectData = (obj, predicate) =>
   Object.keys(obj)
     .filter(key => predicate(obj[key]))
     .reduce((res, key) => ((res[key] = obj[key]), res), {})
