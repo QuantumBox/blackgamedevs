@@ -19,3 +19,13 @@ There are three ways to do so.
 Send a tweet to [@cattsmall](http://twitter.com/cattsmall), [@edibletoaster](http://twitter.com/edibletoaster), or [@chrisalgoo](http://twitter.com/chrisalgoo). This is hardest for us. There is no guarantee we'll see your request.
 
 <3
+
+## How to run this project locally:
+
+1. Download `npm` by following [this guide](https://www.npmjs.com/get-npm). You'll need at least node 10.x and up
+
+2. Install yarn by running `npm install -g yarn` in your terminal.
+
+3. Then you can run `yarn` in your terminal while inside the project directory to install project dependencies.
+
+4. After the installation completes you can run `yarn start` to spin up your development environment. 

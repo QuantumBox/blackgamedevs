@@ -47,7 +47,7 @@ const SiteProvider = ({ children, value }) => {
   //Transform that data into something consumable (People, Companies)
   //NOTE(Rejon): I would use graphql to sort by heading value, but graphql is case sensitive. 
   //             So lower case elements would always be last :/
-  //NOTE(Rejon): Used to securely match result ids to data for rendering when searching/filtering (see )
+  //NOTE(Rejon): Used to securely match result ids to data for rendering when searching/filtering 
   const AllData = directory.edges
   .sort((a, b) => a.node.headings[0].value.localeCompare(b.node.headings[0].value))
   .reduce((obj, { node }) => {
@@ -111,7 +111,10 @@ const SiteProvider = ({ children, value }) => {
       }
     }
 
-    window.scrollTo({ top: 0 })
+    if (window.scrollY >= 364) {
+      window.scrollTo({ top: 0 })
+    }
+    
   }
 
   //Method call that removes filters entirely, or by a specific set.
@@ -122,7 +125,9 @@ const SiteProvider = ({ children, value }) => {
       setFilters([])
     }
 
-    window.scrollTo({ top: 0 })
+    if (window.scrollY >= 364) {
+      window.scrollTo({ top: 0 })
+    }
   }
 
   return (

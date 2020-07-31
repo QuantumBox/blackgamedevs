@@ -71,7 +71,7 @@ module.exports.bgdMinimizer = async () => {
     //Minify Webps
     await imagemin([`${getFrom}/*.{webp,png,jpeg,jpg}`], {
       destination: putTo,
-      plugins: [imageminWebP({quality: 10, method: 6})],
+      plugins: [imageminWebP({quality: 75, method: 6})],
     })
 
     webpProg.succeed("WEBp's Minimized into directory/images")

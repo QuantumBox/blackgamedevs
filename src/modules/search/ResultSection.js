@@ -60,7 +60,7 @@ const ResultSection = ({
 
       <MDXProvider components={Shortcodes}>
         {results && results.length > 0 && (
-          <ResultsRenderer results={results} {...otherProps} />
+          <ResultsRenderer results={results} resultTypeLabel={children} {...otherProps} />
         )}
       </MDXProvider>
       {results && results.length === 0 && (
