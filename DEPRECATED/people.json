@@ -1116,7 +1116,6 @@
         ]
       ],
       "business": [
-
         [
           "Twitter",
           "https://twitter.com/DevsKenya"
@@ -3678,8 +3677,7 @@
         ]
       ]
     },
-    "games": [
-    ]
+    "games": []
   },
   {
     "name": "Prince Jones",
@@ -4166,7 +4164,7 @@
           "https://twitter.com/akira_t"
         ]
       ],
-      "personal": [
+      "business": [
         [
           "Website",
           "http://rainb.ro"
@@ -5530,7 +5528,6 @@
           "https://shrouded-harbor-27053.herokuapp.com"
         ]
       ]
-
     }
   },
   {
@@ -5835,32 +5832,32 @@
     }
   },
   {
-      "name": "Shalia Wynn",
-      "image": "",
-      "skills": [
-         "game design",
-         "programming",
-         "user interface design",
-         "copywriting",
-         "narrative design",
-         "quality assurance",
-         "art"
-      ],
-      "location": "United States",
-      "websites": {
-         "personal": [
-            [
-               "Github",
-               "https://github.com/swynn730"
-            ],
-            [
-               "Art Portfolio",
-               "https://www.behance.net/shaliawynn1e2b"
-            ]
-         ]
-      }
-   },
-   {
+    "name": "Shalia Wynn",
+    "image": "",
+    "skills": [
+      "game design",
+      "programming",
+      "user interface design",
+      "copywriting",
+      "narrative design",
+      "quality assurance",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Github",
+          "https://github.com/swynn730"
+        ],
+        [
+          "Art Portfolio",
+          "https://www.behance.net/shaliawynn1e2b"
+        ]
+      ]
+    }
+  },
+  {
     "name": "Tyler Rotheram",
     "image": "https://tyrotheram.files.wordpress.com/2020/02/a1.jpg",
     "skills": [
