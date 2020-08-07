@@ -2735,7 +2735,7 @@
   },
   {
     "name": "Ben Wilson",
-    "image": "https://img.itch.zone/aW1hZ2UvMTAxMTUyLzQ3NzQzNS5qcGc=/794x1000/4zSa8Y.jpg",
+    "image": "http://www.zerofifty.one/wp-content/uploads/2020/06/BenWilson_800px-1100x1100.jpg",
     "skills": [
       "game design",
       "programming"
@@ -5919,5 +5919,936 @@
         "https://en.wikipedia.org/wiki/Blood_%26_Truth"
       ]
     ]
+  },
+  {
+    "name": "Sholto Tiger Collins",
+    "image": "https://i.gyazo.com/bf4f7343d84e3dc3b4cf70add6ff2810.png",
+    "skills": [
+      "game design",
+      "programming",
+      "user interface design",
+      "quality assurance"
+    ],
+    "location": "Australia",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/_TigerCollins"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://tigercollins.myportfolio.com"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Quest Quest",
+        "https://tigercollins.itch.io/quest-quest"
+      ],
+      [
+        "Evicted",
+        "https://tigercollins.itch.io/evicted"
+      ]
+    ]
+  },
+  {
+    "name": "Patrick Gordon",
+    "image": "http://tek-man.net/dir_portrait.png",
+    "skills": [
+      "user interface design",
+      "quality assurance"
+    ],
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://Tek-Man.net"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/tekman128"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/tekman128"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Lual Mayen",
+    "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/97208205_2942160175863211_5067403152058382540_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Ca4SOZ_HUWgAX9BKYg7&oh=44bad1b1bca2d6c2c7d3707af5988ff9&oe=5F03FDED",
+    "skills": [
+      "game design",
+      "production",
+      "narrative design",
+      "public relations",
+      "marketing",
+      "quality assurance"
+    ],
+    "location": "South Sudan",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/OfficialLual"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/OfficialLual"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/lualmayen"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://junubgames.com"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/junubgames"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/JunubGames"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/junubgames"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/channel/UCBOYtQE5i7d1iqea7-4DVzA"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Salaam",
+        "https://junubgames.com"
+      ]
+    ]
+  },
+  {
+    "name": "Edwin Nyaluogo",
+    "image": "https://niw.co.ke/assets/img/profiles/16_Edwin.png",
+    "skills": [
+      "game design",
+      "programming",
+      "user interface design",
+      "production",
+      "art",
+      "animation"
+    ],
+    "location": "Kenya",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "http://link-here.com"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/edduhflanni"
+        ],
+        [
+          "Facebook",
+          "https://web.facebook.com/nyabingiStudio/"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/username-here"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/channel/UCdNZP_w3ikeI2HYtzVPzaog"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/nyabingistudio"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "http://link-here.com"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/username-here"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/username-here"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/username-here"
+        ],
+        [
+          "YouTube",
+          "https://youtube.com/username-here"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/username-here"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "BINGIMAN",
+        "https://nyabingi.itch.io/bingiman"
+      ]
+    ]
+  },
+  {
+    "name": "Vince Quarles",
+    "image": "https://dvnc.tech/wp-content/uploads/2018/04/vince-800x800.jpg",
+    "skills": [
+      "game design",
+      "programming",
+      "user interface design",
+      "production",
+      "business development",
+      "marketing",
+      "quality assurance",
+      "game art"
+    ],
+    "location": "United States of America",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "http://dvnc.tech"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/weebceo"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/vincent.quarles.7"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/weebceo"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "http://dvnc.tech"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/dvnc_tech"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/dvnctech"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/dvnc_tech"
+        ],
+        [
+          "Youtube",
+          "https://youtube.com/channel/UCOIs6Mc5_CHFWktJVScaDGQ"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/dvnc"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Monochrome RPG",
+        "https://dvnc.itch.io/monochromerpg-episode-1"
+      ],
+      [
+        "Superhero In Training",
+        "https://dvnc.itch.io/sht"
+      ]
+    ]
+  },
+  {
+    "name": "Daniel Otaigbe",
+    "image": "https://actuallytrue.github.io/Assets/pic.jpg",
+    "skills": [
+      "game design",
+      "programming",
+      "Software Development",
+      "Game Development"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://actuallytrue.github.io/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/the_true_dev"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/daniel.otaigbe/"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Starchild",
+        "https://actuallytrue.github.io/Starchild.html"
+      ]
+    ]
+  },
+  {
+    "name": "Ava Brumfield",
+    "image": "https://pbs.twimg.com/media/EaWJ5J-UMAEpyOC?format=jpg&name=large",
+    "skills": [
+      "game design",
+      "programming",
+      "game audio"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/alturos"
+        ],
+        [
+          "Facebook",
+          "https://facebook.com/abuhrae"
+        ],
+        [
+          "Instagram",
+          "https://instagram.com/ava.raelynn"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://brightmothgames.itch.io"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/BrightMothGames"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Futari Nezumi",
+        "https://brightmothgames.itch.io/futari-nezumi"
+      ],
+      [
+        "Whiny Slime",
+        "https://brightmothgames.itch.io/whiny-slime"
+      ],
+      [
+        "Heroes of Eterna",
+        "https://brightmothgames.itch.io/heroes-of-eterna"
+      ]
+    ]
+  },
+  {
+    "name": "Gary Fonville",
+    "image": "",
+    "skills": [
+      "production",
+      "art",
+      "game development"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "LinkedIn",
+          "https://www.linkedin.com/in/ianim8/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/givmetharoc"
+        ]
+      ],
+      "business": [
+        [
+          "Game Studio",
+          "https://www.blizzard.com/en-us/"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Overwatch 2",
+        "https://overwatch2.playoverwatch.com/en-us/trailer"
+      ],
+      [
+        "Overwatch",
+        "https://playoverwatch.com/en-us/"
+      ],
+      [
+        "Prey: Mooncrash",
+        "https://bethesda.net/en/game/prey-dlc"
+      ],
+      [
+        "Prey",
+        "https://bethesda.net/en/game/buy-prey"
+      ]
+    ]
+  },
+  {
+    "name": "Jasmine Persephone Jupiter",
+    "image": "",
+    "skills": [
+      "narrative design"
+    ],
+    "location": "United States of America",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://www.jpjupiter.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/_JP_Jupiter"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Koshka's Kofe",
+        "https://koshkas-kofe.itch.io/koshkas-kofe"
+      ]
+    ]
+  },
+  {
+    "name": "J. Djamahl Nolen",
+    "image": "https://imgur.com/a/9yaP4c4",
+    "skills": [
+      "programming",
+      "game design"
+    ],
+    "location": "Bay Area",
+    "websites": {
+      "personal": [
+        [
+          "LinkedIn",
+          "https://www.linkedin.com/in/jasondnolen/"
+        ]
+      ],
+      "business": [
+        [
+          "Facebook",
+          "https://www.facebook.com/misplacedanger/"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Sword Cypher",
+        "https://www.facebook.com/misplacedanger/"
+      ]
+    ]
+  },
+  {
+    "name": "Sundae Month",
+    "image": "https://twitter.com/SundaeMonth/photo",
+    "location": "United States",
+    "websites": [
+      [
+        "Website",
+        "https://sundaemonth.com/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/SundaeMonth"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/SundaeMonth/"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCQLTvHztWv6ndjKFtIEvF1A"
+      ]
+    ],
+    "games": [
+      [
+        "Dad Quest",
+        "https://sundaemonth.com/dad-quest"
+      ],
+      [
+        "Autumn's End",
+        "https://sundaemonth.com/autumns-end"
+      ],
+      [
+        "Pupperazzi",
+        "https://sundaemonth.com/pupperazzi"
+      ]
+    ]
+  },
+  {
+    "name": "Danielle Wallace",
+    "image": "https://twitter.com/DPandaHeart/photo",
+    "skills": [
+      "3D modeling",
+      "UV/texturing",
+      "Unity",
+      "programming",
+      "Unity particle creation",
+      "pixel art",
+      "animation"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://www.daniellewallace.org/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/DPandaHeart"
+        ]
+      ],
+      "business": [
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/danielle-wallace-a86017183/"
+        ],
+        [
+          "Art Station",
+          "https://www.artstation.com/dpandaheart"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Shipping Out",
+        "https://www.daniellewallace.org/published-games?pgid=jubulrqo-87f9220c-547c-4497-b581-88956b2ad051"
+      ],
+      [
+        "Jelly Jam",
+        "https://www.daniellewallace.org/published-games?pgid=jubulrqo-7b1c9e6d-e780-4bd3-8d19-7de9eee57397"
+      ],
+      [
+        "Pupper Plight",
+        "https://www.daniellewallace.org/published-games?pgid=jubulrqo-164719cb-dd0c-4644-bc01-d640d05a8928"
+      ]
+    ]
+  },
+  {
+    "name": "Ashley Wade",
+    "image": "https://twitter.com/cordiallycontgo/photo",
+    "skills": [
+      "Environment Modeling"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/cordiallycontgo"
+        ]
+      ],
+      "business": [
+        [
+          "Art Station",
+          "https://www.artstation.com/ashleyw/profile"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Asma Aden",
+    "image": "https://twitter.com/wait_nsee/photo",
+    "skills": [
+      "character Design",
+      "storyboarding",
+      "Animation",
+      "production"
+    ],
+    "location": "France",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://asmaaden.pb.online/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/wait_nsee"
+        ]
+      ],
+      "business": [
+        [
+          "Demo Reel",
+          "https://asmaaden.pb.online/animation?s=mTbJBDFiGxGFk0nS&i=Itbm0mXDS8iSQPZS"
+        ],
+        [
+          "Portfolio",
+          "https://asmaaden.pb.online/portfolio"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Tiffany McFarlane",
+    "image": "https://twitter.com/Tiffgif_/photo",
+    "skills": [
+      "game design",
+      "character design",
+      "user interface design",
+      "environment artist",
+      "animation",
+      "illustration"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/Tiffgif_"
+        ]
+      ],
+      "business": [
+        [
+          "Art Station",
+          "https://mystrophe.artstation.com/"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "Dear Gregorie, Dear Accordio",
+        "https://mystrophe.artstation.com/projects/mqPdZ1"
+      ],
+      [
+        "Blanket",
+        "https://mystrophe.artstation.com/projects/nQx8n4"
+      ],
+      [
+        "Gamma City",
+        "https://mystrophe.artstation.com/projects/3oVe3g"
+      ]
+    ]
+  },
+  {
+    "name": "Nicole Ham",
+    "image": "https://www.linkedin.com/in/thenicoleham/detail/photo/",
+    "skills": [
+      "motion design",
+      "animation",
+      "art direction",
+      "storyboarding"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://linktr.ee/thenicoleham"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/thenicoleham"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/thenicoleham/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/channel/UCPhBPT-0QS0wLjrIBOWsl_A"
+        ]
+      ]
+    },
+    "games": [
+      [
+        "HeLLnEt.KILL",
+        "https://www.youtube.com/watch?v=Ivsdn6244bU&list=PLnIn5c4rBD_1Bir1JV1zb6_oxROqRvPPs"
+      ],
+      [
+        "Demo Reel",
+        "https://www.youtube.com/watch?v=m_4ppNVYgnA"
+      ]
+    ]
+  },
+  {
+    "name": "Derick Brooks",
+    "image": "https://twitter.com/derickant/photo",
+    "skills": [
+      "character design",
+      "animation"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/derickant"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.derickbrooks.com/"
+        ]
+      ]
+    },
+    "Character Design": [
+      [
+        "Sugar and Toys",
+        "https://www.derickbrooks.com/snt"
+      ],
+      [
+        "Bright Family",
+        "https://www.derickbrooks.com/brightfam-1"
+      ],
+      [
+        "The Gunstone Book of Space Age Weaponry",
+        "https://www.derickbrooks.com/gunstone"
+      ]
+    ]
+  },
+  {
+    "name": "Leslie Mondundu",
+    "image": "https://twitter.com/Megax2416/photo",
+    "skills": [
+      "character design",
+      "animation",
+      "previsualization",
+      "narrative design"
+    ],
+    "location": "Canada",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/Megax2416"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/mondundu/"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.mondundu.com/home"
+        ],
+        [
+          "Linkedin",
+          "https://ca.linkedin.com/in/leslie-mondundu-835494119/en-us"
+        ]
+      ]
+    },
+    "Animation": [
+      [
+        "Demo Reel",
+        "https://www.mondundu.com/home?wix-vod-video-id=9fd49f4895d542bf9c22cd2252c2600a&wix-vod-comp-id=comp-k7cg4hbr"
+      ]
+    ]
+  },
+  {
+    "name": "Lorraine Grate",
+    "image": "https://twitter.com/RollaineDraws/photo",
+    "skills": [
+      "animation",
+      "production",
+      "character design"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/RollaineDraws"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/lorrainegrate/"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.lorrainegrate.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/capsule_corner"
+        ]
+      ]
+    },
+    "animation": [
+      [
+        "Character Design",
+        "https://www.lorrainegrate.com/post/39627790723/character-design-original"
+      ]
+    ]
+  },
+  {
+    "name": "Dana Green",
+    "image": "https://www.linkedin.com/in/danagreendesigns/detail/photo/",
+    "skills": [
+      "environmental design",
+      "animation",
+      "Unity",
+      "Unreal Engine",
+      "3D modeling",
+      "lighting",
+      "concept creation",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "https://www.danagreendesigns.com/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/danagreencg"
+        ],
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/danagreendesigns/"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Ridwan Moshood",
+    "image": "https://www.linkedin.com/in/ridwan-moshood-9a03b112b/detail/photo/",
+    "skills": [
+      "animation",
+      "production",
+      "illustration"
+    ],
+    "location": "Nigeria",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/moshoodshades"
+        ],
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/ridwan-moshood-9a03b112b/"
+        ]
+      ],
+      "business": [
+        [
+          "Twitter",
+          "https://twitter.com/toonup_ng"
+        ],
+        [
+          "Facebook",
+          "https://www.facebook.com/toonupanimations/"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Sierra McKie",
+    "image": "https://twitter.com/BabyFaceMckie/photo",
+    "skills": [
+      "animation",
+      "editing",
+      "writing"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Twitter",
+          "https://twitter.com/BabyFaceMckie"
+        ],
+        [
+          "Youtube",
+          "https://www.youtube.com/c/babyfaceMckie/featured"
+        ]
+      ],
+      "business": [
+        [
+          "Website",
+          "https://www.juvenilestudio.com/"
+        ],
+        [
+          "Patreon",
+          "https://www.patreon.com/mycrynicles"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Lauren Banks",
+    "image": "https://www.linkedin.com/in/lauren-banks-406558187/detail/photo/",
+    "skills": [
+      "character design",
+      "animation",
+      "storyboarding",
+      "production",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Instagram",
+          "https://www.instagram.com/laurenbanksart/"
+        ],
+        [
+          "Twitter",
+          "https://twitter.com/laurenbanksart"
+        ],
+        [
+          "Linkedin",
+          "https://www.linkedin.com/in/lauren-banks-406558187/"
+        ],
+        [
+          "Porfolio",
+          "https://twitter.com/i/events/1216834735932157961"
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Alycia White",
+    "image": "",
+    "skills": [
+      "storyboarding",
+      "illustration",
+      "art"
+    ],
+    "location": "United States",
+    "websites": {
+      "personal": [
+        [
+          "Website",
+          "http://alyciamichelleart.com/"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/alycia_michelle17/"
+        ]
+      ]
+    }
   }
 ]
