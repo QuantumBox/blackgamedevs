@@ -6607,23 +6607,21 @@
         [
           "Website",
           "https://www.derickbrooks.com/"
+        ],
+        [
+          "Sugar and Toys",
+          "https://www.derickbrooks.com/snt"
+        ],
+        [
+          "Bright Family",
+          "https://www.derickbrooks.com/brightfam-1"
+        ],
+        [
+          "The Gunstone Book of Space Age Weaponry",
+          "https://www.derickbrooks.com/gunstone"
         ]
       ]
-    },
-    "Character Design": [
-      [
-        "Sugar and Toys",
-        "https://www.derickbrooks.com/snt"
-      ],
-      [
-        "Bright Family",
-        "https://www.derickbrooks.com/brightfam-1"
-      ],
-      [
-        "The Gunstone Book of Space Age Weaponry",
-        "https://www.derickbrooks.com/gunstone"
-      ]
-    ]
+    }
   },
   {
     "name": "Leslie Mondundu",
@@ -6654,15 +6652,13 @@
         [
           "Linkedin",
           "https://ca.linkedin.com/in/leslie-mondundu-835494119/en-us"
+        ],
+        [
+          "Demo Reel",
+          "https://www.mondundu.com/home?wix-vod-video-id=9fd49f4895d542bf9c22cd2252c2600a&wix-vod-comp-id=comp-k7cg4hbr"
         ]
       ]
-    },
-    "Animation": [
-      [
-        "Demo Reel",
-        "https://www.mondundu.com/home?wix-vod-video-id=9fd49f4895d542bf9c22cd2252c2600a&wix-vod-comp-id=comp-k7cg4hbr"
-      ]
-    ]
+    }
   },
   {
     "name": "Lorraine Grate",
@@ -6692,15 +6688,13 @@
         [
           "Twitter",
           "https://twitter.com/capsule_corner"
+        ],
+        [
+          "Character Design",
+          "https://www.lorrainegrate.com/post/39627790723/character-design-original"
         ]
       ]
-    },
-    "animation": [
-      [
-        "Character Design",
-        "https://www.lorrainegrate.com/post/39627790723/character-design-original"
-      ]
-    ]
+    }
   },
   {
     "name": "Dana Green",
