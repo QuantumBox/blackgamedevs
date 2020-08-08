@@ -10,8 +10,7 @@ There are three ways to do so.
 2. Open the `TEMPLATES` folder and choose `PERSON-COPY-ME.mdx` or `COMPANY-COPY-ME.mdx` depending on whether your submission is one person or a studio (both is also fine)
 3. Duplicate the file and save it in the `directory` folder as your name with underscores instead of spaces (for example: `Catt_Small.mdx`)
 4. Edit and save the file
-5. Add and save your submission to the bottom of the list - Don't worry it all gets sorted
-6. Create and submit a pull request for us to review
+5. Create and submit a pull request for us to review
 
 ### The acceptable way
 [Create a GitHub issue here](https://github.com/QuantumBox/blackgamedevs/issues) and include the person's name and website(s). We will get to it when we can.
