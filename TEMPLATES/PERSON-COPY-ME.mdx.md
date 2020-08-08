@@ -1,11 +1,3 @@
----
-name: Add A New Person
-about: Template for a new person entry
-title: "BGD New Person: YOUR NAME"
-labels: New Entry, good first issue
-assignees: ""
----
-
 # YOUR NAME
 
 <Location>
@@ -57,6 +49,7 @@ art
 </Business>
 
 <Games>
+<!-- Up to 3 games please! -->
 
 [Game Label](Game Website URL)
 

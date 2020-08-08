@@ -47,7 +47,8 @@
     "react-sticky-el": "^2.0.5",
     "react-virtualized-auto-sizer": "^1.0.2",
     "striptags": "^3.1.1",
-    "theme-ui": "^0.3.1"
+    "theme-ui": "^0.3.1",
+    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",

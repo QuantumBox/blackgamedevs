@@ -7,10 +7,11 @@ There are three ways to do so.
 ### The good way (quickest)
 
 1. Clone this repository
-2. Open `people.json` and/or `companies.json` depending on whether your submission is one person or a studio (both is also fine)
-3. Duplicate the template at the top of the file(s) you are editing
-4. Add and save your submission to the bottom of the list - Don't worry it all gets sorted
-5. Create and submit a pull request for us to review
+2. Open the `TEMPLATES` folder and choose `PERSON-COPY-ME.mdx` or `COMPANY-COPY-ME.mdx` depending on whether your submission is one person or a studio (both is also fine)
+3. Duplicate the and save it in the directory as your name with underscores instead of spaces (for example: `Catt_Small.mdx`)
+4. Edit and save the file
+5. Add and save your submission to the bottom of the list - Don't worry it all gets sorted
+6. Create and submit a pull request for us to review
 
 ### The acceptable way
 [Create a GitHub issue here](https://github.com/QuantumBox/blackgamedevs/issues) and include the person's name and website(s). We will get to it when we can.
@@ -29,3 +30,6 @@ Send a tweet to [@cattsmall](http://twitter.com/cattsmall), [@edibletoaster](htt
 3. Then you can run `yarn` in your terminal while inside the project directory to install project dependencies.
 
 4. After the installation completes you can run `yarn start` to spin up your development environment. 
+
+### Need more help?
+Check out [the wiki](https://github.com/QuantumBox/blackgamedevs/wiki) for more information about how this project works.
