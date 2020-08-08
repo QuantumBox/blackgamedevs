@@ -35,18 +35,18 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "459c71ef3903f09ea38069aa3ebad47b"
+    "revision": "17949f8647b4ead0eb06066a8dbfacc5"
   },
   {
     "url": "404/index.html",
-    "revision": "07e83a3223d80f61fd6b1bbca88197ba"
+    "revision": "560ca4d0db6b789123801b52d23b826c"
   },
   {
-    "url": "app-d9f4a28e7240954f2b1d.js"
+    "url": "app-40f341189b2da673fecf.js"
   },
   {
-    "url": "app-d9f4a28e7240954f2b1d.js.map",
-    "revision": "86ce20031426a93a0c92bfa4726fcfcb"
+    "url": "app-40f341189b2da673fecf.js.map",
+    "revision": "52825b26b17e3617616a49d192d94788"
   },
   {
     "url": "back-to-top.svg",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "a01a2f48066dba04f8b35420600f3754"
+    "revision": "8d76535e02b47bfa47b5e4c136e8e017"
   },
   {
     "url": "CNAME",
@@ -75,11 +75,11 @@ self.__precacheManifest = [
     "revision": "f1af83addf0a5677536b39fbcb4837e0"
   },
   {
-    "url": "component---src-pages-index-js-e289706e5b23db8eb16c.js"
+    "url": "component---src-pages-index-js-18c6f9f0e5f0b5e3df06.js"
   },
   {
-    "url": "component---src-pages-index-js-e289706e5b23db8eb16c.js.map",
-    "revision": "b8c354953cf4623d51928c23561bd81e"
+    "url": "component---src-pages-index-js-18c6f9f0e5f0b5e3df06.js.map",
+    "revision": "80c20a4d295e7977502b77c22a2f4c92"
   },
   {
     "url": "directory_images/Adewale_Haroun_v1.webp",
@@ -517,7 +517,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "65c4f24a1a48a412d9099f770e33320a"
+    "revision": "697e0c2d0945f5fe4e0332c630bb15d6"
   },
   {
     "url": "loading.png",
@@ -525,7 +525,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "a87f70e52ea21ce9f9807db6a50a2f6c"
+    "revision": "abe8e51471236a11b69f5f89dda900b9"
   },
   {
     "url": "minus-icon.svg",
@@ -541,7 +541,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "5cc2ef65f0ab2960ad5243cd1518f73d"
+    "revision": "0dc8f6e5119c6a76213d765e157c882e"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -553,7 +553,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "c53a8f0952a80f65b17d69bb569e7b08"
+    "revision": "34e13df979a91f5c06801c9c5989c13f"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -573,7 +573,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "e7fd5f56184025854d49d47f02ab698e"
+    "revision": "fbd4b37550c6d2e7ca01305ffc3d7d11"
   },
   {
     "url": "static/d/2602323158.json"
@@ -594,15 +594,15 @@ self.__precacheManifest = [
     "url": "static/no-company-image-153041c5fc8829bccf58691403f06e8d.png"
   },
   {
-    "url": "webpack-runtime-40836f17580e7cf8828f.js"
+    "url": "webpack-runtime-09bc2f3d94986001f856.js"
   },
   {
-    "url": "webpack-runtime-40836f17580e7cf8828f.js.map",
-    "revision": "6fb38d0f75ef4912781e96d4b5a26fb0"
+    "url": "webpack-runtime-09bc2f3d94986001f856.js.map",
+    "revision": "2933e16c8a061090cd4b1c98ce2230bd"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "72111109623da95dd3842acb671097c5"
+    "revision": "f030e7ba1238c98c7da9796e6709b2cd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -690,12 +690,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/blackgamedevs_v2`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/blackgamedevs_v2/app-d9f4a28e7240954f2b1d.js`))) {
+  if (!resources || !(await caches.match(`/app-40f341189b2da673fecf.js`))) {
     return await fetch(event.request)
   }
 
@@ -708,7 +708,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/blackgamedevs_v2/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
