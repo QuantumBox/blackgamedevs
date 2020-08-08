@@ -8,7 +8,7 @@ There are three ways to do so.
 
 1. Clone this repository
 2. Open the `TEMPLATES` folder and choose `PERSON-COPY-ME.mdx` or `COMPANY-COPY-ME.mdx` depending on whether your submission is one person or a studio (both is also fine)
-3. Duplicate the and save it in the directory as your name with underscores instead of spaces (for example: `Catt_Small.mdx`)
+3. Duplicate the file and save it in the `directory` folder as your name with underscores instead of spaces (for example: `Catt_Small.mdx`)
 4. Edit and save the file
 5. Add and save your submission to the bottom of the list - Don't worry it all gets sorted
 6. Create and submit a pull request for us to review
@@ -29,7 +29,7 @@ Send a tweet to [@cattsmall](http://twitter.com/cattsmall), [@edibletoaster](htt
 
 3. Then you can run `yarn` in your terminal while inside the project directory to install project dependencies.
 
-4. After the installation completes you can run `yarn start` to spin up your development environment. 
+4. After the installation completes, run `yarn start` to spin up your development environment. When it says `SUCCESS`, open [localhost:8000](http://localhost:8000).
 
 ### Need more help?
 Check out [the wiki](https://github.com/QuantumBox/blackgamedevs/wiki) for more information about how this project works.
