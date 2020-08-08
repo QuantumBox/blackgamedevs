@@ -81,7 +81,7 @@ const ResultSection = ({
           <Text>
             {`Think ${noun} is missing? Add them to the list `}
             <Link
-              to="https://github.com/MaximumCrash/blackgamedevs_v2/issues/new/choose"
+              to="https://github.com/QuantumBox/blackgamedevs#want-to-add-someone-to-the-list"
               sx={{ cursor: "pointer" }}
             >
               here.
