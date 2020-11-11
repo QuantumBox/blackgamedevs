@@ -211,6 +211,7 @@ const Filters = () => {
         ref={filterListEl}
         sx={{ pl: "1rem", pr: "1rem", mt: ".24rem", maxHeight: ['73vh', 'unset', 'unset'], overflow: filtersOpen ? 'auto !important' : 'hidden' }}
       >
+        
         {Object.keys(AllFilters).map((set, index) => (
           <FilterSet
             filtersOfSet={AllFilters[set]}
@@ -225,6 +226,8 @@ const Filters = () => {
             {set}
           </FilterSet>
         ))}
+
+        
       </SmoothCollapse>
     </Box>
   )

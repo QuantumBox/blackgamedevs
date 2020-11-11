@@ -10,7 +10,6 @@ import {filterObjectData} from '@utils';
 
 const Index = ({ data, location }) => {
   const { filters, results } = useSite()
-
   const peopleResults = Object.values(
     filterObjectData(
       results,
@@ -19,7 +18,7 @@ const Index = ({ data, location }) => {
         (filters.length > 0
           ? filters.some(f => {
               if (!entry[f.set] || !entry[f.set].length) return false
-
+              
               return entry[f.set].find(n => n.key === f.key)
             })
           : true)

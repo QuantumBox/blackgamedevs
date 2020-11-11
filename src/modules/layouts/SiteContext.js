@@ -42,6 +42,7 @@ const SiteProvider = ({ children, value }) => {
   `)
 
   const AllFilters = {}
+  const ExistsFilters = [{fragment: "Games", regex: /\[([^\[]+)\](\(.*\))/gm}]
   const filterFragments = ["Skills", "Location"] //<- Update this to match React Fragment keynames for filtering!
 
   //Transform that data into something consumable (People, Companies)
@@ -68,6 +69,38 @@ const SiteProvider = ({ children, value }) => {
         //NOTE(Rejon): Because filters are automagically generated we do the heavy lifting to sanitize text.
         //             We do this to get our filters into something consistent for comparisons, rendering, and querying via input.
         AllFilters[fragment].push(_filter)
+      }
+    })
+
+
+    //Map for "Has" filters.
+    //Checks if exists filters with their regex match 
+    //has a quantifiable amount to suggest an entry "Having [X]" 
+    ExistsFilters.map(({fragment, regex}) => {
+      if (node.rawBody.includes(`<${fragment}>`)) {
+        const matches = node.rawBody.match(regex); //Regex match based on fragment
+        
+        //If there's more than 0 matches, 
+        //this entry HAS fragment data.
+        if (matches.length > 0) 
+        {
+          if (!AllFilters['Has']) {
+            AllFilters['Has'] = [];
+          }
+
+          if (!filterData['Has']) {
+            filterData['Has'] = [];
+          }
+
+          const hasFilterData = {
+            label: fragment,
+            key: fragment,
+            set: 'Has'
+          };
+
+          filterData['Has'].push(hasFilterData)
+          AllFilters['Has'].push(hasFilterData)
+        }
       }
     })
 
