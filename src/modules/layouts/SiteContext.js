@@ -3,7 +3,7 @@
 // You'll most likely see the use of useSite to access context.
 import React, { createContext, useContext, useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import { sanitizeFilter, flattenFilter } from "@utils"
+import { sanitizeFilter, flattenFilter, markdownLinkRegex } from "@utils"
 
 export const SiteContext = createContext()
 
@@ -42,7 +42,7 @@ const SiteProvider = ({ children, value }) => {
   `)
 
   const AllFilters = {}
-  const ExistsFilters = [{fragment: "Games", regex: /\[([^\[]+)\](\(.*\))/gm}]
+  const ExistsFilters = [{fragment: "Games", regex: markdownLinkRegex, label: "Games available"}]
   const filterFragments = ["Skills", "Location"] //<- Update this to match React Fragment keynames for filtering!
 
   //Transform that data into something consumable (People, Companies)
@@ -76,13 +76,17 @@ const SiteProvider = ({ children, value }) => {
     //Map for "Has" filters.
     //Checks if exists filters with their regex match 
     //has a quantifiable amount to suggest an entry "Having [X]" 
-    ExistsFilters.map(({fragment, regex}) => {
+    ExistsFilters.map(({fragment, label, regex}) => {
+      
       if (node.rawBody.includes(`<${fragment}>`)) {
-        const matches = node.rawBody.match(regex); //Regex match based on fragment
-        
-        //If there's more than 0 matches, 
-        //this entry HAS fragment data.
-        if (matches.length > 0) 
+        const fragmentBody = node.rawBody.substring(
+          node.rawBody.lastIndexOf(`<${fragment}>`) + (fragment.length + 3),
+          node.rawBody.lastIndexOf(`</${fragment}>`)
+        )
+
+        //If there's a match on our regex
+        //this entry HAS the fragment data.
+        if (regex.test(fragmentBody))
         {
           if (!AllFilters['Has']) {
             AllFilters['Has'] = [];
@@ -93,7 +97,7 @@ const SiteProvider = ({ children, value }) => {
           }
 
           const hasFilterData = {
-            label: fragment,
+            label: label || fragment,
             key: fragment,
             set: 'Has'
           };
