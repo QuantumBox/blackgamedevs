@@ -5,43 +5,28 @@
 // but if you know your way around, go crazy :)
 //** @jsx jsx */
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import { MDXProvider } from "@mdx-js/react"
-import { MDXRenderer } from "gatsby-plugin-mdx"
+import Link from "@modules/utility/Link"
 import { Box, jsx } from "theme-ui"
-
-import shortcodes from "@ui/shortcodes"
-
 const Footer = () => {
-  const { allMdx: edges } = useStaticQuery(graphql`
-    query GetFooter {
-      allMdx(filter: { fileAbsolutePath: { regex: "/footer.mdx/" } }) {
-        edges {
-          node {
-            body
-          }
-        }
-      }
-    }
-  `)
-
-  if (edges.edges[0] === undefined) {
-    return <></>
-  }
-
   return (
     <Box
       sx={{
-        "& > *": { color: "primary" },
+        color: "primary",
         fontFamily: "heading",
         borderTop: "1px dotted",
         borderColor: "border",
         mt: "3rem",
+        pt: 3
       }}
     >
-      <MDXProvider components={shortcodes}>
-        <MDXRenderer>{edges.edges[0].node.body}</MDXRenderer>
-      </MDXProvider>
+      A project by 
+      <Link to="https://quantumbox.itch.io/" sx={{ml: 1}}>Arthur Ward, Jr.</Link>, 
+       <Link to="https://cattsmall.com" sx={{ml: 1}}>Catt Small</Link>,
+      & <Link to="https://chrisalgoo.com"> Chris Agloo</Link>.
+       Want to add to the list? <Link to="https://github.com/QuantumBox/blackgamedevs#want-to-add-someone-to-the-list">Go here.</Link>
+      <br/>
+      <br/>
+      Maxed out with love by <Link to="https://rejontaylor.com">Réjon Taylor-Foster (@Maximum_Crash)</Link>
     </Box>
   )
 }

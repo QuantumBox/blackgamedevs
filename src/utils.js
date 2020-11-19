@@ -55,3 +55,5 @@ export const flattenFilter = filtersOfSet =>
       return acc
     }
   }, [])
+
+  export const markdownLinkRegex = /\[([^\[]+)\](\(.*\))/gm;
