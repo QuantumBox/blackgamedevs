@@ -4,6 +4,10 @@ A list of Black people who make games. Here they are. Hire them. Buy their stuff
 ## Want to add someone to the list?
 There are three ways to do so.
 
+### Easiest way
+
+Fill out this form: https://forms.gle/M3SVa3YE4F1kLm8p7
+
 ### The good way (quickest)
 
 1. Clone this repository
