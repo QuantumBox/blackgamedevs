@@ -21,7 +21,7 @@ const Link = ({
   const hasHTTP = /^(http|https):\/\//i.test(linkHref)
 
   if (!hasHTTP) {
-    linkHref = `https://${linkHref}`
+    linkHref = `http://${linkHref}`
   } else if (!/^(https)?:\/\//i.test(linkHref)) {
     linkHref = linkHref.replace(/^http?:\/\//, "https://")
   }
