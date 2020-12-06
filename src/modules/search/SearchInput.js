@@ -65,17 +65,15 @@ const SearchInput = () => {
           q.term(token.toString(), { fields: ["skills"], boost: 3 })
         })
       })
-      .map(({ ref }) => {
-        if (AllData[ref] === undefined) {
-          console.log("UNDEFINED", AllData[ref], ref);
-        }
+      .map(({ref}) => {
+
         return AllData[ref]
       })
 
     //console.log(searchResults.slice(0,20));
     //console.log(searchResults.reduce((obj, item) => (obj[item.id] = {...item}, obj) ,{}));
 
-    //setResults(searchResults)
+    setResults(searchResults)
   }
 
   const autoSubmitForm = debounce(() => {

@@ -70,7 +70,9 @@ const createIndex = async (dirNodes, type, cache) => {
       id,
       type: node.frontmatter.isCompany ? "companies" : "people", //NOTE(Rejon): This is hardcoded, but if there will be more than people and companies, change the frontmatter to be a string instead.
     }
-    documents.push(doc)
+
+    documents.push(doc);
+
     store[id] = {
       id: doc.id,
       type: doc.type,
