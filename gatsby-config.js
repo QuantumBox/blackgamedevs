@@ -110,15 +110,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: "Poppins",
-            variants: [`300`, `400`, `700`],
-          },
+          `poppins\:300,400,700`
         ],
-      },
+        display: 'swap'
+      }
     },
     {
       //NOTE(Rejon): This is what allows us to do aliased imports like "@modules/ect..."

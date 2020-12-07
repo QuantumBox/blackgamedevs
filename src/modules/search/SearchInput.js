@@ -30,11 +30,11 @@ const SearchInput = () => {
       keywords === null ||
       keywords === undefined) && results !== AllData
     ) {
-      if (results !== []) {
+      if (results.length !== 0) {
         setResults(AllData)
       }
 
-      return
+      return; //Don't run the query below.
     }
 
     //"Keywords" is taking our query and transforming each word by a space into a keyword to query for.
@@ -65,9 +65,13 @@ const SearchInput = () => {
           q.term(token.toString(), { fields: ["skills"], boost: 3 })
         })
       })
-      .map(({ ref }) => {
+      .map(({ref}) => {
+
         return AllData[ref]
       })
+
+    //console.log(searchResults.slice(0,20));
+    //console.log(searchResults.reduce((obj, item) => (obj[item.id] = {...item}, obj) ,{}));
 
     setResults(searchResults)
   }

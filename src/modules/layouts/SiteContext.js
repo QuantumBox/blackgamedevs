@@ -117,6 +117,7 @@ const SiteProvider = ({ children, value }) => {
     )
   }, {})
 
+
   const [filters, setFilters] = useState([]) //Filter State
   const [results, setResults] = useState(AllData) //Current search query
 
