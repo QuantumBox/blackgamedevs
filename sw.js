@@ -35,18 +35,18 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "8627cf7a7d8fd571630c45b4e4974303"
+    "revision": "96a7c2787965b2af870e39670712d9ec"
   },
   {
     "url": "404/index.html",
-    "revision": "9bff00ec980f40aaaf44dd98aaa87a76"
+    "revision": "fd848d06de6fe49646ec6dcdc3d79c0c"
   },
   {
-    "url": "app-bdad56896d28cadfc288.js"
+    "url": "app-42b4d2c0d344784a76c6.js"
   },
   {
-    "url": "app-bdad56896d28cadfc288.js.map",
-    "revision": "685099a58e02fc20216778f808839a7a"
+    "url": "app-42b4d2c0d344784a76c6.js.map",
+    "revision": "3e13971555f0e26fff94024a39488e0d"
   },
   {
     "url": "back-to-top.svg",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "ccfdb0eb7100f4dccdb818a30d206321"
+    "revision": "cdd722f709c49296f9c6b3d4a2823256"
   },
   {
     "url": "CNAME",
@@ -75,15 +75,19 @@ self.__precacheManifest = [
     "revision": "f1af83addf0a5677536b39fbcb4837e0"
   },
   {
-    "url": "component---src-pages-index-js-9e267a4bc00430ac3b03.js"
+    "url": "component---src-pages-index-js-25df84d5763d3ebe32d8.js"
   },
   {
-    "url": "component---src-pages-index-js-9e267a4bc00430ac3b03.js.map",
-    "revision": "a400929ce530adc29fd15b2d2a418c5f"
+    "url": "component---src-pages-index-js-25df84d5763d3ebe32d8.js.map",
+    "revision": "328227cfa402c914b1e2e75018830a35"
   },
   {
     "url": "directory_images/Adewale_Haroun_v1.webp",
     "revision": "cc06df19a15865fa7a530872d3055fef"
+  },
+  {
+    "url": "directory_images/Ahmed_Abdullah.webp",
+    "revision": "59e18471344ee1af9b764ee564d14ef2"
   },
   {
     "url": "directory_images/Ajari_Wilson_v1.webp",
@@ -150,12 +154,20 @@ self.__precacheManifest = [
     "revision": "7504c4ab3829a8c98013d272cbbf17fa"
   },
   {
+    "url": "directory_images/Bonnie_Harris_Lowe.jpg",
+    "revision": "290eed655f3ce7e70941a9f281f0af56"
+  },
+  {
     "url": "directory_images/Catt_Small_v1.webp",
     "revision": "b649122c1a0a2ac84ba540f1ff043a6d"
   },
   {
     "url": "directory_images/Cedric_J_Adams_v1.webp",
     "revision": "13f6365874f23c0df49155991696bde2"
+  },
+  {
+    "url": "directory_images/Chris_Kindred.jpeg",
+    "revision": "7f4bc23e5187808f96b3d1c4ee6c8980"
   },
   {
     "url": "directory_images/Chris_Wells_v1.webp",
@@ -168,6 +180,10 @@ self.__precacheManifest = [
   {
     "url": "directory_images/DanDylan_Lavictoire_v1.webp",
     "revision": "313fcb84d9ee5fe7413cd3fb16087353"
+  },
+  {
+    "url": "directory_images/Dani_Dee.png",
+    "revision": "c33154da74598f1ec167a318f36a0832"
   },
   {
     "url": "directory_images/Dani_Lalonders_v1.webp",
@@ -188,6 +204,10 @@ self.__precacheManifest = [
   {
     "url": "directory_images/DVNC_Tech_v1.webp",
     "revision": "288a4524ac06d31c5fa4f930d7d9e162"
+  },
+  {
+    "url": "directory_images/e03b9a49b11dd2af2e6cabc60a12bdbfde4c3e67r1-500-170_hq.gif",
+    "revision": "9535da159d02a7a57826714fa439bd23"
   },
   {
     "url": "directory_images/Edible_Entertainment_v1.webp",
@@ -224,6 +244,14 @@ self.__precacheManifest = [
   {
     "url": "directory_images/Jord_Farrell_v1.webp",
     "revision": "e62da986961d8b078c9b7d70e2e33f81"
+  },
+  {
+    "url": "directory_images/Jordan_Jones-Brewster.jpg",
+    "revision": "4fce010bf84eef112203030660af4c00"
+  },
+  {
+    "url": "directory_images/Khalil_Abdullah.webp",
+    "revision": "eebc13e7b49bfcb22b7423be1b24a69a"
   },
   {
     "url": "directory_images/KIROO_Games_v1.webp",
@@ -302,6 +330,10 @@ self.__precacheManifest = [
     "revision": "ac2dcaaaa456a6aff72b1e56e202e11a"
   },
   {
+    "url": "directory_images/Sharon_Ann_Gladden.png",
+    "revision": "a1d8ea76af46788a1b4ddaa8da616e26"
+  },
+  {
     "url": "directory_images/Sholto_Tiger_Collins_v1.webp",
     "revision": "d0ac1f91889ed4b4829218e5a4e4047b"
   },
@@ -324,6 +356,10 @@ self.__precacheManifest = [
   {
     "url": "directory_images/TJ_Hughes_Terrifying_Jellyfish_v1.gif",
     "revision": "62fb730472af7fec36bf8b9cb1283be1"
+  },
+  {
+    "url": "directory_images/Tony_Barnes.jpg",
+    "revision": "080f841775aab2542018cf7d85a21e65"
   },
   {
     "url": "directory_images/TQ_Jefferson_v1.webp",
@@ -350,6 +386,10 @@ self.__precacheManifest = [
     "revision": "92856bcefe775863f45eb7829aa3b786"
   },
   {
+    "url": "directory_images/Wayne_Messam.png",
+    "revision": "1ff04f8cb4f41662145ce6e7a7e97fde"
+  },
+  {
     "url": "directory_images/Whim_Independent_Studios_v1.webp",
     "revision": "1941c41c30f09b753ef12a751f7ee5b0"
   },
@@ -367,30 +407,6 @@ self.__precacheManifest = [
   {
     "url": "framework-dd95e8b3d258d85252e9.js.map",
     "revision": "dc018e62b3b01ec872b1a8ee8f5883f5"
-  },
-  {
-    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLCz7Z1xlEw.woff",
-    "revision": "05c0ebe6c48bf8062f16cb0bb6b00218"
-  },
-  {
-    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
-    "revision": "f4f17fd53c7d040e56f91a3ecb692b22"
-  },
-  {
-    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLDz8Z1xlEw.woff",
-    "revision": "081c758544b2bd948eb5d9cc419a597e"
-  },
-  {
-    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
-    "revision": "9ddc04912d6e8f88d9de4045b8b89c59"
-  },
-  {
-    "url": "google-fonts/s/poppins/v12/pxiEyp8kv8JHgFVrJJfecg.woff2",
-    "revision": "9ed361bba8488aeb2797b82befda20f1"
-  },
-  {
-    "url": "google-fonts/s/poppins/v12/pxiEyp8kv8JHgFVrJJfedA.woff",
-    "revision": "4fc29212bd42883c45edd0bfbd91ad72"
   },
   {
     "url": "icon-business.svg",
@@ -517,7 +533,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b00db5af2ed10ab1b51800a0ccc16cfb"
+    "revision": "50a0d3b05902ad16301a7736e6d13406"
   },
   {
     "url": "loading.png",
@@ -541,7 +557,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "a5e5bc707cc467830b2f9e9955214aa8"
+    "revision": "801384c69b8bf934c1386f203fed5f25"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -553,7 +569,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "737e4e023227862b6270e43d0490f4e7"
+    "revision": "fa1596bf363c92ff9c24c212fc9fbe66"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -585,24 +601,21 @@ self.__precacheManifest = [
     "url": "static/d/3595299048.json"
   },
   {
-    "url": "static/d/3599092153.json"
-  },
-  {
     "url": "static/d/3856722062.json"
   },
   {
     "url": "static/no-company-image-153041c5fc8829bccf58691403f06e8d.png"
   },
   {
-    "url": "webpack-runtime-e4bc35c0220ae070f537.js"
+    "url": "webpack-runtime-1aa292b7a13777c273f0.js"
   },
   {
-    "url": "webpack-runtime-e4bc35c0220ae070f537.js.map",
-    "revision": "5ea172df025fa3bfc4c3b2c183e3daa6"
+    "url": "webpack-runtime-1aa292b7a13777c273f0.js.map",
+    "revision": "17bfe25a2a8552c0b6dfc52cfdf8d10c"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "48f100fb699ceff42c33da91f14dcf8f"
+    "revision": "c43b7d2a7a05d91600a1075100ff1be9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -695,7 +708,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-bdad56896d28cadfc288.js`))) {
+  if (!resources || !(await caches.match(`/app-42b4d2c0d344784a76c6.js`))) {
     return await fetch(event.request)
   }
 
