@@ -35,18 +35,18 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "48cd2a6831a2facf4cf889a4bd7ce55c"
+    "revision": "45401b3634c204336cf8074f69d4fe66"
   },
   {
     "url": "404/index.html",
-    "revision": "55479747efe0adcd6b11a34e89b9c358"
+    "revision": "bf7774c7677450fa26664b48a508724a"
   },
   {
-    "url": "app-e79404e04f410659a289.js"
+    "url": "app-cbc8668254d7d0ae711b.js"
   },
   {
-    "url": "app-e79404e04f410659a289.js.map",
-    "revision": "bbbdc93f6149823b10a1a5ea4a02e25e"
+    "url": "app-cbc8668254d7d0ae711b.js.map",
+    "revision": "1343d3921aef22644dfb3d0b6f7345f9"
   },
   {
     "url": "back-to-top.svg",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "8d1d564722aef1facc949c72216fc6de"
+    "revision": "8ab180f0f877cf0a7fc94935ce147487"
   },
   {
     "url": "CNAME",
@@ -75,11 +75,11 @@ self.__precacheManifest = [
     "revision": "f1af83addf0a5677536b39fbcb4837e0"
   },
   {
-    "url": "component---src-pages-index-js-b510b0e2d4b783468ba3.js"
+    "url": "component---src-pages-index-js-36ca59b2e7cfbd8344d8.js"
   },
   {
-    "url": "component---src-pages-index-js-b510b0e2d4b783468ba3.js.map",
-    "revision": "a03a956390d1c82a1647aa8c137b6eec"
+    "url": "component---src-pages-index-js-36ca59b2e7cfbd8344d8.js.map",
+    "revision": "57cb563e37db6d97b68da23186c85f39"
   },
   {
     "url": "directory_images/Adewale_Haroun_v1.webp",
@@ -304,6 +304,10 @@ self.__precacheManifest = [
   {
     "url": "directory_images/Noohkema_Interactive_v1.webp",
     "revision": "57c091326d3efbb4097e28a1ac90f645"
+  },
+  {
+    "url": "directory_images/Nwanna_Joseph.jpg",
+    "revision": "ca0c3100b514a9eb1b818ad55418101c"
   },
   {
     "url": "directory_images/Nyabingi_Studio_v1.webp",
@@ -537,7 +541,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "87c4f8a8c4c4a6825e814fcd03ac450e"
+    "revision": "57239a6c898681b6db8bed81199bd4d0"
   },
   {
     "url": "loading.png",
@@ -561,7 +565,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "09f3c7c8927de5ee29067f39679b54f6"
+    "revision": "66e83a51a42dd1e938fa0672815e4cbe"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -573,7 +577,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "01d11684cadbc1b09949cd26d10159d9"
+    "revision": "660b594bf33c7d1a1791dcb08a2a8174"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -611,15 +615,15 @@ self.__precacheManifest = [
     "url": "static/no-company-image-153041c5fc8829bccf58691403f06e8d.png"
   },
   {
-    "url": "webpack-runtime-6546eacd82ebad5fa7d0.js"
+    "url": "webpack-runtime-e0da3a1a9e87b25cac2a.js"
   },
   {
-    "url": "webpack-runtime-6546eacd82ebad5fa7d0.js.map",
-    "revision": "8a66223194273bb415b948a359a4a911"
+    "url": "webpack-runtime-e0da3a1a9e87b25cac2a.js.map",
+    "revision": "900eb5cb19fe31027de18b9eb325d078"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "2ff29cde32e4e36c9041e32ffce69a17"
+    "revision": "1ddb62815217d6655ddd9df4e47f80dd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -712,7 +716,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-e79404e04f410659a289.js`))) {
+  if (!resources || !(await caches.match(`/app-cbc8668254d7d0ae711b.js`))) {
     return await fetch(event.request)
   }
 
