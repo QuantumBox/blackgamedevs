@@ -35,18 +35,18 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "45401b3634c204336cf8074f69d4fe66"
+    "revision": "7e7f3549801edecf2d8431843cf96fa3"
   },
   {
     "url": "404/index.html",
-    "revision": "bf7774c7677450fa26664b48a508724a"
+    "revision": "e7ae70b14c1ab797d03654987bce5c17"
   },
   {
-    "url": "app-cbc8668254d7d0ae711b.js"
+    "url": "app-449bb49cc83408e20292.js"
   },
   {
-    "url": "app-cbc8668254d7d0ae711b.js.map",
-    "revision": "1343d3921aef22644dfb3d0b6f7345f9"
+    "url": "app-449bb49cc83408e20292.js.map",
+    "revision": "6e852e03f99be9a4ab3762229ff80108"
   },
   {
     "url": "back-to-top.svg",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "8ab180f0f877cf0a7fc94935ce147487"
+    "revision": "3dd8a3eaa216c88bd7e346fc3eaaec4d"
   },
   {
     "url": "CNAME",
@@ -75,11 +75,11 @@ self.__precacheManifest = [
     "revision": "f1af83addf0a5677536b39fbcb4837e0"
   },
   {
-    "url": "component---src-pages-index-js-36ca59b2e7cfbd8344d8.js"
+    "url": "component---src-pages-index-js-57ea0067e5c7e56cf174.js"
   },
   {
-    "url": "component---src-pages-index-js-36ca59b2e7cfbd8344d8.js.map",
-    "revision": "57cb563e37db6d97b68da23186c85f39"
+    "url": "component---src-pages-index-js-57ea0067e5c7e56cf174.js.map",
+    "revision": "20764408fffad8995c35c869b31e7d35"
   },
   {
     "url": "directory_images/Adewale_Haroun_v1.webp",
@@ -338,6 +338,10 @@ self.__precacheManifest = [
     "revision": "ac2dcaaaa456a6aff72b1e56e202e11a"
   },
   {
+    "url": "directory_images/Roger_Mitchell.jpg",
+    "revision": "38698af0f5b4fb4a2c845908c9e0f8c9"
+  },
+  {
     "url": "directory_images/Sharon_Ann_Gladden.png",
     "revision": "a1d8ea76af46788a1b4ddaa8da616e26"
   },
@@ -541,7 +545,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "57239a6c898681b6db8bed81199bd4d0"
+    "revision": "79130e2fc6f839ca544dcd77454a468d"
   },
   {
     "url": "loading.png",
@@ -565,7 +569,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "66e83a51a42dd1e938fa0672815e4cbe"
+    "revision": "24d312bea6bf11be569bd93b8e837b47"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -577,7 +581,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "660b594bf33c7d1a1791dcb08a2a8174"
+    "revision": "02623c1cc3d8ef88613d916e82b9a9f1"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -615,15 +619,15 @@ self.__precacheManifest = [
     "url": "static/no-company-image-153041c5fc8829bccf58691403f06e8d.png"
   },
   {
-    "url": "webpack-runtime-e0da3a1a9e87b25cac2a.js"
+    "url": "webpack-runtime-44e384d1f4f1b1a502e8.js"
   },
   {
-    "url": "webpack-runtime-e0da3a1a9e87b25cac2a.js.map",
-    "revision": "900eb5cb19fe31027de18b9eb325d078"
+    "url": "webpack-runtime-44e384d1f4f1b1a502e8.js.map",
+    "revision": "6171638ed7a10a31c914c962ad64c6d7"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "1ddb62815217d6655ddd9df4e47f80dd"
+    "revision": "a08a8aa25dfa456ddf11136ce249cd3c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -716,7 +720,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-cbc8668254d7d0ae711b.js`))) {
+  if (!resources || !(await caches.match(`/app-449bb49cc83408e20292.js`))) {
     return await fetch(event.request)
   }
 
