@@ -209,7 +209,7 @@ const Filters = () => {
       <SmoothCollapse
         expanded={filtersOpen}
         ref={filterListEl}
-        sx={{ pl: "1rem", pr: "1rem", mt: ".24rem", maxHeight: ['73vh', 'unset', 'unset'], overflow: filtersOpen ? 'auto !important' : 'hidden' }}
+        sx={{ pl: "1rem", pr: "1rem", mt: ".24rem", maxHeight: ['73vh', '64vh', '64vh'], overflow: filtersOpen ? 'auto !important' : 'hidden' }}
       >
         
         {Object.keys(AllFilters).map((set, index) => (

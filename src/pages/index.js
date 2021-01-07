@@ -9,7 +9,7 @@ import Search from "@search"
 import {filterObjectData} from '@utils';
 
 const Index = ({ data, location }) => {
-  const { filters, results } = useSite()
+  const { filters, results, filterOption } = useSite()
   const peopleResults = Object.values(
     filterObjectData(
       results,

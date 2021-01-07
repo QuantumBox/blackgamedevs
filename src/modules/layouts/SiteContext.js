@@ -119,6 +119,7 @@ const SiteProvider = ({ children, value }) => {
 
 
   const [filters, setFilters] = useState([]) //Filter State
+  const [filterOption, setFilterOption] = useState("AND") //Filter Option (AND/OR)
   const [results, setResults] = useState(AllData) //Current search query
 
   //Ensure unique filters.
@@ -178,6 +179,7 @@ const SiteProvider = ({ children, value }) => {
         setResults,
         AllData,
         AllFilters,
+        filterOption
       }}
     >
       {children}

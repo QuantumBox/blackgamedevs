@@ -9,8 +9,6 @@ export const groupBy = (arr, property) => {
 //Filter an object's data by a predicate.
 export const filterObjectData  = (obj, predicate) =>
 {
-  //TODO(Rejon): Error with filtering. When passing results from search object keys are integers and not UUIDs. 
-
     return Object.keys(obj)
     .filter(key => predicate(obj[key]))
     .reduce((res, key) => ((res[key] = obj[key]), res), {})
