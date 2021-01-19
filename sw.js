@@ -35,18 +35,18 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "7e7f3549801edecf2d8431843cf96fa3"
+    "revision": "a687b2bcc5447120e7f7c3f87847e4da"
   },
   {
     "url": "404/index.html",
-    "revision": "e7ae70b14c1ab797d03654987bce5c17"
+    "revision": "1896a81736ef5b1a41e1a2a5229a356b"
   },
   {
-    "url": "app-449bb49cc83408e20292.js"
+    "url": "app-629b878626e543f7510b.js"
   },
   {
-    "url": "app-449bb49cc83408e20292.js.map",
-    "revision": "6e852e03f99be9a4ab3762229ff80108"
+    "url": "app-629b878626e543f7510b.js.map",
+    "revision": "54f2d31bdd0af15507775a27f8a2d78a"
   },
   {
     "url": "back-to-top.svg",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "3dd8a3eaa216c88bd7e346fc3eaaec4d"
+    "revision": "a7ef0fc2d02bb7142e4e7d8415d6ced9"
   },
   {
     "url": "CNAME",
@@ -75,11 +75,11 @@ self.__precacheManifest = [
     "revision": "f1af83addf0a5677536b39fbcb4837e0"
   },
   {
-    "url": "component---src-pages-index-js-57ea0067e5c7e56cf174.js"
+    "url": "component---src-pages-index-js-14d87c95424feb084369.js"
   },
   {
-    "url": "component---src-pages-index-js-57ea0067e5c7e56cf174.js.map",
-    "revision": "20764408fffad8995c35c869b31e7d35"
+    "url": "component---src-pages-index-js-14d87c95424feb084369.js.map",
+    "revision": "78b2f735522fe635e86ec85e71c1fa36"
   },
   {
     "url": "directory_images/Adewale_Haroun_v1.webp",
@@ -112,6 +112,10 @@ self.__precacheManifest = [
   {
     "url": "directory_images/Algorythmic_Studios_v1.webp",
     "revision": "10a1d4f6ac65fef9c9d3e35e820d345c"
+  },
+  {
+    "url": "directory_images/Amber-Leigh_Blake.jpg",
+    "revision": "dc56e7756907b39cb517bc137e05d9b5"
   },
   {
     "url": "directory_images/Andreas_J_Hester_v1.webp",
@@ -240,6 +244,10 @@ self.__precacheManifest = [
   {
     "url": "directory_images/Hughes_Who_Technologies_Studio_v1.webp",
     "revision": "7a13e23ff38462ab247cdb31213e26f6"
+  },
+  {
+    "url": "directory_images/Jerrell_Bennett.jpeg",
+    "revision": "cfca33ae82634169535c9a6dec9acd98"
   },
   {
     "url": "directory_images/Jord_Farrell_v1.webp",
@@ -545,7 +553,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "79130e2fc6f839ca544dcd77454a468d"
+    "revision": "7361c3ac7d01a8226df0ebb54155d0eb"
   },
   {
     "url": "loading.png",
@@ -569,7 +577,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "24d312bea6bf11be569bd93b8e837b47"
+    "revision": "9b4f244b874a06458457d8c6af56c852"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -581,7 +589,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "02623c1cc3d8ef88613d916e82b9a9f1"
+    "revision": "a2fa753382e242cffb4f2b3af331e371"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -619,15 +627,15 @@ self.__precacheManifest = [
     "url": "static/no-company-image-153041c5fc8829bccf58691403f06e8d.png"
   },
   {
-    "url": "webpack-runtime-44e384d1f4f1b1a502e8.js"
+    "url": "webpack-runtime-6a613449de31d9d8fe2c.js"
   },
   {
-    "url": "webpack-runtime-44e384d1f4f1b1a502e8.js.map",
-    "revision": "6171638ed7a10a31c914c962ad64c6d7"
+    "url": "webpack-runtime-6a613449de31d9d8fe2c.js.map",
+    "revision": "bf4fd4cca762df70c693499a5e9634cc"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "a08a8aa25dfa456ddf11136ce249cd3c"
+    "revision": "21e46e467a9568ba485e8f50d9a134bf"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -720,7 +728,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-449bb49cc83408e20292.js`))) {
+  if (!resources || !(await caches.match(`/app-629b878626e543f7510b.js`))) {
     return await fetch(event.request)
   }
 
