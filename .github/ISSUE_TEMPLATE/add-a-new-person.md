@@ -14,7 +14,7 @@ Location (ie. United States, Kenya, Brazil, ect.)
 
 </Location>
 
-![Image Name](IMAGE URL)
+![Image Name](/directory_images/File_Name.imageEnding)
 
 <Skills>
 
