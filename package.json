@@ -20,7 +20,7 @@
     "gatsby-plugin-preconnect": "^1.1.54",
     "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-robots-txt": "^1.5.1",
-    "gatsby-plugin-sharp": "^2.6.4",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-sitemap": "^2.4.7",
     "gatsby-plugin-theme-ui": "^0.3.0",
     "gatsby-remark-images": "^3.3.9",
